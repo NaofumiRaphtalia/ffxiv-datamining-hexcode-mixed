@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_000","あらあら、もしかして農地に興味深々？<hex:02100103>知りたいことがあるなら、アタシが教えてあげるわ。"
+0,"TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_000","あらあら、もしかして農地に興味津々？<hex:02100103>知りたいことがあるなら、アタシが教えてあげるわ。"
 1,"TEXT_REGSAK6YYUPYESHALO_00885_Q1_000_000","何を聞く？"
 2,"TEXT_REGSAK6YYUPYESHALO_00885_A1_000_001","あなたのことを教えてほしい"
 3,"TEXT_REGSAK6YYUPYESHALO_00885_A1_000_002","ここはどんなところだ？"
