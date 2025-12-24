@@ -40,14 +40,15 @@ const unpack = (lang: AvailableLang) => {
     process.exit(1);
   }
 
-  // 清理旧文件
-  fs.rmSync(path.resolve(__dirname, `../${lang}`), { recursive: true, force: true });
+  const targetDir = path.resolve(__dirname, `../${lang}`);
 
-  const outputPath = `../../${lang}`;
-  fs.mkdirSync(outputPath, { recursive: true });
+  fs.rmSync(targetDir, { recursive: true, force: true });
+  fs.mkdirSync(targetDir, { recursive: true });
 
   console.log(`开始进行 ${lang} 的解包...`);
-  execSync(`"${unpackerPath}" "${gamePath}" ${lang} rawexd "${outputPath}"`, { stdio: "inherit", cwd: path.dirname(unpackerPath) });
+
+  const args = [`"${unpackerPath}"`, `"${gamePath}"`, lang, "rawexd", `"${targetDir}"`];
+  execSync(args.join(" "), { stdio: "inherit", cwd: path.dirname(unpackerPath) });
 };
 
 const server = process.argv[2] as AvailableLang;
