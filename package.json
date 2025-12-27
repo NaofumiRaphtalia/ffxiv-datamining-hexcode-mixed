@@ -7,6 +7,9 @@
     "unpack:chs": "ts-node scripts/unpack.ts chs",
     "unpack:en": "ts-node scripts/unpack.ts en",
     "unpack:ja": "ts-node scripts/unpack.ts ja",
+    "unpack:de": "ts-node scripts/unpack.ts de",
+    "unpack:fr": "ts-node scripts/unpack.ts fr",
+    "unpack:ko": "ts-node scripts/unpack.ts ko",
     "unpack:tc": "ts-node scripts/unpack.ts tc"
   },
   "dependencies": {

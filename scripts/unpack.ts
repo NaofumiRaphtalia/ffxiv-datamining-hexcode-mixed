@@ -3,7 +3,7 @@ import path from "path";
 import { execSync } from "child_process";
 import AppConfig from "../config.json";
 
-const availableLangs = ["chs", "en", "ja", "tc"] as const;
+const availableLangs = ["chs", "en", "ja", "de", "fr", "ko", "tc"] as const;
 type AvailableLang = (typeof availableLangs)[number];
 
 const getServer = (lang: AvailableLang) => {
@@ -14,6 +14,12 @@ const getServer = (lang: AvailableLang) => {
       return "global";
     case "ja":
       return "global";
+    case "de":
+      return "global";
+    case "fr":
+      return "global";
+    case "ko":
+      return "ko";
     case "tc":
       return "tc";
     default:
