@@ -2,7 +2,7 @@
 
 复刻自 [InfSein/ffxiv-datamining-mixed](https://github.com/InfSein/ffxiv-datamining-mixed)，但输出 hexcode 格式，以供汉化工具使用。
 
-从 国服7.38／国际服7.38／繁中服7.0 开始提供。
+从 国服7.38／国际服7.38／繁中服7.0／韩服7.35 开始提供。只保证 chs、en、ja 语言第一时间更新，其余的随缘。
 
 ## 本地解包
 
@@ -29,6 +29,9 @@
    | `npm run unpack:chs` | 解包国服文本，输出简体中文的csv到 `chs` 目录下。 |
    | `npm run unpack:en`  | 解包国际服文本，输出英文的csv到 `en` 目录下。    |
    | `npm run unpack:ja`  | 解包国际服文本，输出日文的csv到 `ja` 目录下。    |
+   | `npm run unpack:de`  | 解包国际服文本，输出德文的csv到 `de` 目录下。    |
+   | `npm run unpack:fr`  | 解包国际服文本，输出法文的csv到 `fr` 目录下。    |
+   | `npm run unpack:ko`  | 解包韩服文本，输出韩文的csv到 `ko` 目录下。    |
    | `npm run unpack:tc`  | 解包繁中服文本，输出繁体中文的csv到 `tc` 目录下。    |
 
 如此即可完成初次解包。
