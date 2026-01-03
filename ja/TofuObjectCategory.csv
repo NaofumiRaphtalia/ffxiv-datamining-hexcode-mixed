@@ -1,0 +1,11 @@
+﻿key,0,1,2,3
+#,,,,Name
+offset,7,4,6,0
+Int32,PackedBool0,UInt16,UInt8,String
+0,False,0,255,""
+1,True,5,5,"フィールド"
+2,True,1,1,"クラス/ジョブ"
+3,True,3,2,"アイコン/マーカー"
+4,True,4,3,"図形/記号"
+5,False,0,255,"グループ"
+6,True,2,0,"攻撃範囲"
