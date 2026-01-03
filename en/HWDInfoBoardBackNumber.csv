@@ -1,0 +1,9 @@
+﻿key,0,1,2
+#,,,
+offset,4,5,0
+Int32,UInt8,UInt8,String
+0,1,10,"First Restoration Phase"
+1,11,48,"Second Restoration Phase"
+2,49,79,"Third Restoration Phase"
+3,80,112,"Fourth Restoration Phase"
+4,113,125,""
