@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_000","Willkommen in der Enklave. Du bist <hex:020823E905FF10>die Heldin, die<hex:FF0E>der Held, der<hex:03> an König Hiens Seite gekämpft hat, nicht wahr? "
+1,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_010","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> ... Entschuldigt, ich meine natürlich <hex:02080FE905FF05>Frau<hex:FF05>Herr<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Es ist nur, weil König Hien Euch immer so nennt<hex:021D0103>..."
+2,"TEXT_REGOTH3DOMANENCLAVE_00415_Q1_000_100","Was möchtest du fragen?"
+3,"TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_101","Was machst du hier?"
+4,"TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_102","Was ist das für ein Ort?"
+5,"TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_103","Nichts."
+6,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_200","Ich heiße Yomogi. Als meine Eltern noch ihren Laden hatten, habe ich dort immer mitgeholfen."
+7,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_201","Früher gab es hier so viele Händler und Handwerker, aber davon ist jetzt nichts mehr zu sehen. Nun liegt es an uns, das Viertel wieder aufzubauen<hex:021D0103>..."
+8,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_300","Das hier ist die Enklave der Domaner, wie die Garlear sagten. Hier sind früher unzählige domanische Handwerker und Händler ihrem Tagewerk nachgegangen. Es war ein richtiges<hex:021D0103>... Geschäftsviertel nennt ihr das bei euch, nicht wahr?"
+9,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_301","Aber in dem Aufstand vor einem Jahr wurde fast alles zerstört. Die Überlebenden wurden von den Garlearn streng überwacht und kamen kaum über die Runden. An Wieder<hex:02160103>aufbau war gar nicht zu denken."
+10,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_302","Trotzdem sind wir immer noch besser dran als Monzen. Dieses Samurai-Viertel wurde ja ganz aufgebeben, nachdem es in Schutt und Asche gelegt worden war."
+11,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_303","Aber wir werden unsere Siedlung wieder aufbauen und zu einem neuen domanischen Zentrum machen! Auch wenn die Erinnerungen schmerzhaft sind. "
+12,"TEXT_REGOTH3DOMANENCLAVE_00415_TALK_ACTOR","（★未使用／削除予定★）"

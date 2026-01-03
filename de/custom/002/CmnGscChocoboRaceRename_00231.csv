@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02","Den Namen von <hex:022903EA0203> ändern? Von mir aus. Welcher neue Name soll es denn sein?"
+1,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02","Bitte beachte, dass die Umbenennung eines Renn-Chocobos 2.000 Gil kostet."
+2,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1","Möchtest du deinen Renn-Chocobo in <hex:022903EA0203> umbenennen? Die Umbenennung kostet <hex:022206E803FF022E03> Gil."
+3,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1","Ja"
+4,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2","Nein"
+5,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE","Ich muss sagen, das klingt wie ein Sieger ... <hex:022903EA0203>. Viel Erfolg mit dem neuen Namen - Ehre dem Ersten!"
+6,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR","Du möchtest deinem Renn-Chocobo einen neuen Namen geben? Welcher soll es denn sein?"
+7,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01","Hm? Du hast ja gar keinen Renn-Chocobo registriert."
+8,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02","Hier können nur Chocobos umbenannt werden, die als Renn-Chocobos registriert sind."
+9,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01","Wenn ich dich richtig verstehe, <hex:021A020203>möchtest<hex:021A020103> du die Gebühr bezahlen, du <hex:021A020203>kannst<hex:021A020103> sie bloß nicht bezahlen? Tut mir leid, aber ich bin kein Kreditunternehmen. Komm wieder, wenn du genug Geld zusammengekratzt hast."
+10,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01","Tut mir leid, aber mit diesem Namen kann ich deinen Rennvogel nicht zum Rennen zulassen."
+11,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02","Die gewünschte Namenskombination kann nicht als Chocobo-Name benutzt werden. Bitte wähle eine andere Kombination."
+12,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01","Aber ... das ist ja der gleiche Name wie vorher. Hast du es dir vielleicht anders überlegt? Gut, mir soll's recht sein."

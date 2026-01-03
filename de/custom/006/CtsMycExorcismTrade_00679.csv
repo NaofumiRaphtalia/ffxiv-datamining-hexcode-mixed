@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000","Komm später noch mal vorbei, wir haben noch nicht alles beisammen."
+1,"TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000","Was möchtest du tun?<hex:02100103>(Bozja-Polykristalle in Besitz: <hex:022003E80203>)"
+2,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000","Bevorzugte Teilnahme an kritischen Gefechten erwerben<hex:02100103>(Kosten: <hex:022003E80203> Bozja-Polykristalle)"
+3,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001","Gegenstände erwerben"
+4,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002","Mehr über Bozja-Polykristalle erfahren"
+5,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003","Abbrechen"
+6,"TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000","Bevorzugte Teilnahme an kritischen Gefechten erwerben?<hex:02100103>Bozja-Polykristalle in Besitz: <hex:022003E80203>"
+7,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001","Tut mir leid, aber du hast nicht genug Bozja-Polykristalle. Komm wieder, wenn du insgesamt <hex:022003E80203> gesammelt hast."
+8,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002","Verstanden. Sobald ein Hilfsgesuch eintrifft, schicke ich dich los."

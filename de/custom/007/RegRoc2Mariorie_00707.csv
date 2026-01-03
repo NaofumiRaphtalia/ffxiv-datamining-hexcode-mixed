@@ -1,0 +1,19 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000","<hex:022903EB0203>! Darf ich davon ausgehen, dass Euer Erscheinen hier und heute bedeutet, dass Ihr uns mit einer Kostprobe Eurer vorzüglichen Klavierkünste ehren möchtet? Ich werde das Ensemble umgehend zusammenrufen, <hex:02081AE905FF0B>meine Dame<hex:FF0A>mein Herr<hex:03>!"
+1,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001","Und sollte Euch der Sinn nach etwas Ausgefallenerem stehen, müsst Ihr es nur sagen. Ich kann Euch gerne eine etwas anspruchsvollere Komposition bereitstellen, wenn Ihr wünscht."
+2,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_002","（★未使用／削除予定★）"
+3,"TEXT_REGROC2MARIORIE_00707_Q1_000_000","Aufführung beginnen?"
+4,"TEXT_REGROC2MARIORIE_00707_A1_000_001","Konzert zur Himmelsstadtweihe (normal) wiederholen."
+5,"TEXT_REGROC2MARIORIE_00707_A1_000_002","Konzert zur Himmelsstadtweihe (schwer) wiederholen."
+6,"TEXT_REGROC2MARIORIE_00707_A1_000_003","Einen Moment noch."
+7,"TEXT_REGROC2MARIORIE_00707_A1_000_004","Bitte erläutere noch mal den Ablauf."
+8,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003","Verzeiht, ich wollte Euch nicht zum Spiel drängen. Bitte lasst Euch Zeit."
+9,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004","Das Konzert kann beginnen. Stimme deine Eingaben auf die Anzeigen auf dem Bildschirm ab."
+10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","Bei einem blauen Symbol (links) muss deine Eingabe erfolgen, wenn die Rauten sich überdecken.<hex:02100103>Bei einem orangen Symbol (Mitte) müssen mehrere schnelle Eingaben erfolgen, bis das Symbol verschwindet.<hex:02100103>Bei einem pinken Symbol (rechts) musst du deine Eingabe halten, bis die Rauten sich erneut überdecken."
+11,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006","Die Steuerung funktioniert wie folgt:"
+12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<hex:0208F20126E4E95101FFF0D2>Maus: Linksklick oder Rechtsklick irgendwo auf dem Bildschirm<hex:02100103>Tastatur: Eine beliebige unveränderte Standardtaste außer der Esc-Taste <hex:02100103>Der Direkt-Chatmodus wird vor<hex:02160103>über<hex:02160103>gehend deaktiviert.<hex:FF4C><hex:02081AE1E94C01FF0B>Controller<hex:FF08>Gamepad<hex:03>: Alle Tasten und Richtungstasten außer <hex:021E021303><hex:03> "
+13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","Drücke die Esc-Taste oder <hex:021E021303>, um das Pausenmenü aufzurufen. Von dort aus kannst du die Aufführung beenden."
+14,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Ich bereite gerade die Bühne für das nächste Konzert vor. Bitte meldet Euch später noch einmal, wenn Euch der Sinn nach einer weiteren Aufführung steht."

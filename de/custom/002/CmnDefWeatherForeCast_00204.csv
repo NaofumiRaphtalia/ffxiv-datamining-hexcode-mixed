@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_000","Der Wind und der Himmel verraten viel über die Entwicklung des Wetters in allen Teilen der Welt. Hier sind meine heutigen Prognosen."
+1,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>, sagst du? Da ist es momentan <hex:02280DFF08>Weather<hex:E8030303>.<hex:02100103>Das Wetter <hex:02087CE4E804E805FF2D>bleibt im Verlauf des Tages <hex:02280DFF08>Weather<hex:E8040303><hex:FF47>wechselt im Verlauf des Tages von <hex:02280DFF08>Weather<hex:E8040303> zu <hex:02280DFF08>Weather<hex:E8050303><hex:03>.<hex:02100103>Der morgige Tag sollte dann <hex:02280DFF08>Weather<hex:E8060303> werden."
+2,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>, sagst du? Da ist es heiter und trocken. So wie immer. Und so wird es auch morgen sein, es sei denn, es geschieht ein Wunder."
+3,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200","Verzeihung, aber zurzeit können für Norvrandt keine Wettervorhersagen getroffen werden."
+4,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300","Verzeihung, aber<hex:021D0103>... zurzeit vermag ich wirklich keine Wettervorhersage zu treffen<hex:021D0103>..."
+5,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_400","Verzeihung, aber<hex:021D0103>... zurzeit ist es schwer, eine ordentliche Vorhersage zu treffen<hex:021D0103>..."
+6,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_000","Herzlich willkommen beim Wetterkanal. Heute kann es stürmen, regnen oder schneien, wir sorgen dafür, dass du selbst strahlst wie der Sonnenschein<hex:021D0103>- und dich für alles rüsten kannst, was vom Himmel fällt."
+7,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_050","In <hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103> ist es momentan <hex:02280DFF08>Weather<hex:E8030303>.<hex:02100103>Das Wetter <hex:02087CE4E804E805FF2D>bleibt im Verlauf des Tages <hex:02280DFF08>Weather<hex:E8040303><hex:FF47>wechselt im Verlauf des Tages von <hex:02280DFF08>Weather<hex:E8040303> zu <hex:02280DFF08>Weather<hex:E8050303><hex:03>.<hex:02100103>Der morgige Tag wird voraussichtlich <hex:02280DFF08>Weather<hex:E8060303>."
+8,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_100","<piep piep> Unerwarteter Fehler. Die Wettervorhersage für diese Region ist momentan nicht verfügbar."

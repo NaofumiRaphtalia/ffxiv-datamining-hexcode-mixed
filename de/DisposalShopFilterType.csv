@@ -1,0 +1,9 @@
+﻿key,0
+#,Category
+offset,0
+Int32,String
+0,""
+1,"Alle anzeigen"
+2,"In Ausrüstungssets verwendete ignorieren"
+3,"Im Arsenal verstaute ignorieren"
+4,"Nur unter Gegen<hex:02160103>stands<hex:02160103>stufe <hex:022003E80203>"

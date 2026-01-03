@@ -1,0 +1,19 @@
+﻿key,0,1,2,3
+#,,,,
+offset,0,4,8,12
+Int32,String,Int32,Int32,UInt8
+0,"",0,0,0
+1,"PvP-Team „<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>“ gegründet.",0,1,0
+2,"<hex:022B48FF46><hex:020842E4EB02EB03FF1D><hex:02091902FF03>du<hex:FF07>deiner<hex:FF04>dir<hex:FF05>dich<hex:03><hex:FF1D><hex:020819E908FF13><hex:02320FFF07>ObjStr<hex:03E90802020203><hex:EB0303><hex:03><hex:03> <hex:020816E4EB02EB03FF08>trittst<hex:FF06>tritt<hex:03> dem Team bei.",2,0,0
+3,"<hex:022B48FF46><hex:020842E4EB02EB03FF1D><hex:02091902FF03>du<hex:FF07>deiner<hex:FF04>dir<hex:FF05>dich<hex:03><hex:FF1D><hex:020819E908FF13><hex:02320FFF07>ObjStr<hex:03E90802020203><hex:EB0303><hex:03><hex:03> verlässt das Team.",2,0,0
+4,"<hex:022B48FF46><hex:020842E4EB02EB03FF1D><hex:02091902FF03>du<hex:FF07>deiner<hex:FF04>dir<hex:FF05>dich<hex:03><hex:FF1D><hex:020819E908FF13><hex:02320FFF07>ObjStr<hex:03E90802020203><hex:EB0303><hex:03><hex:03> verlässt das Team.",2,0,0
+5,"",2,0,0
+6,"",2,0,0
+7,"Teamname zu „<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>“ geändert.",0,1,0
+8,"Das Wappen wurde geändert.",0,0,0
+9,"Das Team wurde auf den Rang „<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>“ befördert.",0,3,0
+10,"Das Team wurde auf den Rang „<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>“ zurückgesetzt.",0,3,0
+11,"Eine neue Saison hat begonnen.",0,0,0
+12,"<hex:022B48FF46><hex:020842E4EB02EB03FF1D><hex:02091902FF03>du<hex:FF07>deiner<hex:FF04>dir<hex:FF05>dich<hex:03><hex:FF1D><hex:020819E908FF13><hex:02320FFF07>ObjStr<hex:03E90802020203><hex:EB0303><hex:03><hex:03> <hex:020811E4EB02EB03FF05>bist<hex:FF04>ist<hex:03> nun Anführer, da der vorige Anführer eine bestimmte Zeit abwesend war.",2,0,0
+13,"<hex:022B48FF46><hex:020842E4EB02EB03FF1D><hex:02091902FF03>du<hex:FF07>deiner<hex:FF04>dir<hex:FF05>dich<hex:03><hex:FF1D><hex:020819E908FF13><hex:02320FFF07>ObjStr<hex:03E90802020203><hex:EB0303><hex:03><hex:03> <hex:020811E4EB02EB03FF05>bist<hex:FF04>ist<hex:03> nun Zweiter Anführer.",2,0,0
+14,"<hex:022B48FF46><hex:020842E4EB02EB03FF1D><hex:02091902FF03>du<hex:FF07>deiner<hex:FF04>dir<hex:FF05>dich<hex:03><hex:FF1D><hex:020819E908FF13><hex:02320FFF07>ObjStr<hex:03E90802020203><hex:EB0303><hex:03><hex:03> <hex:020816E4EB02EB03FF08>wurdest<hex:FF06>wurde<hex:03> zum Anführer ernannt.",2,0,0

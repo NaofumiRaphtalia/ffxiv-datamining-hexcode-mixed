@@ -1,0 +1,8 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,Name,,,,,,,,,MonsterNote
+offset,0,12,4,13,14,15,16,17,8,20
+Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,Int8
+0,"Keine",0,"",0,0,0,0,0,"",127
+1,"Mahlstrom",4,"",0,0,1,0,0,"<hex:02094AE802FF0E>zum Mahlstrom<hex:FF0F>beim Mahlstrom<hex:FF0E>vom Mahlstrom<hex:FF0D>im Mahlstrom<hex:FF0A>Mahlstrom<hex:03>",8
+2,"Bruderschaft[p] der Morgenviper",3,"",0,0,1,1,0,"<hex:020984E802FF21>zur Bruderschaft der Morgenviper<hex:FF25>bei der Bruderschaft der Morgenviper<hex:FF15>von der Bruderschaft<hex:FF14>in der Bruderschaft<hex:FF0D>Bruderschaft<hex:03>",9
+3,"Legion[p] der Unsterblichen",3,"",0,0,1,1,0,"<hex:02096AE802FF1D>zur Legion der Unsterblichen<hex:FF21>bei der Legion der Unsterblichen<hex:FF0F>von der Legion<hex:FF0E>in der Legion<hex:FF07>Legion<hex:03>",10

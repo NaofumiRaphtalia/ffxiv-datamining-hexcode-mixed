@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","<hex:02095CE804FF1F>Auf dem Platz der Wunder (Ost)<hex:FF11>Im Varieté-Saal<hex:FF0B>Im Rondell<hex:FF1A>Am Glückskaktor-Schalter<hex:03> findet in Kürze das GATE „<hex:0209B6E803FF19>Rettet meinen Begleiter!<hex:FF17>Achtung, zerbrechlich!<hex:FF10>Haltet den Imp!<hex:FF13>Schwing dein Bein!<hex:FF12>Hungaaa, Hungaaa!<hex:FF1C>Kaktor-Kletterwand-Gekraxel<hex:FF17>Luftwaffe, Feuer frei!<hex:FF13>Der große Yojinbo<hex:03>“ statt!"
+1,"TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM","Das nächste GATE findet um <hex:020703E80203><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>:<hex:022402DA03> Uhr (Erdenzeit) <hex:02095CE804FF1F>auf dem Platz der Wunder (Ost)<hex:FF11>im Varieté-Saal<hex:FF0B>im Rondell<hex:FF1A>am Glückskaktor-Schalter<hex:03> statt!"
+2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","Das GATE „<hex:0209B6E802FF19>Rettet meinen Begleiter!<hex:FF17>Achtung, zerbrechlich!<hex:FF10>Haltet den Imp!<hex:FF13>Schwing dein Bein!<hex:FF12>Hungaaa, Hungaaa!<hex:FF1C>Kaktor-Kletterwand-Gekraxel<hex:FF17>Luftwaffe, Feuer frei!<hex:FF13>Der große Yojinbo<hex:03>“ findet gerade <hex:02095CE803FF1F>auf dem Platz der Wunder (Ost)<hex:FF11>im Varieté-Saal<hex:FF0B>im Rondell<hex:FF1A>am Glückskaktor-Schalter<hex:03> statt! Beeil dich, wenn du teilnehmen möchtest!"
+3,"TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY","Zum GATE führen lassen?"
+4,"TEXT_CMNGSCGATENOTICE_00242_WARP_GO","Ja"
+5,"TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL","Nein"
+6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","Das GATE „<hex:0209B6E802FF19>Rettet meinen Begleiter!<hex:FF17>Achtung, zerbrechlich!<hex:FF10>Haltet den Imp!<hex:FF13>Schwing dein Bein!<hex:FF12>Hungaaa, Hungaaa!<hex:FF1C>Kaktor-Kletterwand-Gekraxel<hex:FF17>Luftwaffe, Feuer frei!<hex:FF13>Der große Yojinbo<hex:03>“ findet gerade <hex:02095CE803FF1F>auf dem Platz der Wunder (Ost)<hex:FF11>im Varieté-Saal<hex:FF0B>im Rondell<hex:FF1A>am Glückskaktor-Schalter<hex:03> statt! Sieh dir das Treiben auf der Showbühne an!"

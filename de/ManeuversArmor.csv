@@ -1,0 +1,7 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,,FalconName,RavenName,,,NeutralMapIcon,FalconImage,RavenImage,FalconMapImage,RavenMapImage,Name,Description
+offset,36,8,12,38,39,16,20,24,28,32,0,4
+Int32,UInt16,UInt32,UInt32,UInt8,PackedBool0,UInt32,UInt32,UInt32,UInt32,UInt32,String,String
+0,50,6863,6864,6,False,60666,61651,61654,60939,60942,"Chaser","Eine Antigrav-Kriegsmaschine der nächsten Generation. Der Rotorbrecher pulverisiert die Panzerung anderer Kriegsmaschinen, während die Waffen Laserschwert und Jagdfalke mit dem Fußvolk aufräumen. Um die Flugfähigkeit zu optimieren, musste ein leichtes Chassis<hex:02100103>verbaut werden, was die<hex:02100103>Belastbarkeit senkt."
+1,50,6865,6866,2,False,60667,61652,61655,60940,60943,"Unterdrücker","Eine auf den Gebäudeabriss spezialisierte Kriegsmaschine, deren wuchtige Attacken gegnerische Türme und Kerne in kürzester Zeit zu Schutt verwandelt. Im Kampf gegen Fußvolk und andere Kampf<hex:02160103>maschinen ist der Unterdrücker durch seine langsame Ge<hex:02160103>schwindig<hex:02160103>keit im Nachteil."
+2,50,6867,6868,2,True,60668,61653,61656,60941,60944,"Brutalus","Mit seiner zerstörerischen Kraft beherrscht der Brutalus das Schlachtfeld. Sein Großflammenwerfer und Megastrahl sind bei allen Gegnern gefürchtet, und der Doppelraketenschlag bringt Türme wie<hex:02100103>Kerne zum Wanken."

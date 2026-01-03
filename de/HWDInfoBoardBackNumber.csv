@@ -1,0 +1,9 @@
+﻿key,0,1,2
+#,,,
+offset,4,5,0
+Int32,UInt8,UInt8,String
+0,1,10,"Erstes Großprojekt"
+1,11,48,"Zweites Großprojekt"
+2,49,79,"Drittes Großprojekt"
+3,80,112,"Viertes Großprojekt"
+4,113,125,""
