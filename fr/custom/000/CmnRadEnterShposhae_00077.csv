@@ -1,0 +1,20 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_1","Le secteur de Sastasha est sous le contrrrôle du 4e d'infanterie des casaques jaunes."
+1,"TEXT_CMNRADENTERSHPOSHAE_00077_Q1_1","Que voulez-vous faire<hex:021D0103>?"
+2,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_1","En savoir plus sur Sastasha"
+3,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_2","Lancer la mission “Sastasha”"
+4,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_3","Annuler"
+5,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_5","La sur<hex:02160103>veil<hex:02160103>lan<hex:02160103>ce des grottes de Sastasha a été confiée au 4e d'infanterie des casaques jaunes. Nous avons pour consigne de n'autoriser que les grrroupes de personnes munis d'un laissez-passer."
+6,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_6","Seules les équipes de 4 disciples de la guerre ou de la magie de niveau 15 ou plus peuvent participer à la mission “Sastasha”."
+7,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_7","La conquête du donjon doit être terminée dans le temps imparti de 90 minutes (temps réel)."
+8,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_8","En outre, tous les par<hex:02160103>ti<hex:02160103>ci<hex:02160103>pants doivent avoir suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment progressé dans la quête “Les tréfonds de Sastasha”.<hex:02100103>Les personnages de niveau 19 ou plus seront ramenés au niveau 18 le temps de la mission."
+9,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_9","S'il reste des objets dans le butin en sortant de l'instance, ils seront tous distribués au<hex:02160103>to<hex:02160103>ma<hex:02160103>ti<hex:02160103>que<hex:02160103>ment. Les objets ne pouvant pas l'être seront alors perdus."
+10,"TEXT_CMNRADENTERSHPOSHAE_00077_Q2_1","Lancer la mission “Sastasha”<hex:021D0103>?"
+11,"TEXT_CMNRADENTERSHPOSHAE_00077_A2_1","Oui"
+12,"TEXT_CMNRADENTERSHPOSHAE_00077_A2_2","Non"
+13,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_10","Impossible de lancer <hex:02281DFF18>InstanceContentTextData<hex:E8020103> “<hex:022815FF10>InstanceContent<hex:E8030403>”.<hex:02100103>Veuillez vérifier les conditions d'accès."
+14,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_20","Le secteur de Sastasha est sous le contrrrôle du 4e d'infanterie des casaques jaunes. Seuls les personnes qui disposent d'une au<hex:02160103>to<hex:02160103>ri<hex:02160103>sa<hex:02160103>tion peuvent y accéder."
+15,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_20","Pour obtenir l'au<hex:02160103>to<hex:02160103>ri<hex:02160103>sa<hex:02160103>tion d'accéder à Sastasha, vous devez progresser jusqu'à un certain point dans la quête “Les tréfonds de Sastasha”."

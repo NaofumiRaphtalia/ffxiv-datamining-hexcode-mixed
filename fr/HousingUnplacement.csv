@@ -1,0 +1,23 @@
+﻿key,0
+#,
+offset,0
+Int32,String
+0,""
+1,"Retirer ce meuble<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* L'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+2,"Congédier <hex:023314FF0D>ENpcResident<hex:07E802020203><hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Les changements apportés à l'apparence du personnage seront perdus.<hex:02100103>* La licence de recrutement sera remise dans votre inventaire.<hex:0249020103><hex:0248020103>"
+3,"Retirer ce servant<hex:021D0103>? <hex:024804F201FC03><hex:024904F201FD03>* Les changements apportés à l'apparence du personnage seront perdus.<hex:02100103>* L'au<hex:02160103>to<hex:02160103>ri<hex:02160103>sa<hex:02160103>tion de vente sera remise dans votre inventaire.<hex:0249020103><hex:0248020103>"
+4,"Retirer ce meuble alors qu<hex:020814E4E80202FF04>'un<hex:FF09>e <hex:022003E80203><hex:03> repas <hex:020814E4E80202FF05>peut<hex:FF08>peuvent<hex:03> encore être fait<hex:02080AE4E80202FF01><hex:FF02>s<hex:03> avec<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* L'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+5,"Retirer ce meuble<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si une fleur est disposée dedans, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+6,"Retirer l'aquarium<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Les objets qu'il contient seront perdus.<hex:0249020103><hex:0248020103>"
+7,"Retirer ce meuble<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si une peinture est placée dedans, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+8,"Retirer ce meuble<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si un papier-peint est placé dessus, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+9,"Remettre la licence de recrutement dans votre inventaire depuis l'entrepôt<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Les changements faits à l'apparence du personnage seront perdus.<hex:0249020103><hex:0248020103>"
+10,"Retirer ce servant de l'entrepôt et remettre l'au<hex:02160103>to<hex:02160103>ri<hex:02160103>sa<hex:02160103>tion de vente dans votre inventaire<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Les changements faits à l'apparence du personnage seront perdus.<hex:0249020103><hex:0248020103>"
+11,"Retirer ce meuble de l'entrepôt alors qu<hex:020814E4E80202FF04>'un<hex:FF09>e <hex:022003E80203><hex:03> repas <hex:020814E4E80202FF05>peut<hex:FF08>peuvent<hex:03> encore être fait<hex:02080AE4E80202FF01><hex:FF02>s<hex:03> avec<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* L'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+12,"Retirer ce meuble de l'entrepôt<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si une fleur est disposée dedans, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+13,"Retirer l'aquarium de l'entrepôt<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Les objets qu'il contient seront perdus.<hex:0249020103><hex:0248020103>"
+14,"Retirer ce meuble de l'entrepôt<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si une peinture est placée dedans, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+15,"Retirer ce meuble de l'entrepôt<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si un revêtement est placé dessus, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+16,"Congédier l'employé(e) de maison<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Les changements apportés à l'apparence du personnage seront perdus.<hex:02100103>* La licence de recrutement sera remise dans votre inventaire.<hex:0249020103><hex:0248020103>"
+17,"Retirer ce meuble<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si un ichtyogramme est placé dedans, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"
+18,"Retirer ce meuble de l'entrepôt<hex:021D0103>?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>* Si un ichtyogramme est placé dedans, l'objet correspondant sera définitivement perdu.<hex:0249020103><hex:0248020103>"

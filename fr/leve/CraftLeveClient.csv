@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_TITLE","Remettre des produits sup<hex:02160103>plé<hex:02160103>men<hex:02160103>tai<hex:02160103>res<hex:021D0103>?"
+1,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_0","Oui"
+2,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_1","Non (mettre fin à la commande en cours)"
+3,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_2","Décider plus tard"
+4,"TEXT_CRAFTLEVECLIENT_SYSTEM_NO_ITEM","L'objet demandé n'a pas été fourni ou la livraison est insuffisante en nombre."
+5,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE","Voulez-vous terminer la livraison sans remettre de produits sup<hex:02160103>plé<hex:02160103>men<hex:02160103>tai<hex:02160103>res<hex:021D0103>?"
+6,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES","Oui"
+7,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO","Non"
+8,"TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD","La livraison comprend <hex:020826E4E80202FF09>un objet<hex:FF16><hex:022003E80203> types d'objets<hex:03> de haute qualité. <hex:02100103>Un bonus de <hex:022003E80303>% est ajouté à la récompense."

@@ -1,0 +1,26 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSDDD3ENTRANCE_00817_KHATUN_000_000","Bien le <hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>bonsoir<hex:FF08>bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>bonjour<hex:FF08>bonsoir<hex:03><hex:03><hex:021D0103>! Koh... enfin, l'archimage Noah nous a présenté en large et en travers l'expédition que vous vous apprêtez à monter. Nous avons hâte de pouvoir commencer<hex:021D0103>!"
+1,"TEXT_CTSDDD3ENTRANCE_00817_START_MENU_ENTER","<hex:024804F2023503><hex:024904F2023603>Pénétrer dans Eurêka Orthos<hex:0249020103><hex:0248020103>"
+2,"TEXT_CTSDDD3ENTRANCE_00817_START_MENU_RESET","Effacer une sauvegarde"
+3,"TEXT_CTSDDD3ENTRANCE_00817_START_MENU_BREAKUP","Dissoudre une équipe fixe"
+4,"TEXT_CTSDDD3ENTRANCE_00817_START_MENU_SCORE","Vérifier les scores"
+5,"TEXT_CTSDDD3ENTRANCE_00817_START_MENU_ABOUT","En savoir plus sur Eurêka Orthos"
+6,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_TITLE","Que voulez-vous faire<hex:021D0103>?"
+7,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_FIXED","Pénétrer en équipe fixe"
+8,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_MATCHING","Pénétrer en équipe formée par groupement"
+9,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_BACK","Retour"
+10,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_FIXED_Q","Pénétrer dans Eurêka Orthos en <hex:024804F201FA03><hex:024904F201FB03>équipe fixe<hex:0249020103><hex:0248020103><hex:021D0103>?"
+11,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_MATCHING_Q","Pénétrer dans Eurêka Orthos en <hex:024804F201FA03><hex:024904F201FB03>équipe formée par groupement<hex:0249020103><hex:0248020103><hex:021D0103>?"
+12,"TEXT_CTSDDD3ENTRANCE_00817_KHATUN_000_010","Oh<hex:021D0103>! Vous êtes sûr<hex:020808E905FF02>e<hex:FF01><hex:03> de vouloir y aller seul<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>? Venant d'un<hex:020808E905FF02>e<hex:FF01><hex:03> aventur<hex:02080FE905FF06>ière<hex:FF04>ier<hex:03> de votre trempe, admiré<hex:020808E905FF02>e<hex:FF01><hex:03> de G'raha Tia et même de la grande Noah en personne, je ne devrais pas être surprise<hex:021D0103>! Faites attention tout de même<hex:021D0103>!"
+13,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_SOLO","Pénétrer dans Eurêka Orthos en <hex:024804F201FA03><hex:024904F201FB03>solo<hex:0249020103><hex:0248020103><hex:021D0103>?"
+14,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_WHICH_Q","Pénétrer à partir de quel étage<hex:021D0103>?"
+15,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_A1","Sous-sol 1"
+16,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_A2","Sous-sol 21"
+17,"TEXT_CTSDDD3ENTRANCE_00817_ENTER_A3","Retour"
+18,"TEXT_CTSDDD3ENTRANCE_00817_MIDDLE_TOP_MENU_NEXT","<hex:024804F2023503><hex:024904F2023603>Explorer la série d'étages suivante<hex:0249020103><hex:0248020103>"
+19,"TEXT_CTSDDD3ENTRANCE_00817_MIDDLE_TOP_MENU_EXPLAIN","En savoir plus sur Eurêka Orthos"
+20,"TEXT_CTSDDD3ENTRANCE_00817_MIDDLE_Q","Poursuivre votre exploration en accédant à la série d'étages suivante<hex:021D0103>?"
+21,"TEXT_CTSDDD3ENTRANCE_00817_TALK_ACTOR","（★未使用／削除予定★）"

@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000","Le rappel événementiel vous permet, durant une période limitée, de rejouer des quêtes saisonnières/événementielles que vous avez déjà terminées."
+1,"TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001","Lancer le rappel événementiel<hex:021D0103>?"
+2,"TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002","La ou les quêtes ci-dessous seront considérées comme non terminées<hex:021D0103>:<hex:02100103><hex:02100103>　　- <hex:02280BFF06>Quest<hex:E8020103><hex:02100103><hex:020823E4E80301FF01><hex:FF1B>　　- <hex:02280BFF06>Quest<hex:E8030103><hex:02100103><hex:03><hex:020823E4E80401FF01><hex:FF1B>　　- <hex:02280BFF06>Quest<hex:E8040103><hex:02100103><hex:03><hex:0208CAE4E80501FF01><hex:FFC2><hex:02100103>Tant que vous ne les aurez pas accomplies de nouveau, vous ne pourrez pas acheter/échanger les objets associés auprès des PNJ suivants<hex:021D0103>:<hex:02100103><hex:02100103>　　- <hex:022B18FF16><hex:022812FF0D>ENpcResident<hex:E8050103><hex:03><hex:02100103><hex:03><hex:020830E4E80601FF01><hex:FF28>　　- <hex:022B18FF16><hex:022812FF0D>ENpcResident<hex:E8060103><hex:03><hex:02100103><hex:03><hex:0208BCE4E80501FF01><hex:FFB4><hex:02100103>Cette règle continuera de s'appliquer une fois la période de rappel expirée. Faites donc attention au temps dont vous disposez avant de lancer le rappel événementiel.<hex:02100103><hex:03><hex:02100103>Vous n'obtiendrez pas de récompenses de quêtes durant le rappel événementiel.<hex:02100103>"
+3,"TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003","Lancer le rappel événementiel"
+4,"TEXT_FESBKCRECOMPLETE_00716_TALK_ACTOR",""

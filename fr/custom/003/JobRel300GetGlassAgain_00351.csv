@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_000","Hmm<hex:021D0103>? Vous avez perdu votre <hex:023313FF0A>EventItem<hex:0DF61E8C4A020203>, vous dites<hex:021D0103>?<hex:021D0103>... Mais où avez-vous la tête, pardi<hex:021D0103>!? Je l<hex:02081DFF15><hex:022811FF0A>EventItem<hex:F61E8C4A0703><hex:FF02>a<hex:FF02>e<hex:03> vois qui dépasse de votre sac, là<hex:021D0103>!"
+1,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_001","Enfin, si jamais vous deviez l'égarer pour de vrai, n'hésitez pas à venir me voir. Je me ferai un plaisir de vous en donner un<hex:02082DFF15><hex:022811FF0A>EventItem<hex:F61E8C4A0703><hex:FF0B>e nouvelle<hex:FF09> nouveau<hex:03>."
+2,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_010","Hmm<hex:021D0103>? Vous avez perdu votre <hex:023313FF0A>EventItem<hex:0DF61E8C4A020203>, vous dites<hex:021D0103>?"
+3,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_011","Ne vous inquiétez pas, j'en ai plein en réserve<hex:021D0103>! Je peux donc vous en donner un<hex:02082DFF15><hex:022811FF0A>EventItem<hex:F61E8C4A0703><hex:FF0B>e nouvelle<hex:FF09> nouveau<hex:03>."
+4,"TEXT_JOBREL300GETGLASSAGAIN_00351_Q1_000_000","Obtenir un<hex:02082DFF15><hex:022811FF0A>EventItem<hex:F61E8C4A0703><hex:FF0B>e nouvelle<hex:FF09> nouveau<hex:03> <hex:023313FF0A>EventItem<hex:0DF61E8C4A020203><hex:021D0103>?"
+5,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_020","Je compte sur vous pour bien prendre soin de cel<hex:02081FFF15><hex:022811FF0A>EventItem<hex:F61E8C4A0703><hex:FF03>le<hex:FF03>ui<hex:03>-ci."
+6,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_030","Vraiment<hex:021D0103>? Écoutez, si vous pensez ne pas avoir besoin d'un<hex:02082DFF15><hex:022811FF0A>EventItem<hex:F61E8C4A0703><hex:FF0B>e nouvelle<hex:FF09> nouveau<hex:03> <hex:023313FF0A>EventItem<hex:0DF61E8C4A020203>, ce n'est pas moi qui vais me plaindre."
+7,"TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_031","Vous savez, Ulan perd si souvent ses affaires que j'ai pris l'habitude de faire des réserves pour tout un tas de trucs liés à nos recherches. N'hésitez donc pas à venir me voir si vous changez d'avis."

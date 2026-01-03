@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_000","Oh, ne vous préoccupez pas de moi<hex:021D0103>! Je vous préviendrai lorsque Tataru aura un message pour vous."
+1,"TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_010","Oh, ne vous préoccupez pas de moi<hex:021D0103>! Je vous préviendrai lorsque Tataru aura un nouveau message pour vous."
+2,"TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_020","Bienvenue<hex:021D0103>! Je vous souhaite une agréable visite<hex:021D0103>!"
+3,"TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_030","De nouveaux invités sont venus vous rendre visite<hex:021D0103>! Profitez de leur séjour pour vous détendre un peu<hex:021D0103>!"
+4,"TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_040","Tataru souhaite amener un dernier invité sur votre île. Je vous contacterai dès que j'en saurai davantage."
+5,"TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_050","Je n'ai aucun message pour vous<hex:021D0103>! Profitez de cette accalmie pour prendre un peu de bon temps, ou vous pouvez toujours inviter vos amis<hex:021D0103>! Les poupées magiques seront là pour les recevoir comme il se doit."

@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0","Cette embarcation fait la navette entre la cité et la jetée du Bouquet.<hex:02100103>Vous voulez monter à bord<hex:021D0103>?"
+1,"TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1","Cette embarcation va à Vieille Gridania. Si ça vous intéresse, vous êtes <hex:02080BE905FF03>la<hex:FF03>le<hex:03> bienvenu<hex:020808E905FF02>e<hex:FF01><hex:03> à bord."
+2,"TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION","Voulez-vous embarquer et traverser<hex:021D0103>?"
+3,"TEXT_CMNDEFWARPNPC_00026_YESNO_YES","Oui"
+4,"TEXT_CMNDEFWARPNPC_00026_YESNO_NO","Non"
+5,"TEXT_CMNDEFWARPNPC_00026_LOCK","Cette embarcation va à la jetée du Bouquet, mais je ne peux pas vous laisser monter à bord pour le moment. La Forêt de l'est grouille de créatures féroces et vous n'êtes pas encore suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment entraîné<hex:020808E905FF02>e<hex:FF01><hex:03> pour les affronter."
+6,"TEXT_CMNDEFWARPNPC_00026_LOCK2","Je vous conseille plutôt de commencer par visiter la cité et découvrir le métier d'aventurier auprès de personnes de conseil. Vous aurez tout le loisir d'explorer la Sylve plus tard, quand vous aurez gagné en force et en expérience."
+7,"TEXT_CMNDEFWARPNPC_00026_LOCK3","不要ラベル"

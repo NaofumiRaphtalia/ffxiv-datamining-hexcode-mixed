@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_000","Sergent-major des sables Cracked Fist, à votre service."
+1,"TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000","Que voulez-vous savoir<hex:021D0103>?"
+2,"TEXT_REGWILCAMPBLUEFOG_00121_A1_000_001","Que faites-vous ici<hex:021D0103>?"
+3,"TEXT_REGWILCAMPBLUEFOG_00121_A1_000_002","Quel est cet endroit<hex:021D0103>?"
+4,"TEXT_REGWILCAMPBLUEFOG_00121_A1_000_003","Rien en particulier"
+5,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_010","Je m'occupe de la garnison de Brumebleue pour les Immortels. C'est une sacrée res<hex:02160103>pon<hex:02160103>sa<hex:02160103>bi<hex:02160103>li<hex:02160103>té vu notre proximité avec le territoire garlemaldais."
+6,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_011","Les troupes sont à cran et maintenir leur moral n'est pas une mince affaire. Il va sans dire que l'obscurité perpétuelle n'arrange rien. Un peu de soleil nous ferait du bien."
+7,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_020","Jadis, le camp de Brumebleue était un lieu sans importance, mais tout a changé lorsque l'Empire est venu installer ses forteresses d'acier dans la partie nord du Thanalan. "
+8,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_021","Ne vous y trompez pas, le camp fait désormais partie des garnisons les plus importantes de l'Alliance. S'il devait perdre ce statut, nos forces à l'usine de céruleum seraient définitivement isolées. "
+9,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_022","Au cas où vous vous demanderiez, ce lieu tient son nom de la brume bleuâtre ca<hex:02160103>rac<hex:02160103>té<hex:02160103>ris<hex:02160103>ti<hex:02160103>que qui se dégage lors de l'extraction du céruleum."
+10,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050","Ah, commandant<hex:020808E905FF02>e<hex:FF01><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:021D0103>! Que puis-je faire pour vous<hex:021D0103>?"

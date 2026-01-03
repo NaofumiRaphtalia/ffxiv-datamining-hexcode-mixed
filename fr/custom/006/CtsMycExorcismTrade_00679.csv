@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000","Repassez plus tard, soldat<hex:020808E905FF02>e<hex:FF01><hex:03>. Je dois tout d'abord terminer mon inventaire."
+1,"TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000","Que voulez-vous faire<hex:021D0103>? [Cristaux bozjiens<hex:021D0103>: <hex:022003E80203>]"
+2,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000","Devenir prioritaire pour participer à un af<hex:02160103>fron<hex:02160103>te<hex:02160103>ment crucial<hex:02100103>(Nécessite <hex:022003E80203> cristaux bozjiens)"
+3,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001","Échanger des objets"
+4,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002","En savoir plus sur les cristaux bozjiens"
+5,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003","Annuler"
+6,"TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000","Obtenir un passe-droit d'interception pour paticiper en priorité à un af<hex:02160103>fron<hex:02160103>te<hex:02160103>ment crucial<hex:021D0103>?<hex:02100103>(Cristaux bozjiens possédés<hex:021D0103>: <hex:022003E80203>)"
+7,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001","Désolée, soldat<hex:020808E905FF02>e<hex:FF01><hex:03>. Nous avons besoin de ces cristaux, et je ne peux pas vous octroyer de passe-droit à moins que vous m'en fournissiez <hex:022003E80203>."
+8,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002","Parfait, soldat<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>! Nous vous enverrons en priorité sur le champ de bataille lors du prochain af<hex:02160103>fron<hex:02160103>te<hex:02160103>ment crucial<hex:021D0103>!"

@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000","Machine de guerre anti-Primordiaux v3, nom de code<hex:021D0103>: Darnus<hex:02100103>Présence hostile détectée... Activation du mode de combat<hex:021D0103>!"
+1,"TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010","L'Arme Émeraude... C'est donc ici qu'elle se cachait..."
+2,"TEXT_DUNGEONWEAPONS_00000_REX_200_010","Te voilà enfin, <hex:020816E905FF0A>héroïne<hex:FF07>héros<hex:03> d'Éorzéa<hex:021D0103>!"
+3,"TEXT_DUNGEONWEAPONS_00000_REX_000_010","Regardez-moi bien, Père<hex:021D0103>! Vous allez enfin comprendre pourquoi nous nous battons<hex:021D0103>!"
+4,"TEXT_DUNGEONWEAPONS_00000_CID_000_020","(-Voix de Gaius-)Notre cible est droit devant<hex:021D0103>! Arrêtons-la avec une salve de missiles<hex:021D0103>!"
+5,"TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020","(-Voix familière d'un jeune homme-)Nouvelle menace détectée... Riposte engagée<hex:021D0103>!"
+6,"TEXT_DUNGEONWEAPONS_00000_CID_000_021","(-Voix de Cid-)Le système de capture ne fonctionne plus<hex:021D0103>! L'Arme va s'écraser<hex:021D0103>!"

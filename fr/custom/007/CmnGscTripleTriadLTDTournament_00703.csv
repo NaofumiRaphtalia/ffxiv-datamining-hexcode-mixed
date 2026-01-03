@@ -1,0 +1,21 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_000","Bienvenue au square des duellistes<hex:021D0103>! Vous êtes dans le temple de Triple Triade, le jeu de cartes le plus populaire d'Éorzéa. Adressez-vous à la croupière pour commencer, elle sera ravie de vous apprendre toutes les règles<hex:021D0103>!"
+1,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_001","Bienvenue au square des duellistes<hex:021D0103>! Pour s'inscrire au tournoi officiel en cours, c'est ici que ça se passe<hex:021D0103>!"
+2,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_002","Un tournoi officiel est en cours<hex:021D0103>!"
+3,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_003","Le prochain tournoi officiel commence<hex:02100103>dans <hex:0208ADE1E80201FF67><hex:022003E80203> <hex:020814E4E80202FF06>heure<hex:FF07>heures<hex:03><hex:020819E1E80201FF11><hex:02080DE1E80301FF05> et <hex:FF01><hex:03><hex:FF01><hex:03><hex:020829E1E80301FF21><hex:022003E80303> <hex:020816E4E80302FF07>minute<hex:FF08>minutes<hex:03><hex:FF01><hex:03><hex:FF3F><hex:02083BE1E80301FF21><hex:022003E80303> <hex:020816E4E80302FF07>minute<hex:FF08>minutes<hex:03><hex:FF13>moins d'une minute<hex:03><hex:03>."
+4,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_000","S'inscrire au tournoi officiel"
+5,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_001","Voir le calendrier des tournois officiels"
+6,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_002","Voir les ex<hex:02160103>pli<hex:02160103>ca<hex:02160103>tions"
+7,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_003","Annuler"
+8,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_005","À l'exception de la règle Draft, aucune règle spéciale n'est en vigueur pour le tournoi en cours. Seule la compréhension des règles de base est nécessaire pour pour participer.<hex:02100103><hex:02100103>Voulez-vous vous inscrire<hex:021D0103>?"
+9,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_105","En plus de la règle Draft, <hex:02084EE1E80301FF26>les règles spéciales suivantes sont<hex:FF21>la règle spéciale suivante est<hex:03> en vigueur pour le tournoi en cours<hex:021D0103>:<hex:02100103>- <hex:022815FF10>TripleTriadRule<hex:E8020103><hex:02100103><hex:020827E1E80301FF1F>- <hex:022815FF10>TripleTriadRule<hex:E8030103><hex:02100103><hex:FF01><hex:03><hex:020827E1E80401FF1F>- <hex:022815FF10>TripleTriadRule<hex:E8040103><hex:02100103><hex:FF01><hex:03><hex:020827E1E80501FF1F>- <hex:022815FF10>TripleTriadRule<hex:E8050103><hex:02100103><hex:FF01><hex:03><hex:02100103>Voulez-vous vous inscrire<hex:021D0103>?"
+10,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_006","Toutes mes excuses, les ins<hex:02160103>crip<hex:02160103>tions pour le tournoi officiel en cours sont closes. J'espère que vous nous ferez l'honneur de participer la prochaine fois<hex:021D0103>!"
+11,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_007","J'ai le regret de vous annoncer que les ins<hex:02160103>crip<hex:02160103>tions sont ac<hex:02160103>tu<hex:02160103>el<hex:02160103>le<hex:02160103>ment fermées."
+12,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_008","Si vous désirez savoir quand se déroulera le prochain tournoi, je vous invite à me reparler pour consulter le calendrier<hex:021D0103>!"
+13,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_009","Les par<hex:02160103>ti<hex:02160103>ci<hex:02160103>pants à un tournoi officiel sont récompensés en fonction de leur classement. Je vous conseille de prévoir un peu de place dans vos sacs pour recevoir votre prix<hex:021D0103>!"
+14,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_010","Impossible de vous inscrire au tournoi. Votre inventaire est plein. Faites de la place, puis adressez-vous de nouveau au guichet."
+15,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_000","（★未使用／削除予定★）"
+16,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_001","（★未使用／削除予定★）"

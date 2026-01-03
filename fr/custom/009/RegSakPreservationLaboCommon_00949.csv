@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_000","Ce terminal d'accueil semble destiné aux nouveaux employés. Il contient diverses in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions regroupées en plusieurs rubriques."
+1,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_Q1_000_000","Quelle rubrique souhaitez-vous consulter<hex:021D0103>?"
+2,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_001","Règlement intérieur"
+3,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_002","But des recherches"
+4,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_003","Liste des res<hex:02160103>pon<hex:02160103>sa<hex:02160103>bles"
+5,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_004","Annuler"
+6,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_010","(-Règlement intérieur-)Pour des raisons de confidentialité, ce lieu est of<hex:02160103>fi<hex:02160103>ciel<hex:02160103>le<hex:02160103>ment dénommé “Division d'entreposage 10-29” et enregistré en tant que centre logistique.<hex:02100103>Les employés doivent garder cette information à l'esprit, pendant comme en dehors de leurs horaires de travail."
+7,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_011","(-Règlement intérieur-)Chaque employé est affecté à une seule et unique salle de recherche<hex:021D0103>: salle polyvalente, salle d'ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion n°1 ou salle d'ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion n°2. Il est strictement interdit d'entrer dans d'autres salles que la sienne."
+8,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_012","(-Règlement intérieur-)Les employés doivent garder en permanence leur carte d'accès sur eux afin de pouvoir ouvrir les portes correspondant à leur niveau d'accréditation."
+9,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_013","(-Règlement intérieur-)Les employés doivent porter en permanence leur régulateur. Du fait de la nature hautement sensible des in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions conservées ici (données de recherche, etc.), l'or<hex:02160103>ga<hex:02160103>ni<hex:02160103>sa<hex:02160103>tion se réserve le droit de confisquer les souvenirs de ses membres ou de les altérer au besoin. "
+10,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_020","(-But des recherches-)Cette rubrique est protégée. Pour la consulter, veuillez vous authentifier en tant que membre du personnel scien<hex:02160103>ti<hex:02160103>fi<hex:02160103>que."
+11,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_030","(-Liste des res<hex:02160103>pon<hex:02160103>sa<hex:02160103>bles-)Directeur<hex:021D0103>: Demetrius<hex:02100103>Responsable de la salle d'ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion n°1<hex:021D0103>: Eosphor<hex:02100103>Responsable de la salle d'ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion n°2<hex:021D0103>: utilisateur supprimé"

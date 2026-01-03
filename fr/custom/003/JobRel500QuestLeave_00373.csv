@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_000","Désirez-vous faire une petite pause dans notre ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion pour vous consacrer à autre chose, <hex:020815E905FF07>Madame<hex:FF09>Monsieur<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:021D0103>?"
+1,"TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_000","Faire une pause<hex:021D0103>?"
+2,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_010","Vous m'en voyez ravi<hex:021D0103>! Sans votre aide, jamais je n'aurais fait d'avancées aussi spectaculaires dans mes travaux. Et puis c'est toujours un plaisir de travailler avec vous<hex:021D0103>!"
+3,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_011","Bien sûr, si vous désirez prendre un peu de recul et vous consacrer à une autre mission, n'hésitez pas à me le faire savoir. Je sais que vous êtes une personne très occupée, et je comprendrai par<hex:02160103>fai<hex:02160103>te<hex:02160103>ment."
+4,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_020","Bien sûr, tout le monde a droit à un peu de repos. Faites-moi savoir quand vous serez <hex:020812E905FF07>prête<hex:FF06>prêt<hex:03> à poursuivre notre ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion<hex:021D0103>!"
+5,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_030","Il n'y a aucun problème. Je suis conscient que nos recherches peuvent parfois être trop astreignantes. Passez-moi votre <hex:023313FF0A>EventItem<hex:0DF61E8C6D020203>, s'il vous plaît. Cela vous évitera d'avoir à la transporter."
+6,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_031","Bien sûr, si vous décidez de poursuivre l'ex<hex:02160103>pé<hex:02160103>ri<hex:02160103>men<hex:02160103>ta<hex:02160103>tion sur les esprits synthétiques à mes côtés, n'hésitez pas à me le faire savoir. Votre par<hex:02160103>ti<hex:02160103>ci<hex:02160103>pa<hex:02160103>tion sera toujours la bienvenue<hex:021D0103>!"
+7,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_001","Si vous abandonnez la quête “Le dernier transfert”, le degré de condensation éthéréenne de l'âme de l'esprit synthétique sera réinitialisé."
+8,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_002","Si vous recommencez cette quête avec le même job, vous devrez donc recommencer le processus de condensation à partir de zéro."
+9,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_003","Veuillez donc bien réfléchir avant de prendre votre décision."
+10,"TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_010","Voulez-vous vraiment abandonner la quête “Le dernier transfert”<hex:021D0103>?"
+11,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_010","Vous n'avez pas abandonné la quête “Le dernier transfert”."
+12,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_020","Vous avez abandonné la quête “Le dernier transfert”."

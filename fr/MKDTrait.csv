@@ -1,0 +1,20 @@
+﻿key,0,1,2,3,4
+#,,,,,
+offset,12,13,8,0,4
+Int32,UInt8,UInt8,Int32,String,String
+0,0,0,-1,"",""
+1,1,4,82201,"Défense améliorée","Augmente l'effet de <hex:024804F201F403><hex:024904F201F503>Défense<hex:0249020103><hex:0248020103> à 90%."
+2,1,5,82202,"Prière améliorée","Augmente la puissance de <hex:024804F201F403><hex:024904F201F503>Prière<hex:0249020103><hex:0248020103> à 5000."
+3,2,3,82203,"Fureur améliorée","Permet de recevoir <hex:024804F201F403><hex:024904F201F503>Brutalité<hex:0249020103><hex:0248020103> lorsque vous utilisez <hex:024804F201F403><hex:024904F201F503>Fureur<hex:0249020103><hex:0248020103>.<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>Brutalité<hex:021D0103>:<hex:0249020103><hex:0248020103> plus des dégâts sont subis pendant la durée de l'effet, plus la puissance de la prochaine action <hex:024804F201F403><hex:024904F201F503>Frappes brutales<hex:0249020103><hex:0248020103> augmente.<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>Durée<hex:021D0103>:<hex:0249020103><hex:0248020103> 15s"
+4,3,4,82204,"Coups de pied améliorés","Augmente l'effet de <hex:024804F201F403><hex:024904F201F503>Coups de pied<hex:0249020103><hex:0248020103> à 7%."
+5,3,6,82205,"Coups de pied améliorés II","Augmente l'effet de <hex:024804F201F403><hex:024904F201F503>Coups de pied<hex:0249020103><hex:0248020103> à 9%."
+6,4,3,82206,"Ciblage amélioré","Augmente l'effet de <hex:024804F201F403><hex:024904F201F503>Ciblage<hex:0249020103><hex:0248020103> à 30% et permet aux attaques de toucher à coup sûr."
+7,4,5,82207,"Ciblage amélioré II","Augmente l'effet de <hex:024804F201F403><hex:024904F201F503>Ciblage<hex:0249020103><hex:0248020103> à 50% et permet aux attaques de toucher à coup sûr."
+8,5,5,82208,"Iainuki amélioré","Augmente la puissance de <hex:024804F201F403><hex:024904F201F503>Iainuki<hex:0249020103><hex:0248020103> à 500 et les chances d'infliger Mort à 10%."
+9,6,2,82209,"Chants améliorés","Augmente l'effet de certains chants en fonction du niveau de job de soutien de barde fantôme."
+10,12,6,82212,"Passe-partout","Permet d'ouvrir toutes les portes verrouillées dans un donjon."
+11,9,5,82211,"Tir amélioré","Accorde 5% de chances d'infliger Mort à certaines cibles lors de l'utilisation de <hex:024804F201F403><hex:024904F201F503>Tir<hex:0249020103><hex:0248020103>."
+12,7,5,82210,"Cloches améliorées","Augmente l'effet de chaque degré de <hex:024804F201F403><hex:024904F201F503>Cloche d'attaque<hex:0249020103><hex:0248020103> à 5%.<hex:02100103>Augmente la puissance curative de <hex:024804F201F403><hex:024904F201F503>Cloche de détente<hex:0249020103><hex:0248020103> à 3000."
+13,0,0,-1,"",""
+14,0,0,-1,"",""
+15,0,0,-1,"",""

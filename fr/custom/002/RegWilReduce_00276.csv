@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGWILREDUCE_00276_TALK_Q1","Que voulez-vous savoir<hex:021D0103>?"
+1,"TEXT_REGWILREDUCE_00276_TALK_A1","Qu'est-ce que l'éthérolyse<hex:021D0103>?"
+2,"TEXT_REGWILREDUCE_00276_TALK_A2","Y a-t-il des choses à savoir pour éthérolyser<hex:021D0103>?"
+3,"TEXT_REGWILREDUCE_00276_TALK_A3","Annuler"
+4,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000","Il s'agit d'une technique proche de celle de la matérialisation. Les col<hex:02160103>lec<hex:02160103>tion<hex:02160103>neurs en sont très friands<hex:021D0103>!"
+5,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001","Bien sûr, ce processus n'est pas possible avec n'importe quel objet. Il vous faudra donc user de vos con<hex:02160103>nais<hex:02160103>san<hex:02160103>ces pour trouver ceux qui peuvent être éthérolysés<hex:021D0103>!"
+6,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010","Eh bien, c'est assez évident, mais comme vous le savez, seuls les objets ayant une valeur de collection peuvent être éthérolysés."
+7,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011","Plus cette valeur est élevée, plus le résultat pourra être intéressant. Voilà, c'est tout..."

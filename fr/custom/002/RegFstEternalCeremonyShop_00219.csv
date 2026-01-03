@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_000","Bon<hex:020831E3E90C0DFF15><hex:020811E3E90C05FF05>soir<hex:FF05>jour<hex:03><hex:FF15><hex:020811E3E90C12FF05>jour<hex:FF05>soir<hex:03><hex:03><hex:021D0103>! Nous prrroposons divers objets de fête en rapport avec le lien éternel. Cette boutique n'est ouverte qu'aux organisateurs d'une cérémonie dans cette chapelle<hex:021D0103>!"
+1,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_001","Ce magasin n'est ouvert qu'aux personnes ayant effectué une demande de lien éternel."
+2,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_020","Vous avez orrrganisé une cérémonie du lien éternel, n'est-ce pas<hex:021D0103>? Fé<hex:02160103>li<hex:02160103>ci<hex:02160103>ta<hex:02160103>tions<hex:021D0103>!"
+3,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_021","Ce magasin est dédié aux objets de la cérémonie du lien éternel. Il n'est ouvert que du début de la quête spéciale jusqu'à l'échange des anneaux."

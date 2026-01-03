@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_000","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03>, familier. Es-tu venu<hex:020808E905FF02>e<hex:FF01><hex:03> visiter Elpis <hex:02081BE905FF0C>toute seule<hex:FF0A>tout seul<hex:03><hex:021D0103>? Puis-je te renseigner<hex:021D0103>?"
+1,"TEXT_REGELP5POIETENOIKOS_00757_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+2,"TEXT_REGELP5POIETENOIKOS_00757_A1_000_001","Votre interlocutrice"
+3,"TEXT_REGELP5POIETENOIKOS_00757_A1_000_002","Cet endroit"
+4,"TEXT_REGELP5POIETENOIKOS_00757_A1_000_003","Annuler"
+5,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_010","Oh, tu veux savoir qui je suis<hex:021D0103>? Eh bien, je suis une employée de ce centre d'observation. Je fais partie des nommeurs, pour être plus précise."
+6,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_011","Notre fonction consiste entre autres à déterminer les noms des créations, alors nous passons beaucoup de temps à élaborer des poèmes pour stimuler notre imagination."
+7,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_020","Ce centre d'observation s'appelle Poièten Oïkos. C'est un terme qui a différents sens, mais pour faire simple, disons qu'il signifie “domaine des nommeurs”."
+8,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_021","Ce lieu a en effet pour but non seulement d'évaluer les créations, mais aussi pour mes collègues et moi de nous réunir par esprit d'émulation afin de trouver des noms exprimant l'essence même de leur être."
+9,"TEXT_REGELP5POIETENOIKOS_00757_TALK_ACTOR","（★未使用／削除予定★）"

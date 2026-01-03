@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_000","Grands Dieux<hex:021D0103>! Tu dois être vraiment pressé<hex:020808E905FF02>e<hex:FF01><hex:03>, toi... Ce qui ex<hex:02160103>pli<hex:02160103>que<hex:02160103>rait pourquoi tu te balades sans régulateur dans une zone aussi dangereuse<hex:021D0103>!"
+1,"TEXT_REGSAK6ELECTROPESTRIKE_00886_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+2,"TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_001","Votre interlocutrice"
+3,"TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_002","Cet endroit"
+4,"TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_003","Annuler"
+5,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_010","Moi<hex:021D0103>? Oh, je suis une simple gestionnaire du stock d'électrope, rien de plus. Je fais des inventaires, je planifie le transport... Ce genre de trucs."
+6,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_011","Con<hex:02160103>trai<hex:02160103>re<hex:02160103>ment à la plupart des habitants des Faubourgs, je suis pas spé<hex:02160103>cia<hex:02160103>le<hex:02160103>ment attachée à cet endroit, pro<hex:02160103>ba<hex:02160103>ble<hex:02160103>ment parce que je suis d'origine turalienne. D'un autre côté, travailler dans la Gardienne de l'Éternité me botte pas spé<hex:02160103>cia<hex:02160103>le<hex:02160103>ment non plus."
+7,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_012","J'ai donc choisi de profiter du meilleur des deux mondes<hex:021D0103>: vivre à l'intérieur de la tour et bosser à l'extérieur. Malin, non<hex:021D0103>?"
+8,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_020","Tu es aux mines d'électrope, ch<hex:02080DE905FF05>ère<hex:FF03>er<hex:03> ami<hex:020808E905FF02>e<hex:FF01><hex:03>. Tu sais sûrement déjà ce qu'on fait dans une mine, donc inutile de t'en dire davantage."
+9,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_021","Et l'électrope étant un matériau aux possibilités d'usage infinies, pas besoin de t'expliquer non plus à quel point il est essentiel pour la prospérité du royaume de Néo-Alexandrie<hex:021D0103>!"
+10,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_022","En tout cas, ce boulot me donne le sentiment de contribuer au bien-être de mes concitoyens. Il m'en faut pas plus<hex:021D0103>!"
+11,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_023","J'ai toujours été très fière de mon boulot, mais quand les sentinelles se sont retournées contre la population dans la tour, ça m'a beaucoup perturbée."
+12,"TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_024","Les possibilités infinies de l'électrope peuvent également être utilisées pour ôter des vies... J'ai pas envie de démissionner pour autant, mais ça fait tout de même réfléchir."

@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_000","Vous venez de vous harmoniser avec une <hex:024804F201FA03><hex:024904F201FB03>éthérite ancienne<hex:0249020103><hex:0248020103><hex:021D0103>!"
+1,"TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_010","Vous pouvez désormais utiliser le <hex:024804F201FA03><hex:024904F201FB03>réseau de transport éthéré du croissant<hex:0249020103><hex:0248020103> pour vous déplacer rapidement entre les éthérites de l'île de Lunule avec lesquelles vous vous êtes <hex:02081CE905FF0C>harmonisée<hex:FF0B>harmonisé<hex:03>."

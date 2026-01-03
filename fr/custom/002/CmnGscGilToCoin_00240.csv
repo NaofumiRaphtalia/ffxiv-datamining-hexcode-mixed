@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR","Soyez <hex:02081EE905FF0D>la bienvenue<hex:FF0C>le bienvenu<hex:03> au Gold Saucer des Manderville, aventuri<hex:02080DE905FF05>ère<hex:FF03>er<hex:03><hex:021D0103>! Vous désirez vous procurer des points<hex:021D0103>? Je m'occupe de vous tout de suite<hex:021D0103>!"
+1,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL","... Je suis désolé, mais vous n'avez pas assez de gils. Veuillez revenir plus tard."
+2,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX","... Je suis désolé, mais le nombre de points en votre possession est supérieur à la limite que le bureau de change est autorisé à fournir."
+3,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000","La quantité maximum autorisée après une transaction au bureau de change du Gold Saucer est de <hex:022003E80203> points."
+4,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001","Si vous voulez en gagner davantage, tentez votre chance aux mini-jeux et autres attractions qui ont lieu un peu partout dans le Gold Saucer."
+5,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_QUEST","（★未使用／削除予定★）"

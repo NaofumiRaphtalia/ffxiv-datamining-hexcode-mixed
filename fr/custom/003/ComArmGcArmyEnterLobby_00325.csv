@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_Q","Entrer dans la caserne <hex:020815E1E93501FF0D>du Maelstrom<hex:FF01><hex:03><hex:020825E1E93601FF1D>de l'ordre des Deux Vipères<hex:FF01><hex:03><hex:020816E1E93701FF0E>des Immortels<hex:FF01><hex:03><hex:021D0103>?"
+1,"TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_YES","Oui"
+2,"TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_NO","Non"
