@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+offset,0,1
+Int32,Bool,Bool
+0,True,True
+1,True,False
+2,False,True
