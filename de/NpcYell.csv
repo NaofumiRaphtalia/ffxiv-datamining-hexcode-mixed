@@ -19299,7 +19299,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19294,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19295,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19296,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19297,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19297,0,False,False,False,2,0,0,0,3,False,False,1,25,"Schrubschrabschrabschrab<hex:021D0103>...",0
 19298,0,False,False,False,2,0,0,0,3,False,False,1,25,"Gwuuun<hex:021D0103>...",0
 19299,0,False,False,False,2,0,0,0,3,False,False,1,25,"Miau, miau<hex:021D0103>...",0
 19300,0,False,False,False,2,0,0,0,3,False,False,1,25,"Wuff, wuff!",0
@@ -19355,69 +19355,69 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19350,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19351,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19352,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19353,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19354,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19355,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19356,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19357,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19358,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19359,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19360,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19361,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19362,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19363,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19364,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19365,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19366,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19367,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19368,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19369,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19370,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19371,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19372,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19373,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19374,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19375,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19376,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19377,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19378,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19379,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19380,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19381,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19382,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19383,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19384,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19385,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19386,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19387,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19388,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19389,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19390,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19391,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19392,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19393,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19394,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19395,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19396,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19397,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19398,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19399,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19400,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19401,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19402,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19403,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19404,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19353,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Da biste ja endlich! Auch hier auf Oizys werden wir 'ne richtig hoppeltastische Station aus dem Boden stampfen!",19354
+19354,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Fangen wir mit den Habitationsmodulen an. Irgendwo muss ja geschlafen und vor allem geduscht werden, hm?",19382
+19355,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unserer Infrastruktur fehlt's noch an Energisierung und Hydrofizierung. Kümmern wir uns drum!",19356
+19356,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir beginnen mit der Umwandlung des Umgebungsäthers in knisternd-knasternden Strom bester Güteklasse!",19411
+19357,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Weiter geht's mit den Hydrofizierungswerken!",19358
+19358,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"<hex:020966E948FF0A>Rundohren<hex:FF0B>Spitzohren<hex:FF0B>Spitzohren<hex:FF0D>Flauschohren<hex:FF0A>Rundohren<hex:FF0D>Spitzhörner<hex:FF0D>Flauschohren<hex:FF0A>Langohren<hex:03> wie du und andere Nicht-Löffelohren brauchen ja immer so viel von dem kalten Nass zum Überleben. Besorgen wir uns was aus der nächsten Ader und reinigen es!",19508
+19359,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Schattenflotte, die da oben so majestätisch herumschwebt, hat es mir ganz schön angetan. Mit 'ner Brücke vom Losen Anker ist es bestimmt nur ein kleiner Hopser!",19360
+19360,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wo nichts ist, muss einfach was hingepackt werden. Mit 'ner Anlage zur Schwerkraftkontrolle bauen wir uns 'ne eigene Brücke aus Schwebefelsen!",19412
+19361,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Für den Riesenkristall in Terra Firma braucht's jede Menge Energie!",19362
+19362,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Sorgen wir dafür, dass die Station so viel Strom auch verarbeiten kann!",19509
+19363,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Den Euhedron bringen wir wieder richtig zum Strahlen. Unsere Forscherkollegen hoppeln vor Aufregung schon ganz wild umher! ",19364
+19364,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Deckt euch mit jeder Menge Aktivatormittel ein und gebt dem Kristall 'ne ordentliche Wohlfühlkur! Von da oben, auf dem Gerüst!",19490
+19365,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Als Nächstes ist der gute, alte Kosmoport dran! Mehr Potenzial für die Reisen durchs All!",19366
+19366,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unsere Export- und Importfrequenz nach und von Ætheris wird besser denn je sein! ",0
+19367,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Alle Mann an die Spitzhacken! Wir graben Historisches im Tiefgrünen Echo aus! Irgendwo da drin versteckt sich eine Pforte in die Ver<hex:02160103>gangen<hex:02160103>heit.",19368
+19368,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So ein bisschen Geröll ist doch nichts gegen unseren Tatendrang. Klotzt rein und schleppt es zum Abladeplatz!",0
+19369,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Da leck mich doch am Bommel! Unsere Ausgrabungsarbeiten waren nicht genug. Jetzt müssen wir auch noch diese Kristalle am Eingang reaktivieren<hex:021D0103>...",19370
+19370,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Riesenrüben unseres Forschungsteams haben bei ihrer Analyse mal wieder ganze Arbeit geleistet.",19414
+19371,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Das Ruineninnere ist noch im Tiefschlaf. Wünschen wir es einen guten Morgen voller Tatendrang. Ein wenig Ätherverabreichung sollte helfen. ",19372
+19372,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Jaspisse könnten ja wohl auch als Hinkelsteine durchgehen. Schleppen wir sie zum Weisungsstein!",0
+19373,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die große Struktur in den Tiefen der Ruinen sieht wie der kleine Bruder des Euhedron aus. Und leidet unter ganz ähnlichem Äthermangel<hex:021D0103>...",19374
+19374,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nichts, was nicht mit etwas Aktivatormittel behoben werden könnte. Wach aaauf, kleiner Sonnenscheeein!",19491
+19375,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unser allerliebster Euhedron braucht Daten aus dem Metahedron im Wüstenbau, um wieder zu funktionieren. ",19376
+19376,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Dazu müssen wir die Daten aber erstmal empfangen können. Also: Bau'n wir 'ne Antenne oder was? Zunächst jedoch woll'n wir die Station stabilisieren.",19415
+19377,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So frisch kernstabilisert bekommt man doch direkt Lust, was Schweres zu stemmen. Machen wir uns an die Datenempfangsapparatur! Zum Aufzug!",19378
+19378,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unser letztes und <hex:021A020203>wichtigstes<hex:021A020103> Projekt hier auf Oizys, will ich meinen. Klotzt rein, ihr Maden!",19492
+19379,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So 'ne Bleibe zaubert sicher dem ganzen Projekt ein Lächeln aufs Gesicht! Komm doch mal vorbei, wenn die Module stehen!",19380
+19380,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Mir reicht ja 'ne Hängematte und 'n Eimer saftige Rüben, um mich wohlzufühlen. Aber ich seh's in euren müden Augen: Ihr freut euch auf 'n richtiges Bettchen, was? Harharhar!",0
+19381,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nebenan geht's mit den Hydrofizierungswerken direkt weiter. 'Ne kurze Lümmelpause gönn ich euch, dann wird aber wieder geklotzt, klaro?",19507
+19382,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Ich erwarte höchste Qualität, verstanden?",0
+19383,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Hervorragend, so wünsche ich mir, dass alle Projekte vonstatten gehen! Wir werden mehr als genug sauberes Trinkwasser produzieren können!",19384
+19384,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So langsam nimmt die gute Station Form an. Hoppeltastisch! Wer fertig ist, gönnt sich 'ne Pause, verstanden?",0
+19385,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Anlage macht schon echt was her! Danke fürs Pfotenschmutzigmachen!",19386
+19386,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Läuft der Gravikreator erst einmal, hält uns nichts mehr davon ab, die Schwebeflotte zu erkunden!",19413
+19387,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Sehr schön, das nenne ich mal ein gefestigtes Pflaster! Auf die Arbeit könnt ihr mehr als stolz sein!",19388
+19388,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Dann wollen wir den Kristall nicht viel länger warten lassen, was meint ihr? Wer mit seinem Teil fertig ist, legt zuerst aber 'ne ordentliche Pause ein, klaro?",0
+19389,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Da haben wir aber jede Menge Aktivatormittel draufgehauen. Jetzt bleibt nur noch abzuwarten!",19390
+19390,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Ich weiß ja nicht, wie's euch geht, aber meine Vorfreude ist groß. Den Euhedron wieder strahlen zu sehen, wird bestimmt hoppeltastisch!",0
+19391,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Okidoki, damit sind wir hier fürs Erste fertig. Kümmert euch bitte gut um die Blasen an euren Pfoten, verstanden?",19392
+19392,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Mit so 'nem tollen Kosmoport sind das Abheben und Landen bestimmt nicht mehr die Zitterpartien, die sie vorher waren. Die Kapitänin lässt grüßen!",0
+19393,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Na, meine lieben Aushilfsarchäologen. Hoffe, das Ausgraben macht euch Freude. Der Eingang sollte nicht mehr weit sein!",19394
+19394,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wer fertig ist, macht Pause, klaro? Und als Nächstes finden wir dann noch mehr über diese Außerætherischen raus!",0
+19395,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Genau, wie unsere Forscherkollegen meinten! Die Pfortensteine strotzen bereits vor Äther!",19396
+19396,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Lange dauert's sicher nicht mehr, bis sich da was tut. Wer fertig ist, darf in Ehrfurcht abwarten, was als Nächstes passiert!",0
+19397,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Reife Leistung! Der Weisungsstein scheint genug zu haben!",19398
+19398,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Alle, die ihren Teil getan haben, dürfen sich zurücklehnen und abwarten. Was wohl nun passieren wird<hex:021D0103>...?",0
+19399,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So viel dazu. Bei dem ganzen Aktivatormittel wird der Metahedron schon bald wieder in seinen alten Farben leuchten, da bin ich mir sicher!",19400
+19400,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wer hat Lust auf 'ne Kelle Karottensuppe? Ich schenk aus und dann schauen wir mal, was als Nächstes passiert!",0
+19401,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Kernstabilisierung kommt gut voran. Noch ein paar letzte Feinschliffe und dann sieht's genau wie auf den Plänen aus!",19402
+19402,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Danke für euren Schweiß und die Hornhaut auf euren Pfoten. Die Reaktivierung des Euhedron ist in Hoppelnähe! Und der Aufzug geht auch bald!",0
+19403,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Fertig! Die Übertragungstests liefern schonmal viel<hex:02160103>ver<hex:02160103>sprechende Werte!",19404
+19404,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Das war's mit den Gemeinschaftsprojekten auf Oizys! Jetzt bleibt nur noch zu sehen, was der Euhedron für uns bereithält.",0
 19405,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19406,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19407,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19408,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19409,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19410,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19411,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19412,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19413,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19414,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19415,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19411,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Mit der Präzision eines Kochs am Möhrchenschnittbrett, ist das klar?",0
+19412,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Kommen wir erstmal auf die Schattenflotte, gibt's da sicher 'ne Menge zu den Gravitationsanomalien zu forschen.",0
+19413,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Jetzt legen wir 'ne kurze Pause ein und dann geht's weiter auf die Schattenflotte, erkunden und so.",0
+19414,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Jaspisse sind mehr wert als eure gesammelte Ausrüstung. Passt also auf, wenn ihr ihren Äther weiterleitet, klaro?",0
+19415,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Und bitte nicht den Aufzug vergessen, ja?",0
 19416,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19417,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19418,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19492,9 +19492,9 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19487,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19488,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19489,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19490,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19491,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19492,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19490,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir haben extra ein Gerüst aufgebaut. Damit könnt ihr auch ganz oben Aktivatormittel auftragen!",0
+19491,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir haben extra ein Gerüst aufgebaut. Damit könnt ihr auch ganz oben Aktivatormittel auftragen!",0
+19492,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir haben extra ein Gerüst aufgebaut. Damit kommt ihr auch nach ganz oben!",0
 19493,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19494,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19495,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19509,9 +19509,9 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19504,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19505,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19506,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19507,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19508,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19509,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19507,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Geht gleich direkt weiter. Habt mal was Geduld, ja!",0
+19508,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Passt aber bloß auf die empfindlichen Ätherleitteile auf. Die sind nämlich äh<hex:021D0103>... empfindlich!",0
+19509,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Pflastern wir, was das Zeug hält. Dann sieht es hier gleich viel galaktastischer aus!",0
 19510,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19511,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19512,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0

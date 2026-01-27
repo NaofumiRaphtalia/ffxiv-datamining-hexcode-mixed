@@ -1432,7 +1432,7 @@ Int32,UInt8,UInt8,Int32,UInt8,String,String,String
 1427,0,0,0,0,"","",""
 1428,0,0,0,0,"","",""
 1429,0,0,0,0,"","",""
-1430,1,0,151631,0,"Wenn du eine <hex:024804F201F403><hex:024904F201F503>Schatzkarte<hex:0249020103><hex:0248020103> benutzt, erscheint ein Kartenausschnitt, der dir den ungefährten Fundort des Schatzes verrät. Es liegt dann an dir, den gezeigten Kartenauschnitt einem Abschnitt auf der entsprechenden Arealkarte zuzuordnen und ihn aufzusuchen.","",""
+1430,1,0,151631,0,"Wenn du eine <hex:024804F201F403><hex:024904F201F503>Schatzkarte<hex:0249020103><hex:0248020103> benutzt, erscheint ein Kartenausschnitt, der dir den ungefähren Fundort des Schatzes verrät. Es liegt dann an dir, den gezeigten Kartenauschnitt einem Abschnitt auf der entsprechenden Arealkarte zuzuordnen und ihn aufzusuchen.","",""
 1431,1,0,151632,0,"Am Fundort angekommen kannst du mit dem allgemeinen Kommando <hex:024804F201F403><hex:024904F201F503>Ausgraben<hex:0249020103><hex:0248020103> den Schatz heben. Solltest du den Fundort korrekt lokalisiert haben, erscheint eine Schatzkiste.","",""
 1432,1,0,151633,0,"Doch sei gewarnt! Einige Schatzkisten sind mit Mechanismen präpariert, die Monster anlocken. Diese gilt es zu besiegen, wenn du mit dem Schatz - und deinem<hex:02100103>Leben - davonkommen möchtest.","",""
 1433,0,0,0,0,"","",""

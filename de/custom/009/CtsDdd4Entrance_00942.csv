@@ -27,7 +27,7 @@ Int32,String,String
 22,"TEXT_CTSDDD4ENTRANCE_00942_ENTER_A6","Auf dem 71. Pfad"
 23,"TEXT_CTSDDD4ENTRANCE_00942_ENTER_A3","Zurück"
 24,"TEXT_CTSDDD4ENTRANCE_00942_ENTER_MENU_TITLE_EG_NORMAL","In dem Inhalt „Eminente Trauer“ kannst du den Kampf gegen den Endgegner auf Ebene 99 üben."
-25,"TEXT_CTSDDD4ENTRANCE_00942_SYSTEM_000_100","Die Aktuelle Agenda wird durch Abschluss der Auftrags „Die vergessene Agenda“ freigeschaltet. Dieser kann bei I'tolwann in der Ertränkten Sorge von Limsa Lominsa angenommen werden."
+25,"TEXT_CTSDDD4ENTRANCE_00942_SYSTEM_000_100","Die Aktuelle Agenda wird durch Abschluss des Auftrags „Die vergessene Agenda“ freigeschaltet. Dieser kann bei I'tolwann in der Ertränkten Sorge von Limsa Lominsa angenommen werden. "
 26,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_TOP_MENU_NEXT","<hex:024804F2023503><hex:024904F2023603>Nächste Ebene<hex:0249020103><hex:0248020103> betreten"
 27,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_TOP_MENU_EXPLAIN","Mehr erfahren"
 28,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_Q","Möchtest du mit der gleichen Gruppe fortschreiten?"

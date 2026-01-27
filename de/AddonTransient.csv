@@ -682,7 +682,7 @@ Int32,String
 1076,"Benötigte Berechtigungen"
 1077,"Innenraum-Renovierungen können nur von Spielern mit den entsprechenden Berechtigungen durchgeführt werden.<hex:02100103><hex:02100103>Handelt es sich um die Unterkunft einer freien Ge<hex:02160103>sell<hex:02160103>schaft, so können nur Spieler mit der Berechtigung „Bauelemente ändern“ und „Ausstattung platzieren/entfernen“ eine Innenraum-Renovierung durchführen.<hex:02100103>Bei privaten Unterkünften können neben dem Besitzer auch Mitbewohner mit der Berechtigung „Platzieren/Entfernen/Färben“ eine Innenraum-Renovierung vornehmen."
 1078,"<hex:021E020B03> Untermenü　<hex:021E020C03> Cursor-Beschleunigung"
-1079,""
+1079,"<hex:021E020B03> Untermenü"
 1080,""
 1081,""
 1082,""

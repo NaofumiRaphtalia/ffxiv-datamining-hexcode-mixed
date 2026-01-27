@@ -3305,7 +3305,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003300,"Soma-Blüte",3,"Soma-Blüten",2,0,1,1,0,False,"Soma-Blüte",25039,0,1,1,70030,0,0,0
 2003301,"goldverziert[a] Edelstein",4,"goldverzierter Edelsteine",2,0,1,0,0,False,"Goldverzierter Edelstein",20267,0,1,1,70032,0,0,0
 2003302,"Archestratos Blume",3,"Archestratos Blumen",1,0,1,1,0,False,"Archestratos Blume",25580,0,3,1,70045,0,0,0
-2003303,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003303,"Badesion",3,"Badesions",1,0,1,0,0,False,"Badesion",59896,0,2,1,70986,0,0,0
 2003304,"Dosis[p] ätherischen Ergänzungsmittels",3,"Dosen[p] ätherischen Ergänzungsmittels",1,0,1,1,0,False,"Ätherisches Ergänzungsmittel",20673,1,1,1,70049,3,0,0
 2003305,"Soma-Splitter",4,"Soma-Splitter",2,0,1,0,0,False,"Soma-Splitter",20037,0,99,1,0,0,0,0
 2003306,"Geheimdokument",4,"Geheimdokumente",2,0,1,2,0,False,"Geheimdokument",26603,0,99,1,0,0,0,0
@@ -3767,7 +3767,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003762,"Weinflasche",3,"Weinflaschen",1,0,1,1,0,False,"Weinflasche",25057,0,1,1,70915,0,0,0
 2003763,"Sack[p] Feldfrüchte",4,"Säcke[p] Feldfrüchte",2,0,1,0,0,False,"Sack Feldfrüchte",25351,0,1,1,70915,0,0,0
 2003764,"Stück[p] Papier",4,"Stücke[p] Papier",2,0,1,2,0,False,"Stück Papier",26151,0,1,1,70915,0,0,0
-2003765,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003765,"Phantomglas",2,"Phantomgläser",2,0,1,2,0,False,"Phantomglas",25986,1,1,8,70991,0,0,0
 2003766,"Sphärentafel",3,"Sphärentafeln",1,0,1,1,0,False,"Sphärentafel",26083,1,1,8,70917,0,0,0
 2003767,"Sicherheitspass[p] (?)",2,"Sicherheitspässe[p] (?)",2,0,1,0,0,False,"Sicherheitspass (?)",26078,1,1,1,70904,0,0,1
 2003768,"St. II-Sicherheitspass[p]",2,"St. II-Sicherheitspässe[p]",2,0,1,0,0,False,"St. II-Sicherheitspass",26079,1,1,1,70904,0,0,1
@@ -3804,11 +3804,11 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003799,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003800,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003801,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003802,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003803,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003802,"Aktivatorpatrone",3,"Aktivatorpatronen",1,0,1,1,0,False,"Aktivatorpatrone",23569,0,3,1,0,0,0,0
+2003803,"Aktivatorpatrone",3,"Aktivatorpatronen",1,0,1,1,0,False,"Aktivatorpatrone",23569,0,3,1,0,0,0,0
 2003804,"Beutel[p] Ableitpulver",4,"Beutel[p] Ableitpulver",2,0,1,0,0,False,"Ableitpulver",26110,1276,1,1,70966,1,0,4
-2003805,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003806,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003805,"Oizys-Jaspis",3,"Oizys-Jaspisse",2,0,1,0,0,False,"Oizys-Jaspis",0,0,1,1,0,0,0,0
+2003806,"prächtig[a] Oizys-Jaspis",3,"prächtig[a] Oizys-Jaspisse",2,0,1,0,0,False,"Prächtiger Oizys-Jaspis",0,0,1,1,0,0,0,0
 2003807,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003808,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003809,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
