@@ -4813,11 +4813,11 @@ Int32,String,UInt8,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,PackedBool3
 4808,"cbem_sp87_2lp",0,True,False,False,0,0,False
 4809,"cbem_sp88_2lp",0,True,False,False,0,0,False
 4810,"cbem_sp89_2lp",0,True,False,False,0,0,False
-4811,"",0,False,False,False,0,0,False
-4812,"",0,False,False,False,0,0,False
-4813,"",0,False,False,False,0,0,False
-4814,"",0,False,False,False,0,0,False
-4815,"",0,False,False,False,0,0,False
+4811,"cbnm_wks_mining_loop",0,True,False,False,0,0,False
+4812,"cbbm_wks023",0,True,False,False,0,0,False
+4813,"cbbm_wks024",0,False,False,False,0,0,False
+4814,"cbbm_wks025",0,False,False,False,0,0,False
+4815,"cbbm_wks026",0,False,False,False,0,0,False
 4816,"cbbm_pc_cnt065",0,False,False,False,0,0,False
 4817,"cbbm_pc_cnt066",0,False,False,False,0,0,False
 4818,"cbbm_sp_a_short2_1",20,False,False,False,0,0,False
@@ -4832,8 +4832,8 @@ Int32,String,UInt8,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,PackedBool3
 4827,"",0,False,False,False,0,0,False
 4828,"",0,False,False,False,0,0,False
 4829,"",0,False,False,False,0,0,False
-4830,"",0,False,False,False,0,0,False
-4831,"",0,False,False,False,0,0,False
+4830,"cbnm_u_carry_wks_lp",0,True,False,False,0,0,False
+4831,"cbnm_u_carry_wks_big_lp",0,True,False,False,0,0,False
 4832,"cbbm_pc_cnt069",0,False,False,False,0,0,False
 4833,"",0,False,False,False,0,0,False
 4834,"",0,False,False,False,0,0,False
@@ -4850,7 +4850,7 @@ Int32,String,UInt8,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,PackedBool3
 4845,"",0,False,False,False,0,0,False
 4846,"",0,False,False,False,0,0,False
 4847,"",0,False,False,False,0,0,False
-4848,"",0,False,False,False,0,0,False
+4848,"cbbm_wks027",0,False,False,False,0,0,False
 4849,"",0,False,False,False,0,0,False
 4850,"",0,False,False,False,0,0,False
 4851,"",0,False,False,False,0,0,False
