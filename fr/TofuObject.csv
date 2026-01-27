@@ -109,8 +109,7 @@ Int32,PackedBool0,UInt8,Int32,UInt16,UInt32,UInt32,UInt16,UInt16,String,Int32,In
 104,False,4,0,999,230307,0,128,128,"図形：矢印右回り",1,2,3,0,0,255,255,255,255,255,True,True,-1
 105,True,5,0,0,240106,0,32,32,"Groupe",1,2,3,0,0,255,255,255,255,255,False,False,-1
 106,True,6,0,110,240203,0,128,128,"Attaque à dégâts partagés continus",1,2,3,0,0,255,255,255,255,255,False,False,-1
-107,True,6,0,111,240206,0,128,128,"Attaque à dégâts de proximité
-centrés sur un personnage",1,2,3,0,0,255,255,255,255,255,False,True,-1
+107,True,6,0,111,240206,0,128,128,"Attaque de proximité centrée",1,2,3,0,0,255,255,255,255,255,False,True,-1
 108,True,6,0,112,240207,0,64,64,"Attaque puissante",1,2,3,0,0,255,255,255,255,255,False,False,-1
 109,True,6,0,113,240208,0,256,256,"Attaque à projection circulaire",1,2,3,0,0,255,255,255,255,255,False,False,-1
 110,True,6,0,114,240209,0,256,256,"Attaque à projection en ligne droite",1,2,3,9,10,255,255,255,255,255,False,True,-1

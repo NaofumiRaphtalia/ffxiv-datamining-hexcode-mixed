@@ -4416,7 +4416,7 @@ Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,Pack
 4411,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4412,"Sagacité des Prœufs","Les chances de trouver des Prœufs sont augmentées.",216259,0,0,1,1,16,1040,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4413,"Fortune des Prœufs","Tous les Prœufs trouvés sont dorés.",216260,0,0,1,1,16,1041,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4414,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4414,"Hameçon additionnel","La prochaine prise est doublée.",216257,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4415,"Marque de contributeur exemplaire","Prouve l'obtention du titre de contributeur exemplaire sur une période donnée. Artisans et récolteurs uniquement.",216255,0,0,1,1,16,897,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4416,"Résistance à Interruption","Interruption n'a aucun effet.",214188,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4417,"Posture rotative<hex:021D0103>: avant","La prochaine attaque sera effectuée vers l'avant.",215424,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4439,7 +4439,7 @@ Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,Pack
 4434,"","",0,0,0,0,1,0,0,False,False,False,False,False,False,False,True,False,0,0,True,False,28,26,False,0,False,0,False,0,0,0,False,False,False,0
 4435,"","",0,0,0,0,1,0,0,False,False,False,False,False,False,False,True,False,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4436,"Vulnérabilité diminuée","Les dégâts reçus sont réduits.",215021,40,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
-4437,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4437,"Recherche étendue préparée","Recherche étendue peut être utilisée.",216262,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4438,"Combat décisif<hex:021D0103>: Tritonien","Seules les attaques sur Tritonien ont un effet.",229940,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4439,"Combat décisif<hex:021D0103>: Néregat","Seules les attaques sur Néregat ont un effet.",229941,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4440,"Combat décisif<hex:021D0103>: Phobos","Seules les attaques sur Phobos ont un effet.",229942,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4841,7 +4841,7 @@ Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,Pack
 4836,"Picto Papillons","Focalisée sur le sort de magie picturale Picto Papillons.",216413,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,True,0,False,0,False,0,24,0,False,False,False,0
 4837,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4838,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4839,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4839,"Cosmomain sûre","Les actions réussissent à coup sûr.",211551,0,0,33,1,16,0,False,False,False,False,False,False,False,True,False,0,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,False,0
 4840,"Barrière chevaleresque","Insensible à un certain montant de dégâts.",212801,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,30,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
 4841,"Prière divine","Des PV sont récupérés périodiquement.",215532,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,0,False,True,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4842,"Vélocité chevaleresque protectrice","Les dégâts reçus sont réduits.",212816,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4998,7 +4998,7 @@ Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,Pack
 4993,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4994,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4995,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4996,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4996,"Super laser extracteur préparé","Super laser extracteur peut être utilisé.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4997,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4998,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4999,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5045,8 +5045,8 @@ Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,Pack
 5040,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5041,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5042,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5043,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5044,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5043,"Étourdissement","Toute action est impossible.",215004,0,0,1,2,3,2,True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5044,"Pesanteur","La vitesse de déplacement est réduite.",215002,150,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 5045,"Résistance au feu réduite+","La résistance à l'élément feu est considérablement réduite.",215595,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5046,"Résistance aux Ténèbres réduite","La résistance à l'élément Ténèbres est considérablement réduite.",215485,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5047,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5112,7 +5112,7 @@ Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,Pack
 5107,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5108,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5109,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5110,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5110,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,False,True,0,0,True,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5111,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5112,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5113,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0

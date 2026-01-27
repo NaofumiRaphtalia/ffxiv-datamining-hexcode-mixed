@@ -5408,32 +5408,32 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5403,"",0,"",0,0,0,0,0,"",0,0,0
 5404,"",0,"",0,0,0,0,0,"",0,0,0
 5405,"Ring arcadien",0,"Ring arcadien",0,0,1,0,0,"<hex:020939E802FF11>le ring arcadien<hex:FF11>au ring arcadien<hex:FF11>du ring arcadien<hex:03>",0,0,0
-5406,"",0,"",0,0,0,0,0,"",0,0,0
-5407,"",0,"",0,0,0,0,0,"",0,0,0
-5408,"",0,"",0,0,0,0,0,"",0,0,0
-5409,"",0,"",0,0,0,0,0,"",0,0,0
-5410,"",0,"",0,0,0,0,0,"",0,0,0
-5411,"",0,"",0,0,0,0,0,"",0,0,0
-5412,"",0,"",0,0,0,0,0,"",0,0,0
-5413,"",0,"",0,0,0,0,0,"",0,0,0
-5414,"",0,"",0,0,0,0,0,"",0,0,0
-5415,"",0,"",0,0,0,0,0,"",0,0,0
-5416,"",0,"",0,0,0,0,0,"",0,0,0
-5417,"",0,"",0,0,0,0,0,"",0,0,0
-5418,"",0,"",0,0,0,0,0,"",0,0,0
-5419,"",0,"",0,0,0,0,0,"",0,0,0
-5420,"",0,"",0,0,0,0,0,"",0,0,0
-5421,"",0,"",0,0,0,0,0,"",0,0,0
-5422,"",0,"",0,0,0,0,0,"",0,0,0
-5423,"",0,"",0,0,0,0,0,"",0,0,0
-5424,"",0,"",0,0,0,0,0,"",0,0,0
-5425,"",0,"",0,0,0,0,0,"",0,0,0
-5426,"",0,"",0,0,0,0,0,"",0,0,0
-5427,"",0,"",0,0,0,0,0,"",0,0,0
-5428,"",0,"",0,0,0,0,0,"",0,0,0
-5429,"",0,"",0,0,0,0,0,"",0,0,0
-5430,"",0,"",0,0,0,0,0,"",0,0,0
-5431,"",0,"",0,0,0,0,0,"",0,0,0
+5406,"Oizys",0,"Oizys",0,0,1,0,0,"<hex:02091DE802FF06>Oizys<hex:FF09>à Oizys<hex:FF08>d'Oizys<hex:03>",0,0,0
+5407,"Mégalithopolis",0,"Mégalithopolis",0,0,1,0,0,"<hex:02093CE802FF10>Mégalithopolis<hex:FF13>à Mégalithopolis<hex:FF13>de Mégalithopolis<hex:03>",0,0,0
+5408,"Désert de l'Emporte-brise",0,"Désert de l'Emporte-brise",0,0,1,0,0,"<hex:020960E802FF1E>le désert de l'Emporte-brise<hex:FF1E>au désert de l'Emporte-brise<hex:FF1E>du désert de l'Emporte-brise<hex:03>",0,0,0
+5409,"Reg levant",0,"Reg levant",0,0,1,0,0,"<hex:020930E802FF0E>le Reg levant<hex:FF0E>au Reg levant<hex:FF0E>du Reg levant<hex:03>",0,0,0
+5410,"Cap Géras",0,"Cap Géras",0,0,1,0,0,"<hex:020930E802FF0E>le cap Géras<hex:FF0E>au cap Géras<hex:FF0E>du cap Géras<hex:03>",0,0,0
+5411,"Puits de Moros",0,"Puits de Moros",0,0,1,0,0,"<hex:02093CE802FF12>le Puits de Moros<hex:FF12>au Puits de Moros<hex:FF12>du Puits de Moros<hex:03>",0,0,0
+5412,"Bâtiment ombré",0,"Bâtiment ombré",0,0,1,0,0,"<hex:020942E802FF14>le Bâtiment ombré<hex:FF14>au Bâtiment ombré<hex:FF14>du Bâtiment ombré<hex:03>",0,0,0
+5413,"Échos d'Émeraude",0,"Échos d'Émeraude",0,0,1,0,0,"<hex:02094BE802FF17>les Échos d'Émeraude<hex:FF17>aux Échos d'Émeraude<hex:FF17>des Échos d'Émeraude<hex:03>",0,0,0
+5414,"Mur de l'Écusson",0,"Mur de l'Écusson",0,0,1,0,0,"<hex:020945E802FF15>le Mur de l'Écusson<hex:FF15>au Mur de l'Écusson<hex:FF15>du Mur de l'Écusson<hex:03>",0,0,0
+5415,"Mur du Déclin",0,"Mur du Déclin",0,0,1,0,0,"<hex:02093CE802FF12>le Mur du Déclin<hex:FF12>au Mur du Déclin<hex:FF12>du Mur du Déclin<hex:03>",0,0,0
+5416,"Galerie effondrée",0,"Galerie effondrée",0,0,1,0,0,"<hex:02094EE802FF16>la galerie effondrée<hex:FF19>à la galerie effondrée<hex:FF19>de la galerie effondrée<hex:03>",0,0,0
+5417,"Carotte oubliée",0,"Carotte oubliée",0,0,1,0,0,"<hex:020948E802FF14>la Carotte oubliée<hex:FF17>à la Carotte oubliée<hex:FF17>de la Carotte oubliée<hex:03>",0,0,0
+5418,"Oasis des Pionniers",0,"Oasis des Pionniers",0,0,1,0,0,"<hex:02094EE802FF16>l'Oasis des Pionniers<hex:FF19>à l'Oasis des Pionniers<hex:FF19>de l'Oasis des Pionniers<hex:03>",0,0,0
+5419,"Plage du Pôle unique",0,"Plage du Pôle unique",0,0,1,0,0,"<hex:020957E802FF19>la plage du Pôle unique<hex:FF1C>à la plage du Pôle unique<hex:FF1C>de la plage du Pôle unique<hex:03>",0,0,0
+5420,"Station Terra Firma",0,"Station Terra Firma",0,0,1,0,0,"<hex:020951E802FF17>la station Terra Firma<hex:FF1A>à la station Terra Firma<hex:FF1A>de la station Terra Firma<hex:03>",0,0,0
+5421,"Puits de la Causalité",0,"Puits de la Causalité",0,0,1,0,0,"<hex:020954E802FF1A>le Puits de la Causalité<hex:FF1A>au Puits de la Causalité<hex:FF1A>du Puits de la Causalité<hex:03>",0,0,0
+5422,"L'Ancre",0,"L'Ancre",0,0,1,0,0,"<hex:020924E802FF08>L'Ancre<hex:FF0B>à L'Ancre<hex:FF0B>de L'Ancre<hex:03>",0,0,0
+5423,"Tertre ombré",0,"Tertre ombré",0,0,1,0,0,"<hex:020939E802FF11>le Tertre ombré<hex:FF11>au Tertre ombré<hex:FF11>du Tertre ombré<hex:03>",0,0,0
+5424,"Terrier désertique",0,"Terrier désertique",0,0,1,0,0,"<hex:02094BE802FF17>le Terrier désertique<hex:FF17>au Terrier désertique<hex:FF17>du Terrier désertique<hex:03>",0,0,0
+5425,"Oasis des Pionniers",0,"Oasis des Pionniers",0,0,1,0,0,"<hex:02094EE802FF16>l'Oasis des Pionniers<hex:FF19>à l'Oasis des Pionniers<hex:FF19>de l'Oasis des Pionniers<hex:03>",0,0,0
+5426,"Est de Mégalithopolis",0,"Est de Mégalithopolis",0,0,1,0,0,"<hex:020957E802FF19>l'est de Mégalithopolis<hex:FF1C>à l'est de Mégalithopolis<hex:FF1C>de l'est de Mégalithopolis<hex:03>",0,0,0
+5427,"Lisière d'Eau",0,"Lisière d'Eau",0,0,1,0,0,"<hex:020942E802FF12>la Lisière d'Eau<hex:FF15>à la Lisière d'Eau<hex:FF15>de la Lisière d'Eau<hex:03>",0,0,0
+5428,"Est de la galerie effondrée",0,"Est de la galerie effondrée",0,0,1,0,0,"<hex:020969E802FF1F>l'est de la galerie effondrée<hex:FF22>à l'est de la galerie effondrée<hex:FF22>de l'est de la galerie effondrée<hex:03>",0,0,0
+5429,"Puits de Moros",0,"Puits de Moros",0,0,1,0,0,"<hex:02093CE802FF12>le Puits de Moros<hex:FF12>au Puits de Moros<hex:FF12>du Puits de Moros<hex:03>",0,0,0
+5430,"Faille ombrée",0,"Faille ombrée",0,0,1,0,0,"<hex:020942E802FF12>la Faille ombrée<hex:FF15>à la Faille ombrée<hex:FF15>de la Faille ombrée<hex:03>",0,0,0
+5431,"Souterrain",0,"Souterrain",0,0,1,0,0,"<hex:020930E802FF0E>le souterrain<hex:FF0E>au souterrain<hex:FF0E>du souterrain<hex:03>",0,0,0
 5432,"Worqor Chirteh",0,"Worqor Chirteh",0,0,1,0,0,"<hex:020939E802FF0F>Worqor Chirteh<hex:FF12>à Worqor Chirteh<hex:FF12>de Worqor Chirteh<hex:03>",0,0,0
 5433,"Point névralgique 1",0,"Points névralgiques 1",0,0,1,0,0,"<hex:02094EE802FF18>le point névralgique 1<hex:FF18>au point névralgique 1<hex:FF18>du point névralgique 1<hex:03>",0,0,0
 5434,"Point névralgique 2",0,"Points névralgiques 2",0,0,1,0,0,"<hex:02094EE802FF18>le point névralgique 2<hex:FF18>au point névralgique 2<hex:FF18>du point névralgique 2<hex:03>",0,0,0
@@ -5458,11 +5458,11 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5453,"Berges de Salpêtre",0,"Berges de Salpêtre",0,0,1,0,0,"<hex:02094EE802FF18>les berges de Salpêtre<hex:FF18>aux berges de Salpêtre<hex:FF18>des berges de Salpêtre<hex:03>",0,0,0
 5454,"Gouffre aux Capsules",0,"Gouffre aux Capsules",0,0,1,0,0,"<hex:02094EE802FF18>le gouffre aux Capsules<hex:FF18>au gouffre aux Capsules<hex:FF18>du gouffre aux Capsules<hex:03>",0,0,0
 5455,"Cheminée de Fusingway",0,"Cheminée de Fusingway",0,0,1,0,0,"<hex:02095AE802FF1A>la Cheminée de Fusingway<hex:FF1D>à la Cheminée de Fusingway<hex:FF1D>de la Cheminée de Fusingway<hex:03>",0,0,0
-5456,"",0,"",0,0,0,0,0,"",0,0,0
-5457,"",0,"",0,0,0,0,0,"",0,0,0
-5458,"",0,"",0,0,0,0,0,"",0,0,0
-5459,"",0,"",0,0,0,0,0,"",0,0,0
-5460,"",0,"",0,0,0,0,0,"",0,0,0
+5456,"Station Terra Firma",0,"Station Terra Firma",0,0,1,0,0,"<hex:020951E802FF17>la station Terra Firma<hex:FF1A>à la station Terra Firma<hex:FF1A>de la station Terra Firma<hex:03>",0,0,0
+5457,"Nord-ouest du Reg levant",0,"Nord-ouest du Reg levant",0,0,1,0,0,"<hex:02095AE802FF1C>le nord-ouest du Reg levant<hex:FF1C>au nord-ouest du Reg levant<hex:FF1C>du nord-ouest du Reg levant<hex:03>",0,0,0
+5458,"Cap Géras",0,"Cap Géras",0,0,1,0,0,"<hex:020930E802FF0E>le cap Géras<hex:FF0E>au cap Géras<hex:FF0E>du cap Géras<hex:03>",0,0,0
+5459,"Bâtiment ombré",0,"Bâtiment ombré",0,0,1,0,0,"<hex:020942E802FF14>le Bâtiment ombré<hex:FF14>au Bâtiment ombré<hex:FF14>du Bâtiment ombré<hex:03>",0,0,0
+5460,"Terrier désertique",0,"Terrier désertique",0,0,1,0,0,"<hex:02094BE802FF17>le Terrier désertique<hex:FF17>au Terrier désertique<hex:FF17>du Terrier désertique<hex:03>",0,0,0
 5461,"",0,"",0,0,0,0,0,"",0,0,0
 5462,"",0,"",0,0,0,0,0,"",0,0,0
 5463,"",0,"",0,0,0,0,0,"",0,0,0

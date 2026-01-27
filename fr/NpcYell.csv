@@ -19299,7 +19299,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19294,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19295,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19296,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19297,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19297,0,False,False,False,2,0,0,0,3,False,False,1,25,"Bzzzzzzzz...",0
 19298,0,False,False,False,2,0,0,0,3,False,False,1,25,"Gwon...",0
 19299,0,False,False,False,2,0,0,0,3,False,False,1,25,"Miaaaaou<hex:021D0103>!",0
 19300,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ouaf<hex:021D0103>!",0
@@ -19355,69 +19355,69 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19350,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19351,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19352,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19353,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19354,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19355,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19356,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19357,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19358,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19359,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19360,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19361,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19362,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19363,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19364,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19365,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19366,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19367,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19368,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19369,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19370,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19371,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19372,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19373,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19374,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19375,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19376,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19377,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19378,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19379,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19380,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19381,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19382,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19383,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19384,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19385,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19386,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19387,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19388,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19389,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19390,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19391,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19392,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19393,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19394,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19395,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19396,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19397,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19398,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19399,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19400,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19401,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19402,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19403,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19404,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19353,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Merci pour votre par<hex:02160103>ti<hex:02160103>ci<hex:02160103>pa<hex:02160103>tion<hex:021D0103>! Améliorons notre station spatiale afin de pouvoir explorer cette planète en tout confort<hex:021D0103>!",19354
+19354,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Première étape<hex:021D0103>: bâtir des modules d'habitation pour renforcer notre capacité d'accueil<hex:021D0103>!",19382
+19355,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nous allons construire coup sur coup deux structures d'approvisionnement, l'une pour l'électricité et l'autre pour l'eau. Je vous préviens, ça va être costaud<hex:021D0103>!",19356
+19356,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"D'abord, la station énergétique<hex:021D0103>! Elle va nous permettre de transformer l'éther environnant en électricité pour alimenter nos machines.",19411
+19357,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Place à présent à notre second ouvrage collectif<hex:021D0103>: la con<hex:02160103>struc<hex:02160103>tion d'une station hydropurificatrice<hex:021D0103>!",19358
+19358,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Grâce à elle, nous pourrons puiser dans les nappes phréatiques et fournir de l'eau potable à tous nos collaborateurs humains, histoire d'assurer leur survie<hex:021D0103>!",19508
+19359,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Le Bâtiment ombré vaut assurément la peine d'être exploré. Voilà pourquoi nous comptons ériger un pont de pierre permettant d'y accéder à partir de L'Ancre<hex:021D0103>!",19360
+19360,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Plus exactement, nous allons construire deux générateurs de gravité, grâce auxquels nous agglutinerons des rochers pour former une passerelle <hex:021A020203>ad hoc<hex:021A020103><hex:021D0103>!",19412
+19361,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Pour déplacer le cristal détérioré qui se trouve au fond de la base, on va avoir besoin de beaucoup d'énergie<hex:021D0103>!",19362
+19362,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Pour ça, on va acheminer le courant des ins<hex:02160103>tal<hex:02160103>la<hex:02160103>tions éléctriques jusqu'à Terra Firma<hex:021D0103>!",19509
+19363,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"On va refaire une beauté à l'euèdre<hex:021D0103>! Grâce à lui, on pourra en apprendre plus au sujet des mystérieux pionniers<hex:021D0103>!",19364
+19364,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Grimpez sur l'échafaudage supérieur et occupez-vous de l'euèdre bien comme il faut<hex:021D0103>!",19490
+19365,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"C'est l'heure d'aménager le cosmoport<hex:021D0103>! Bientôt, le reste de l'univers nous ouvrira ses bras<hex:021D0103>!",19366
+19366,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Une fois ce projet terminé, le trajet entre Oizys et Ætherys sera une promenade de santé<hex:021D0103>!",0
+19367,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"On se lance dans l'excavation des vestiges des Échos d'Émeraude<hex:021D0103>! Dégagez les sédiments pour trouver une entrée<hex:021D0103>!",19368
+19368,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Apportez les sédiments aux dépôts, tout en prenant le plus grand soin des vestiges<hex:021D0103>!",0
+19369,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"C'est vraiment pas de bol ! Déjà qu'on a eu du mal à atteindre ces vestiges, voilà qu'il faut charger en éther les formations cristallines pour que les portes s'ouvrent !",19370
+19370,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Paraît que c'est comme ça que ça fonctionne... Enfin, d'après les analyses des chercheurs !",19414
+19371,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Les vestiges oubliés des Échos d'Émeraude sont encore plongés dans leur humble sommeil... On va réveiller tout ça à coup d'éther !",19372
+19372,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"On a préparé de gros jaspes d'Oizys pour l'occasion ! Je compte sur vous pour les apporter jusqu'à la pierre-guide !",0
+19373,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"On a découvert au fond des ruines une formation cristalline semblable à celle de notre base<hex:021D0103>! Elle manque juste un peu d'éther, comme d'hab' !",19374
+19374,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Répandez donc de l'activeur d'éther sur le métaèdre, ça va le réveiller !",19491
+19375,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Apparemment, si on veut ranimer com<hex:02160103>plè<hex:02160103>te<hex:02160103>ment l'euèdre, il faut envoyer des in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions éthérées depuis les vestiges...",19376
+19376,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Il va donc falloir construire des antennes-relais sur le toit de la station ! Et pour ça, on doit d'abord consolider sa structure afin qu'elle supporte le poids de cette nouvelle installation !",19415
+19377,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Ca y est, les préparatifs effectués depuis le renforcement de la station sont terminés, on va pouvoir passer à l'action ! Prenez les ascenseurs pour vous réunir sur le toit !",19378
+19378,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Quand on aura terminé nos antennes-relais et ranimé com<hex:02160103>plè<hex:02160103>te<hex:02160103>ment l'euèdre, on pourra enfin dire que notre venue sur cette planète avait un sens !",19492
+19379,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Réjouissez-vous, amis humains<hex:021D0103>: les modules d'habitation sont bientôt terminés<hex:021D0103>! N'hésitez pas à aller jeter un œil à l'intérieur le moment venu<hex:021D0103>!",19380
+19380,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Vous apprécierez notamment le confort ex<hex:02160103>cep<hex:02160103>tion<hex:02160103>nel du couchage. De quoi vous remettre d'aplomb après une dure journée de labeur<hex:021D0103>!",0
+19381,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Bonne nouvelle, chers collaborateurs<hex:021D0103>: nous sommes bien partis pour achever notre station énergétique<hex:021D0103>!",19507
+19382,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Piochez des matériaux dans les caisses de provisions puis façonnez-les aux établis. Vous aurez alors de quoi poursuivre le gros œuvre<hex:021D0103>!",0
+19383,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Beau boulot, les amis<hex:021D0103>! Ce second ouvrage devrait lui aussi s'achever sans encombre. À vous la bonne eau potable<hex:021D0103>!",19384
+19384,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Avec ça, notre station spatiale sera dotée de toutes les ins<hex:02160103>tal<hex:02160103>la<hex:02160103>tions vitales. Le moment sera bien choisi pour souffler un bon coup<hex:021D0103>!",0
+19385,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"L'assemblage des générateurs de gravité avance bon train<hex:021D0103>! Merci encore pour votre col<hex:02160103>la<hex:02160103>bo<hex:02160103>ra<hex:02160103>tion<hex:021D0103>!",19386
+19386,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Dès qu'ils seront prêts, nous nous en servirons pour jeter un pont de pierre entre L'Ancre et le Bâtiment ombré<hex:021D0103>!",19413
+19387,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Et voilà, propre comme un sou (presque) neuf<hex:021D0103>! Merci à toutes et à tous pour votre con<hex:02160103>tri<hex:02160103>bu<hex:02160103>tion<hex:021D0103>!",19388
+19388,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Encore un tout petit effort, et le cristal retrouvera son lustre d'antan<hex:021D0103>! Mais en attendant, tout le monde se repose pour reprendre des forces<hex:021D0103>!",0
+19389,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Parfait, l'activeur a bien été appliqué sur tout l'euèdre<hex:021D0103>! Maintenant, il ne reste plus qu'à attendre que le produit fasse son effet<hex:021D0103>!",19390
+19390,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Préparez vos lunettes de soleil, car bientôt l'euèdre brillera à nouveau de mille feux<hex:021D0103>!",0
+19391,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Voilà, je crois que nos travaux sont terminés... pour cette fois. Prenez un peu de bon temps, vous l'avez mérité<hex:021D0103>!",19392
+19392,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Les navettes pourront aller et venir sans difficulté, ce qui améliorera le transport de mar<hex:02160103>chan<hex:02160103>di<hex:02160103>ses et de personnel<hex:021D0103>!",0
+19393,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"L'excavation avance bon train<hex:021D0103>! Encore un peu de ménage et on pourra accéder à l'entrée des vestiges<hex:021D0103>!",19394
+19394,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Faites une pause, vous en avez bien besoin. Pendant ce temps, les spé<hex:02160103>cia<hex:02160103>listes vont examiner ce que les pionniers ont laissé derrière eux<hex:021D0103>!",0
+19395,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Les chercheurs avaient vu juste ! On dirait bien que les pierres-portails se sont chargées en éther !",19396
+19396,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Ceux qui ont fini leurs tâches peuvent prendre une pause et assister à l'ouverture des ruines !",0
+19397,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Parfait ! Je pense qu'on a transmis suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment d'éther à la pierre-guide !",19398
+19398,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Vous pouvez prendre une pause bien méritée. Et surtout, admirer enfin la réactivation des vestiges !",0
+19399,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"On a suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment aspergé le métaèdre d'activeur ! Plus qu'à attendre que celui-ci fasse effet !",19400
+19400,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Je vous propose de souffler un peu, histoire qu'on puisse assister à l'éveil des vestiges !",0
+19401,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"La consolidation de la station avance bien, c'est top ! Les plans qu'on a dessinés commencent à prendre vie !",19402
+19402,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"On va bientôt pouvoir réactiver l'euèdre... Merci à tous pour votre aide ! Une fois que les ascenseurs seront prêts, montez donc sur le toit pour profiter du spectacle !",0
+19403,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nos antennes-relais sont enfins terminées... Et il semblerait que les premiers tests d'émissions de données se soient montrés concluants !",19404
+19404,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"C'était notre dernier chantier de grande ampleur sur cette planète ! Il ne nous reste plus qu'à attendre de voir ce que l'euèdre va nous apprendre ! Merci à tous !",0
 19405,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19406,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19407,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19408,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19409,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19410,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19411,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19412,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19413,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19414,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19415,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19411,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Piochez des matériaux dans les caisses de provisions, puis façonnez-les aux établis éphémères. Soyez rapides et efficaces<hex:021D0103>!",0
+19412,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nous pourrons ensuite explorer ce gros caillou flottant, et mieux comprendre les phénomènes gravitationnels qui l'entourent<hex:021D0103>!",0
+19413,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Finissez votre travail et allez reprendre des forces en vue des prochaines expéditions<hex:021D0103>!",0
+19414,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Transportez les jaspes d'Oizys avec précaution, et chargez-moi cette porte en éther spécial !",0
+19415,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Récupérez les matériaux nécessaires depuis les caisses et utilisez les établis éphémères pour les ouvrager ! Allez, faites-moi de beaux ascenseurs !",0
 19416,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19417,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19418,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19492,9 +19492,9 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19487,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19488,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19489,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19490,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19491,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19492,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19490,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Remplissez vos cartouches d'activeur, c'est le moment de faire prendre une bonne douche d'éther à l'euèdre<hex:021D0103>!",0
+19491,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Pensez à projeter de l'activeur d'éther en haut également ! Les échafaudages sont là pour ça !",0
+19492,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"N'oubliez pas le haut également ! Les échafaudages sont là pour ça !",0
 19493,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19494,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19495,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19509,9 +19509,9 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19504,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19505,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19506,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19507,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19508,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19509,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19507,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Prochain objectif<hex:021D0103>: construire une station hydropurificatrice sur l'emplacement voisin<hex:021D0103>! Le chantier va s'ouvrir sous peu, alors ne vous relâchez pas<hex:021D0103>!",0
+19508,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Comme précédemment, servez-vous dans les caisses de provisions puis façonnez des pièces aux établis. Certains matériaux éthéroconducteurs sont fragiles, alors faites attention<hex:021D0103>!",0
+19509,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Il ne faut pas négliger l'aménagement autour de la base, nos futures opérations n'en seront que facilitées<hex:021D0103>!",0
 19510,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19511,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19512,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0

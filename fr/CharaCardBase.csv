@@ -147,7 +147,7 @@ Int32,Int32,UInt8,Bool,Bool,UInt8,UInt16,UInt16,UInt16,UInt16,UInt8,UInt16,Strin
 142,193745,1,True,True,0,942,0,0,0,4,2402,"Sanctuaire des pèlerins 2"
 143,193746,1,True,True,0,940,0,0,0,8,2344,"Exploration cosmique 2"
 144,193747,2,True,True,0,939,0,0,0,8,2342,"Félicité insulaire 3"
-145,0,0,False,False,0,0,0,0,0,0,0,""
+145,193748,2,True,True,0,1020,0,0,0,8,2345,"Exploration cosmique 3"
 146,193016,2,True,True,0,1044,0,0,0,7,15,"Style épuré 1"
 147,193017,2,True,True,0,1045,0,0,0,7,16,"Style épuré 2"
 148,193018,2,True,True,0,1046,0,0,0,7,17,"Style épuré 3"

@@ -2,15 +2,7 @@
 #,,,,Description
 offset,4,12,8,0
 Int32,UInt32,UInt8,UInt32,String
-0,0,0,100,"これでは、チカラ、うまく出せナイ……。
-余、手と足、あったヨ……。"
-1,70991,2,200,"余は賢明にして、偉大であル！
-強大な魔力、秘めたカンジで頼むヨ！"
-2,70991,3,300,"当然だが、顔の造形にはこだわる余。
-ブサイクな顔に仕上げタら、
-眷属たちが黙っておらんからナ！"
-3,70991,255,600,"余は喰らっタ妖異の魂を、
-すべて「霊玉」に集約しておル。
-それなくして、力は発揮できナイ。
-ゆえに、霊玉を模した球体を、
-あわせて作ルが良いヨ！"
+0,0,0,100,"Cette forme est insuffisante pour que j'exprime mon pouvoir... J'avais des mains... et des pieds..."
+1,70991,2,200,"J'étais plus sage... plus intelligent... Offre-moi un corps digne de mon immense pouvoir magique !"
+2,70991,3,300,"J'étais belle à tomber et personne ne résistait à mon charme ! Hors de question de me montrer sous un visage aussi hideux !"
+3,70991,255,600,"J'étais en possession d'un orbe, débordant de l'éther des âmes que j'avais dévorées au fil des millénaires... Sans une relique similaire, mes pouvoirs resteront bridés !"

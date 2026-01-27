@@ -3305,7 +3305,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003300,"brin de soma",0,"brins de soma",0,0,1,0,0,False,"Soma",25039,0,1,1,70030,0,0,0
 2003301,"perle décorée",0,"perles décorées",0,0,1,1,0,False,"Perle décorée",20267,0,1,1,70032,0,0,0
 2003302,"brin d'archestrate",0,"brins d'archestrate",0,0,1,0,0,False,"Brin d'archestrate",25580,0,3,1,70045,0,0,0
-2003303,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003303,"Barnabaigneur",0,"Barnabaigneur",0,0,1,0,0,False,"Barnabaigneur",59896,0,2,1,70986,0,0,0
 2003304,"revitalisant doré",0,"revitalisants dorés",0,0,1,0,0,False,"Revitalisant doré",20673,1,1,1,70049,3,0,0
 2003305,"éclat de soma",0,"éclats de soma",0,1,1,0,0,False,"Éclat de soma",20037,0,99,1,0,0,0,0
 2003306,"document ultra-confidentiel",0,"documents ultra-confidentiels",0,0,1,0,0,False,"Document ultra-confidentiel",26603,0,99,1,0,0,0,0
@@ -3767,7 +3767,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003762,"bouteille d'eau-de-vie",0,"bouteilles d'eau-de-vie",0,0,1,1,0,False,"Bouteille d'eau-de-vie",25057,0,1,1,70915,0,0,0
 2003763,"sac de légumes",0,"sacs de légumes",0,0,1,0,0,False,"Sac de légumes",25351,0,1,1,70915,0,0,0
 2003764,"morceau de papier",0,"morceaux de papier",0,0,1,0,0,False,"Morceau de papier",26151,0,1,1,70915,0,0,0
-2003765,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003765,"lunette fantôme",0,"lunettes fantômes",0,0,1,1,0,False,"Lunette fantôme",25986,1,1,8,70991,0,0,0
 2003766,"Magi sphérier",0,"Magi sphériers",0,0,1,0,0,False,"Magi sphérier",26083,1,1,8,70917,0,0,0
 2003767,"carte en électrope",0,"carte en électrope",0,0,1,1,0,False,"Carte en électrope",26078,1,1,1,70904,0,0,1
 2003768,"carte d'accès de niveau 2",0,"cartes d'accès de niveau 2",0,0,1,1,0,False,"Carte d'accès de niveau 2",26079,1,1,1,70904,0,0,1
@@ -3804,11 +3804,11 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003799,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003800,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003801,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003802,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003803,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003802,"cartouche d'activeur d'éther",0,"cartouches d'activeur d'éther",0,0,1,1,0,False,"Cartouche d'activeur d'éther",23569,0,3,1,0,0,0,0
+2003803,"cartouche d'activeur d'éther",0,"cartouches d'activeur d'éther",0,0,1,1,0,False,"Cartouche d'activeur d'éther",23569,0,3,1,0,0,0,0
 2003804,"sac de bombes fumigènes anti-foudre",0,"sacs de bombes fumigènes anti-foudre",0,0,1,0,0,False,"Bombes fumigènes anti-foudre",26110,1276,1,1,70966,1,0,4
-2003805,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003806,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003805,"morceau de jaspe d'Oizys",0,"morceaux de jaspe d'Oizys",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
+2003806,"gros morceau de jaspe d'Oizys",0,"gros morceaux de jaspe d'Oizys",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
 2003807,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003808,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003809,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
