@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,MKDSupportJob,LevelUnlock,Icon,Name,Description
 offset,12,13,8,0,4
 Int32,UInt8,UInt8,Int32,String,String
 0,0,0,-1,"",""

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,LogKind,,,,,Text
+#,LogKind,DisplayFlags,,Duration,,Text
 offset,4,6,8,9,10,0
 Int32,UInt16,UInt16,UInt8,UInt8,PackedBool0,String
 0,0,0,0,0,False,""

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-#,EventType,EnemyType,MaxParticipants,,,LGBEventObject,LGBMapRange,Quest,,SingleBattle,Announce,Name,Description,,,,,
+#,EventType,EnemyType,MaxParticipants,Duration,,LGBEventObject,LGBMapRange,Quest,,SingleBattle,Announce,Name,Description,,,,,
 offset,38,39,40,41,44,8,12,16,42,43,20,0,4,32,34,36,24,28
 Int32,UInt8,UInt8,UInt8,UInt8,PackedBool0,UInt32,UInt32,UInt32,UInt8,UInt8,UInt32,String,String,Int16,Int16,Int16,UInt32,UInt32
 0,0,0,0,0,True,0,0,0,0,0,0,"","",0,0,0,0,0

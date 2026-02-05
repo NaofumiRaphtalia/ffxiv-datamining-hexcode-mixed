@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,,Name,PlanetImage,Backdrop,Blurb
 offset,16,4,8,12,0
 Int32,UInt8,UInt32,UInt32,UInt32,String
 0,0,5219,70881,70886,"Ein von mehreren großen Kratern umgebenes Gebiet auf der Oberfläche des Mondes. Aufgrund der verhältnismäßig guten Stabilität wurde es als Ausgangspunkt der Kosmo-Erkundung auserwählt und so zum Schauplatz des Baus der Mondtor-Station. Jetzt, nach der Fertigstellung des Kosmoports, dient es als Tor in die Weiten des Alls."
