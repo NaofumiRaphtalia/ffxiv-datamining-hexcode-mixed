@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,,Name,PlanetImage,Backdrop,Blurb
 offset,16,4,8,12,0
 Int32,UInt8,UInt32,UInt32,UInt32,String
 0,0,5219,70881,70886,"Surrounded by a multitude of craters, this environmentally stable sector was chosen to host the now thriving Moongate Hub. With the subsequent construction of its very own cosmoport, the base has truly become a gateway to the stars and beyond."
