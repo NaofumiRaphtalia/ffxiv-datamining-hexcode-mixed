@@ -21,9 +21,10 @@ def has_changes(path):
 
 def commit_dir(path, message):
     """添加并提交目录"""
-    print(f"  -> 提交 {path}: {message}")
+    full_message = f"{message} {path.upper()}"
+    print(f"  -> 提交 {path}: {full_message}")
     run_git(['add', path])
-    run_git(['commit', '-m', message])
+    run_git(['commit', '-m', full_message])
 
 def main():
     print("=== Git 批量分目录提交工具 ===")
@@ -34,8 +35,11 @@ def main():
     global_msg = ""
     if active_global_langs:
         print(f"\n检测到以下全球版本目录有变动: {', '.join(active_global_langs)}")
-        prompt = "输入通用版本号 (例如 7.4, 直接回车默认为 7.4): "
-        global_msg = input(prompt).strip() or "7.4"
+        while True:
+            global_msg = input("输入通用版本号 (例如 7.4): ").strip()
+            if global_msg:
+                break
+            print("错误：提交信息不能为空，请输入版本号。")
         
         for lang in active_global_langs:
             commit_dir(lang, global_msg)
@@ -47,9 +51,11 @@ def main():
         lang = item['name']
         if has_changes(lang):
             print(f"\n检测到 {lang} 目录有变动:")
-            default = item['default']
-            prompt = f"输入 {lang} 的提交信息 (直接回车默认为 '{default}'): "
-            msg = input(prompt).strip() or default
+            while True:
+                msg = input(f"输入 {lang} 的提交信息: ").strip()
+                if msg:
+                    break
+                print(f"错误：{lang} 的提交信息不能为空。")
             commit_dir(lang, msg)
         else:
             print(f"\n[{lang}] 目录无变动。")
