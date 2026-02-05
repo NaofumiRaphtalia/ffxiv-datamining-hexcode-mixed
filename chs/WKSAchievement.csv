@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
+#,Description,Category,,RewardItem,RewardAmount,
 offset,0,16,4,8,12,14
 Int32,String,UInt8,UInt32,UInt32,UInt16,UInt16
 0,"完成1次探索任务",1,1,0,50,0
