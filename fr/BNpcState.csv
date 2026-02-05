@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,Slot,OverRay,,,Idle,Attribute0,AttributeFlag0,Attribute1,AttributeFlag1,Attribute2,AttributeFlag2,Scale,,LoopTimeline,
+#,Slot,AnimationStates[0],AnimationStates[1],ModelState,Idle,Attribute0,AttributeFlag0,Attribute1,AttributeFlag1,Attribute2,AttributeFlag2,Scale,ModelScale,LoopTimeline,
 offset,10,16,17,11,8,12,18,13,19,14,20,0,15,4,21
 Int32,UInt8,Int8,Int8,UInt8,UInt16,UInt8,Bool,UInt8,Bool,UInt8,Bool,Float32,UInt8,Int32,PackedBool0
 0,0,0,0,0,0,0,False,0,False,0,False,0,0,0,False

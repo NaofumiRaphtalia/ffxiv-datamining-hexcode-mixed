@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,Text,,,,
+#,Text,Duration,Style,Icon,VoLine
 offset,8,10,11,0,4
 Int32,UInt16,UInt8,UInt8,UInt32,UInt32
 0.0,0,0,0,0,0
