@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,Item,ModelID,Icon,SE,,
+#,Item,ModelID,Icon,SE,IsPlantPotFlowerSeed,PlantPotFlowerSeed
 offset,0,8,4,11,11,10
 Int32,UInt32,UInt16,UInt32,PackedBool0,PackedBool1,UInt8
 0,0,0,0,False,False,0

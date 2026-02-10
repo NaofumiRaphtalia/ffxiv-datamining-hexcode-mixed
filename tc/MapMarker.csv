@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,,X,Icon,PlaceNameSubtext,Y,SubtextOrientation,MapMarkerRegion,Type,DataKey,DataType,
+#,MapMarkerUnlockedBit,X,Icon,PlaceNameSubtext,Y,SubtextOrientation,MapMarkerRegion,Type,DataKey,DataType,
 offset,6,8,0,2,10,11,12,13,4,14,15
 Int32,Int16,Int16,UInt16,UInt16,UInt8,UInt8,UInt8,UInt8,UInt16,UInt8,UInt8
 0.0,0,0,0,0,0,0,0,0,0,255,0
@@ -7243,8 +7243,8 @@ Int32,Int16,Int16,UInt16,UInt16,UInt8,UInt8,UInt8,UInt8,UInt16,UInt8,UInt8
 629.0,1023,1114,60441,4507,3,0,0,1,859,3,0
 629.1,1024,796,60441,4510,4,0,0,1,862,5,210
 629.2,0,0,0,0,0,0,0,0,0,255,0
-630.0,0,0,0,0,0,0,0,0,0,0,0
-630.1,0,0,0,0,0,0,0,0,0,0,0
+630.0,1023,928,60428,4167,2,0,0,0,0,255,196
+630.1,0,0,0,0,0,0,0,0,0,255,0
 631.0,1026,1126,60467,4509,3,0,0,1,861,9,0
 631.1,0,0,0,0,0,0,0,0,0,255,0
 632.0,1187,1358,60442,4487,2,0,0,0,0,255,0

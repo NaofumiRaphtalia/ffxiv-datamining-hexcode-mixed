@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,RequiredQuest[1],RequiredQuest[0],RequiredQuest[2]
 offset,4,0,6
 Int32,UInt16,UInt32,UInt16
 0,0,0,0
