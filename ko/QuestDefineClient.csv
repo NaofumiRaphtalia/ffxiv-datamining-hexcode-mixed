@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,,Target
+#,Text,DefineVaue
 offset,0,4
 Int32,String,UInt32
 0.0,"",0
