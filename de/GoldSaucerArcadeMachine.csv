@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42
-#,,,,,,,FailImage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor,Good,Great,Excellent,,,,
+#,,Timeout,,,,,FailImage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor,Good,Great,Excellent,Name,PayoutExplanation,Description,TotalPayoutText
 offset,74,75,76,77,72,78,64,80,81,82,68,79,83,84,85,8,20,32,44,9,21,33,45,10,22,34,46,0,12,24,36,11,23,35,47,4,16,28,40,48,52,56,60
 Int32,UInt8,UInt8,UInt8,UInt8,UInt16,UInt8,UInt32,Int8,Int8,Int8,UInt32,UInt8,Int8,Int8,Int8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,String,String,String,String
 2359296,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",""
