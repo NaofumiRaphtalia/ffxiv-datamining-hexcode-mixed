@@ -2948,7 +2948,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 2943,"Festungsstadt Zolm'ak",0,"",0,0,1,0,0,"<hex:020957E802FF1A>zur Festungsstadt Zolm'ak<hex:FF1D>in der Festungsstadt Zolm'ak<hex:FF1A>die Festungsstadt Zolm'ak<hex:03>",0,0,0
 2944,"Goldene Ebene",0,"",0,0,1,0,0,"<hex:020940E802FF12>zur Goldene Ebene<hex:FF16>in der Goldenen Ebene<hex:FF12>die Goldene Ebene<hex:03>",0,0,0
 2945,"Amalj'aa Nomadenlager",0,"",0,0,1,0,0,"<hex:020953E802FF1A>zum Amalj'aa Nomadenlager<hex:FF19>im Amalj'aa Nomadenlager<hex:FF1A>das Amalj'aa Nomadenlager<hex:03>",0,0,0
-2946,"",0,"",0,0,0,0,0,"",0,0,0
+2946,"Des Händlers Liebesmüh (Gewölbesuche)",0,"",0,0,1,0,0,"",0,0,0
 2947,"",0,"",0,0,0,0,0,"",0,0,0
 2948,"",0,"",0,0,0,0,0,"",0,0,0
 2949,"Norvrandt",0,"",0,0,1,0,0,"<hex:02092CE802FF0F>nach Norvrandt<hex:FF0D>in Norvrandt<hex:FF0A>Norvrandt<hex:03>",0,0,0
@@ -4766,7 +4766,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 4761,"<hex:021A020203>FF Lhaminn<hex:021A020103>",0,"",0,0,1,0,0,"<hex:020954E802FF19>zur <hex:021A020203>FF Lhaminn<hex:021A020103><hex:FF1C>in der <hex:021A020203>FF Lhaminn<hex:021A020103><hex:FF19>die <hex:021A020203>FF Lhaminn<hex:021A020103><hex:03>",0,0,0
 4762,"Alexandrias Ruinenring",0,"",0,0,1,0,0,"<hex:020953E802FF1C>nach Alexandrias Ruinenring<hex:FF1A>in Alexandrias Ruinenring<hex:FF17>Alexandrias Ruinenring<hex:03>",0,0,0
 4763,"Bahnhof Bentini",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Bahnhof Bentini<hex:FF13>am Bahnhof Bentini<hex:FF14>der Bahnhof Bentini<hex:03>",0,0,0
-4764,"",0,"",0,0,0,0,0,"",0,0,0
+4764,"Gemächer der jungen Angebeteten",0,"",0,0,1,0,0,"<hex:02097DE802FF29>zu den Gemächern der jungen Angebeteten<hex:FF29>in den Gemächern der jungen Angebeteten<hex:FF25>die Gemächer der jungen Angebeteten<hex:03>",0,0,0
 4765,"Treno",0,"",0,0,1,0,0,"<hex:020920E802FF0B>nach Treno<hex:FF09>in Treno<hex:FF06>Treno<hex:03>",0,0,0
 4766,"",0,"",0,0,1,0,0,"",0,0,0
 4767,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5374,39 +5374,39 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5369,"Vampirring",0,"",0,0,1,0,0,"<hex:020932E802FF0F>zum Vampirring<hex:FF0E>im Vampirring<hex:FF0F>der Vampirring<hex:03>",0,0,0
 5370,"Extremring",0,"",0,0,1,0,0,"<hex:020932E802FF0F>zum Extremring<hex:FF0E>im Extremring<hex:FF0F>der Extremring<hex:03>",0,0,0
 5371,"Tyrannenring",0,"",0,0,1,0,0,"<hex:020938E802FF11>zum Tyrannenring<hex:FF10>im Tyrannenring<hex:FF11>der Tyrannenring<hex:03>",0,0,0
-5372,"",0,"",0,0,0,0,0,"",0,0,0
-5373,"",0,"",0,0,0,0,0,"",0,0,0
-5374,"",0,"",0,0,0,0,0,"",0,0,0
-5375,"",0,"",0,0,0,0,0,"",0,0,0
-5376,"",0,"",0,0,0,0,0,"",0,0,0
-5377,"",0,"",0,0,0,0,0,"",0,0,0
-5378,"",0,"",0,0,0,0,0,"",0,0,0
-5379,"",0,"",0,0,0,0,0,"",0,0,0
-5380,"",0,"",0,0,0,0,0,"",0,0,0
-5381,"",0,"",0,0,0,0,0,"",0,0,0
-5382,"",0,"",0,0,0,0,0,"",0,0,0
-5383,"",0,"",0,0,0,0,0,"",0,0,0
-5384,"",0,"",0,0,0,0,0,"",0,0,0
-5385,"",0,"",0,0,0,0,0,"",0,0,0
-5386,"",0,"",0,0,0,0,0,"",0,0,0
-5387,"",0,"",0,0,0,0,0,"",0,0,0
-5388,"",0,"",0,0,0,0,0,"",0,0,0
-5389,"",0,"",0,0,0,0,0,"",0,0,0
-5390,"",0,"",0,0,0,0,0,"",0,0,0
-5391,"",0,"",0,0,0,0,0,"",0,0,0
-5392,"",0,"",0,0,0,0,0,"",0,0,0
-5393,"",0,"",0,0,0,0,0,"",0,0,0
-5394,"",0,"",0,0,0,0,0,"",0,0,0
-5395,"",0,"",0,0,0,0,0,"",0,0,0
-5396,"",0,"",0,0,0,0,0,"",0,0,0
-5397,"",0,"",0,0,0,0,0,"",0,0,0
-5398,"",0,"",0,0,0,0,0,"",0,0,0
-5399,"",0,"",0,0,0,0,0,"",0,0,0
-5400,"",0,"",0,0,0,0,0,"",0,0,0
-5401,"",0,"",0,0,0,0,0,"",0,0,0
-5402,"",0,"",0,0,0,0,0,"",0,0,0
-5403,"",0,"",0,0,0,0,0,"",0,0,0
-5404,"",0,"",0,0,0,0,0,"",0,0,0
+5372,"Des Händlers Liebesmüh",0,"",0,0,1,0,0,"",0,0,0
+5373,"Ferner Ort",0,"",0,0,1,0,0,"<hex:02093CE802FF14>zu einem fernen Ort<hex:FF14>in einem fernen Ort<hex:FF0E>der ferne Ort<hex:03>",0,0,0
+5374,"Land des Überflusses",0,"",0,0,1,0,0,"<hex:020953E802FF1A>zum Land des Überflusses<hex:FF19>im Land des Überflusses<hex:FF1A>das Land des Überflusses<hex:03>",0,0,0
+5375,"Bucht der Schillernden Farben",0,"",0,0,1,0,0,"<hex:02096FE802FF22>zur Bucht der Schillernden Farben<hex:FF25>in der Bucht der Schillernden Farben<hex:FF22>die Bucht der Schillernden Farben<hex:03>",0,0,0
+5376,"Tal der Tausend Felsen",0,"",0,0,1,0,0,"<hex:020956E802FF1B>zum Tal der Tausend Felsen<hex:FF1A>im Tal der Tausend Felsen<hex:FF1B>das Tal der Tausend Felsen<hex:03>",0,0,0
+5377,"Nebelmeer",0,"",0,0,1,0,0,"<hex:02092FE802FF0E>zum Nebelmeer<hex:FF0D>im Nebelmeer<hex:FF0E>das Nebelmeer<hex:03>",0,0,0
+5378,"Marktplatz",0,"",0,0,1,0,0,"<hex:020932E802FF0F>zum Marktplatz<hex:FF0E>am Marktplatz<hex:FF0F>der Marktplatz<hex:03>",0,0,0
+5379,"Platz der Rastenden",0,"",0,0,1,0,0,"<hex:02094DE802FF18>zum Platz der Rastenden<hex:FF17>am Platz der Rastenden<hex:FF18>der Platz der Rastenden<hex:03>",0,0,0
+5380,"Sonnenpfad",0,"",0,0,1,0,0,"<hex:020937E802FF0F>zum Sonnenpfad<hex:FF13>auf dem Sonnenpfad<hex:FF0F>der Sonnenpfad<hex:03>",0,0,0
+5381,"Palastblick",0,"",0,0,1,0,0,"<hex:02093AE802FF10>zum Palastblick<hex:FF14>auf dem Palastblick<hex:FF10>der Palastblick<hex:03>",0,0,0
+5382,"Rubin-Foyer",0,"",0,0,1,0,0,"<hex:020935E802FF10>zum Rubin-Foyer<hex:FF0F>im Rubin-Foyer<hex:FF10>das Rubin-Foyer<hex:03>",0,0,0
+5383,"Schwelende Kammer",0,"",0,0,1,0,0,"<hex:02094DE802FF17>zur Schwelenden Kammer<hex:FF1A>in der Schwelenden Kammer<hex:FF16>die Schwelende Kammer<hex:03>",0,0,0
+5384,"Strand der Sieben Farben",0,"",0,0,1,0,0,"<hex:02095CE802FF1D>zum Strand der Sieben Farben<hex:FF1C>am Strand der Sieben Farben<hex:FF1D>der Strand der Sieben Farben<hex:03>",0,0,0
+5385,"Regenbogensande",0,"",0,0,1,0,0,"<hex:02094BE802FF18>zu den Regenbogensanden<hex:FF19>bei den Regenbogensanden<hex:FF14>die Regenbogensande<hex:03>",0,0,0
+5386,"Bühne der Meerjungfrau",0,"",0,0,1,0,0,"<hex:02095EE802FF1C>zur Bühne der Meerjungfrau<hex:FF20>auf der Bühne der Meerjungfrau<hex:FF1C>die Bühne der Meerjungfrau<hex:03>",0,0,0
+5387,"Unterschlupf der Banditen",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Unterschlupf der Banditen<hex:FF1D>im Unterschlupf der Banditen<hex:FF1E>der Unterschlupf der Banditen<hex:03>",0,0,0
+5388,"Altes Nest",0,"",0,0,1,0,0,"<hex:020931E802FF0F>zum alten Nest<hex:FF0E>im alten Nest<hex:FF0E>das alte Nest<hex:03>",0,0,0
+5389,"Plateau der Kreuzenden Klingen",0,"",0,0,1,0,0,"<hex:020973E802FF23>zum Plateau der Kreuzenden Klingen<hex:FF27>auf dem Plateau der Kreuzenden Klingen<hex:FF23>das Plateau der Kreuzenden Klingen<hex:03>",0,0,0
+5390,"Vergessene Unterkunft",0,"",0,0,1,0,0,"<hex:020959E802FF1B>zur vergessenen Unterkunft<hex:FF1E>in der vergessenen Unterkunft<hex:FF1A>die vergessene Unterkunft<hex:03>",0,0,0
+5391,"Hinterhofgasse",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Hinterhofgasse<hex:FF16>in der Hinterhofgasse<hex:FF13>die Hinterhofgasse<hex:03>",0,0,0
+5392,"Belebter Basar",0,"",0,0,1,0,0,"<hex:020942E802FF13>zum belebten Basar<hex:FF17>auf dem belebten Basar<hex:FF12>der belebte Basar<hex:03>",0,0,0
+5393,"Große Torstraße",0,"",0,0,1,0,0,"<hex:02094EE802FF17>zur Großen Torstraße<hex:FF1B>auf der Großen Torstraße<hex:FF16>die Große Torstraße<hex:03>",0,0,0
+5394,"Land des Überflusses",0,"",0,0,1,0,0,"<hex:020953E802FF1A>zum Land des Überflusses<hex:FF19>im Land des Überflusses<hex:FF1A>das Land des Überflusses<hex:03>",0,0,0
+5395,"Immergrüne Weinhänge",0,"",0,0,1,0,0,"<hex:020962E802FF20>zu den immergrünen Weinhängen<hex:FF20>in den immergrünen Weinhängen<hex:FF1C>die immergrünen Weinhänge<hex:03>",0,0,0
+5396,"Verlassener Palast",0,"",0,0,1,0,0,"<hex:020949E802FF17>zum verlassenen Palast<hex:FF16>im verlassenen Palast<hex:FF16>der verlassene Palast<hex:03>",0,0,0
+5397,"Bucht des Eremiten",0,"",0,0,1,0,0,"<hex:02094EE802FF17>zur Bucht des Eremiten<hex:FF1A>in der Bucht des Eremiten<hex:FF17>die Bucht des Eremiten<hex:03>",0,0,0
+5398,"Bucht der Schillernden Farben",0,"",0,0,1,0,0,"<hex:02096FE802FF22>zur Bucht der Schillernden Farben<hex:FF25>in der Bucht der Schillernden Farben<hex:FF22>die Bucht der Schillernden Farben<hex:03>",0,0,0
+5399,"Tal der Tausend Felsen",0,"",0,0,1,0,0,"<hex:020956E802FF1B>zum Tal der Tausend Felsen<hex:FF1A>im Tal der Tausend Felsen<hex:FF1B>das Tal der Tausend Felsen<hex:03>",0,0,0
+5400,"Höhle der Anziehung",0,"",0,0,1,0,0,"<hex:020954E802FF19>zur Höhle der Anziehung<hex:FF1C>in der Höhle der Anziehung<hex:FF19>die Höhle der Anziehung<hex:03>",0,0,0
+5401,"Pass der Fliegenden Felsen",0,"",0,0,1,0,0,"<hex:020967E802FF1F>zum Pass der Fliegenden Felsen<hex:FF23>auf dem Pass der Fliegenden Felsen<hex:FF1F>der Pass der Fliegenden Felsen<hex:03>",0,0,0
+5402,"Pfad der Strebenden",0,"",0,0,1,0,0,"<hex:020952E802FF18>zum Pfad der Strebenden<hex:FF1C>auf dem Pfad der Strebenden<hex:FF18>der Pfad der Strebenden<hex:03>",0,0,0
+5403,"Niemandsdorf",0,"",0,0,1,0,0,"<hex:020938E802FF11>zum Niemandsdorf<hex:FF10>im Niemandsdorf<hex:FF11>das Niemandsdorf<hex:03>",0,0,0
+5404,"Meer der Leere",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Meer der Leere<hex:FF12>im Meer der Leere<hex:FF13>das Meer der Leere<hex:03>",0,0,0
 5405,"Arkadionring",0,"",0,0,1,0,0,"<hex:020938E802FF11>zum Arkadionring<hex:FF10>im Arkadionring<hex:FF11>der Arkadionring<hex:03>",0,0,0
 5406,"Oizys",0,"",0,0,1,0,0,"<hex:020921E802FF0B>nach Oizys<hex:FF0A>auf Oizys<hex:FF06>Oizys<hex:03>",0,0,0
 5407,"Megalithopolis",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Megalithopolis<hex:FF16>in der Megalithopolis<hex:FF13>die Megalithopolis<hex:03>",0,0,0
@@ -5447,7 +5447,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5442,"Triumphpunkt 10",0,"",0,0,1,0,0,"<hex:020946E802FF14>zum Triumphpunkt 10<hex:FF18>auf dem Triumphpunkt 10<hex:FF14>der Triumphpunkt 10<hex:03>",0,0,0
 5443,"Triumphpunkt 11",0,"",0,0,1,0,0,"<hex:020946E802FF14>zum Triumphpunkt 11<hex:FF18>auf dem Triumphpunkt 11<hex:FF14>der Triumphpunkt 11<hex:03>",0,0,0
 5444,"Triumphpunkt 12",0,"",0,0,1,0,0,"<hex:020946E802FF14>zum Triumphpunkt 12<hex:FF18>auf dem Triumphpunkt 12<hex:FF14>der Triumphpunkt 12<hex:03>",0,0,0
-5445,"睡蓮湖近郊",0,"",0,0,1,0,0,"",0,0,0
+5445,"Lilienteich",0,"",0,0,1,0,0,"<hex:020935E802FF10>zum Lilienteich<hex:FF0F>am Lilienteich<hex:FF10>der Lilienteich<hex:03>",0,0,0
 5446,"Mondtor-Station",0,"",0,0,1,0,0,"<hex:020945E802FF14>zur Mondtor-Station<hex:FF17>in der Mondtor-Station<hex:FF14>die Mondtor-Station<hex:03>",0,0,0
 5447,"Kalabassenbucht ",0,"",0,0,1,0,0,"<hex:020946E802FF14>zur Kalabassenbucht<hex:FF17>in der Kalabassenbucht<hex:FF15>die Kalabassenbucht <hex:03>",0,0,0
 5448,"Weddingways Traugarten",0,"",0,0,1,0,0,"<hex:020951E802FF1A>zu Weddingways Traugarten<hex:FF1A>in Weddingways Traugarten<hex:FF17>Weddingways Traugarten<hex:03>",0,0,0
@@ -5463,11 +5463,11 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5458,"Kap Geras",0,"",0,0,1,0,0,"<hex:02092DE802FF0F>nach Kap Geras<hex:FF0E>auf Kap Geras<hex:FF0A>Kap Geras<hex:03>",0,0,0
 5459,"Schattenflotte",0,"",0,0,1,0,0,"<hex:020943E802FF13>zur Schattenflotte<hex:FF17>auf der Schattenflotte<hex:FF13>die Schattenflotte<hex:03>",0,0,0
 5460,"Wüstenbau",0,"",0,0,1,0,0,"<hex:020932E802FF0F>zum Wüstenbau<hex:FF0E>im Wüstenbau<hex:FF0F>der Wüstenbau<hex:03>",0,0,0
-5461,"",0,"",0,0,0,0,0,"",0,0,0
-5462,"",0,"",0,0,0,0,0,"",0,0,0
-5463,"",0,"",0,0,0,0,0,"",0,0,0
-5464,"",0,"",0,0,0,0,0,"",0,0,0
-5465,"",0,"",0,0,0,0,0,"",0,0,0
+5461,"Marktstraße",0,"",0,0,1,0,0,"<hex:02093DE802FF11>zur Marktstraße<hex:FF15>auf der Marktstraße<hex:FF11>die Marktstraße<hex:03>",0,0,0
+5462,"Buchthöhle",0,"",0,0,1,0,0,"<hex:020939E802FF10>zur Buchthöhle<hex:FF13>in der Buchthöhle<hex:FF10>die Buchthöhle<hex:03>",0,0,0
+5463,"Meer der Leere",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Meer der Leere<hex:FF12>im Meer der Leere<hex:FF13>das Meer der Leere<hex:03>",0,0,0
+5464,"Gassenplatz",0,"",0,0,1,0,0,"<hex:02093AE802FF10>zum Gassenplatz<hex:FF14>auf dem Gassenplatz<hex:FF10>der Gassenplatz<hex:03>",0,0,0
+5465,"Gassenplatz",0,"",0,0,1,0,0,"<hex:02093AE802FF10>zum Gassenplatz<hex:FF14>auf dem Gassenplatz<hex:FF10>der Gassenplatz<hex:03>",0,0,0
 5466,"",0,"",0,0,0,0,0,"",0,0,0
 5467,"Dorgerwor der Scharfsinnige",0,"",0,0,1,0,0,"<hex:020963E802FF20>zu Dorgerwor dem Scharfsinnigen<hex:FF21>bei Dorgerwor dem Scharfsinnigen<hex:FF1C>Dorgerwor der Scharfsinnige<hex:03>",0,0,0
 5468,"Weg des Gesangs",0,"",0,0,1,0,0,"<hex:020946E802FF14>zum Weg des Gesangs<hex:FF18>auf dem Weg des Gesangs<hex:FF14>der Weg des Gesangs<hex:03>",0,0,0
@@ -5476,7 +5476,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5471,"Silberhügel",0,"",0,0,1,0,0,"<hex:02093DE802FF11>zum Silberhügel<hex:FF15>auf dem Silberhügel<hex:FF11>der Silberhügel<hex:03>",0,0,0
 5472,"Vahder",0,"",0,0,1,0,0,"<hex:020922E802FF0A>zu Vahder<hex:FF0B>auf Vahder<hex:FF07>Vahder<hex:03>",0,0,0
 5473,"Schneeschmelze",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Schneeschmelze<hex:FF16>an der Schneeschmelze<hex:FF13>die Schneeschmelze<hex:03>",0,0,0
-5474,"",0,"",0,0,0,0,0,"",0,0,0
+5474,"Des Händlers kuriose Liebesmüh",0,"",0,0,1,0,0,"",0,0,0
 5475,"",0,"",0,0,0,0,0,"",0,0,0
 5476,"",0,"",0,0,0,0,0,"",0,0,0
 5477,"",0,"",0,0,0,0,0,"",0,0,0
