@@ -76,3 +76,4 @@ Int32,String,String
 71,"TEXT_SUBCTS817_00162_SYSTEM_000_037","Vous possédez désormais un carnet d'exploration. Vous pouvez le consulter par le biais de la rubrique “Carnets” du menu principal."
 72,"TEXT_SUBCTS817_00162_SYSTEM_000_038","Pour y marquer un “lieu notoire”, vous devez vous y tenir et effectuer une emote par<hex:02160103>ti<hex:02160103>cu<hex:02160103>liè<hex:02160103>re à un moment précis de la journée ou dans des conditions météorologiques déterminées."
 73,"TEXT_SUBCTS817_00162_SYSTEM_000_039","Le carnet d'exploration contient des in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions partielles qui vous aideront à découvrir ces emplacements."
+74,"TEXT_SUBCTS817_00162_SYSTEM_100_039","Pour plus d'in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions, cliquez sur l'icone d'aide en bas à droite de la fenêtre du carnet d'exploration."
