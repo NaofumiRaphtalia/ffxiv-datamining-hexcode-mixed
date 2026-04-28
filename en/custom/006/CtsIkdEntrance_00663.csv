@@ -13,7 +13,7 @@ Int32,String,String
 8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","Which route will you embark upon?"
 9,"TEXT_CTSIKDENTRANCE_00663_STM_001","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>."
 10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>?"
-11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Party members who have not completed the main scenario quest “Stormblood” cannot embark upon this route.<hex:0249020103><hex:0248020103>"
+11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Party members who have not completed the main scenario quest “<hex:022816FF06>Quest<hex:E803FF0B>QUEST_NAME<hex:03>” cannot embark upon this route.<hex:0249020103><hex:0248020103>"
 12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","Hold on. Where is your fishing rod? I would have you know that this is no pleasure craft─the captain is deadly serious about his sport, and expects everyone aboard to be of like mind. Approach with rod in hand, however, and we shall welcome you aboard with open arms."
 13,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205","Only fishers may board the <hex:021A020203>Endeavor<hex:021A020103>. If you wish to register as a crew member, speak with Dryskthota after changing your class to fisher."
 14,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300","I regret to inform you that we are no longer recruiting crew members. And even if we were, well, the ship has already sailed. If you would but wait until it returns, I am sure there will be room for you on the next voyage."
