@@ -5,7 +5,7 @@ Int32,String,String
 0,"TEXT_LUCKMB105_03306_SEQ_00","イル・メグのサンクレッドは、思案しているようだ。"
 1,"TEXT_LUCKMB105_03306_SEQ_01","サンクレッドから、ピクシー族の集落になら到達できるかもしれないと言われた。イル・メグのリダ・ラーンにいる「サンクレッド」と話そう。"
 2,"TEXT_LUCKMB105_03306_SEQ_02","サンクレッドと話した。リダ・ラーンの「<hex:02280CFF05>EObj<hex:F61EAAD80103>」から「<hex:022811FF0A>EventItem<hex:F61E8E650103>」を入手しよう。"
-3,"TEXT_LUCKMB105_03306_SEQ_03","<hex:022811FF0A>EventItem<hex:F61E8E650103>を入手した。リダ・ラーンの「サンクレッド」に「<hex:022811FF0A>EventItem<hex:F61E8E650103>を渡そう。"
+3,"TEXT_LUCKMB105_03306_SEQ_03","<hex:022811FF0A>EventItem<hex:F61E8E650103>を入手した。リダ・ラーンの「サンクレッド」に「<hex:022811FF0A>EventItem<hex:F61E8E650103>」を渡そう。"
 4,"TEXT_LUCKMB105_03306_SEQ_04","サンクレッドによって、ピクシー族の姿が暴かれた。ウリエンジェと一刻も早く合流するためにも、ピクシー族に手を貸していこう。"
 5,"TEXT_LUCKMB105_03306_SEQ_05",""
 6,"TEXT_LUCKMB105_03306_SEQ_06",""

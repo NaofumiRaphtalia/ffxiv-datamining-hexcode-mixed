@@ -24,4 +24,5 @@ Int32,String,String
 19,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK2","チケットの発行に際しても、<hex:02100103>その探索フィールド用のクレジットが必要となる。<hex:02100103>発行のときは、注意してくれたまえ。"
 20,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W2","おっと……君はまだ、惑星パエンナでの活動について、<hex:02100103>説明を受けていないようだね。<hex:02100103>まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
 21,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W3","おっと……君はまだ、惑星オイジュスでの活動について、<hex:02100103>説明を受けていないようだね。<hex:02100103>まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
-22,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3","対象の任務の過程でサポーターが集めた資材は、<hex:02100103>フィールドサーチャーに納品して、分析して欲しい。<hex:02100103>納品は、フィールドサーチャーに近付けば自動で完了するぞ。"
+22,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W4","おっと……君はまだ、惑星アウクセシアでの活動について、<hex:02100103>説明を受けていないようだね。<hex:02100103>まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
+23,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3","対象の任務の過程でサポーターが集めた資材は、<hex:02100103>フィールドサーチャーに納品して、分析してほしい。<hex:02100103>納品は、フィールドサーチャーに近付けば自動で完了するぞ。"

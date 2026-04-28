@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,,Name,
 offset,8,0,4
 Int32,UInt32,String,String
 0,0,"",""
@@ -28,3 +28,6 @@ Int32,UInt32,String,String
 23,35,"OCCULT CRESCENT","クレセントアイル解説"
 24,36,"COSMO EXPLORER","惑星探索のすすめ"
 25,38,"STRATEGY BOARD","ストラテジーボード"
+26,40,"SIGHTSEEING LOG","探検手帳の解説"
+27,41,"CUSTOM DELIVERIES","お得意様取引の解説"
+28,0,"",""

@@ -13,7 +13,7 @@ Int32,String,String
 8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","どの航路に乗船する？"
 9,"TEXT_CTSIKDENTRANCE_00663_STM_001","「<hex:02280EFF09>IKDRoute<hex:E8020C03>」に乗船する。"
 10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","「<hex:02280EFF09>IKDRoute<hex:E8020C03>」に乗船しますか？"
-11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","「<hex:02280EFF09>IKDRoute<hex:E8020C03>」に乗船しますか？<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※メインクエスト「紅蓮のリベレーター」を、<hex:02100103>　コンプリートしていないパーティメンバーがいる場合、<hex:02100103>　この航路には乗船できません。<hex:0249020103><hex:0248020103>"
+11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","「<hex:02280EFF09>IKDRoute<hex:E8020C03>」に乗船しますか？<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※メインクエスト｢<hex:022816FF06>Quest<hex:E803FF0B>QUEST_NAME<hex:03>｣を、<hex:02100103>　コンプリートしていないパーティメンバーがいる場合、<hex:02100103>　この航路には乗船できません。<hex:0249020103><hex:0248020103>"
 12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","あら、釣り竿をどこかにお忘れですか？<hex:02100103>エンデバー号は、漁師専用の大型漁船となりますので、<hex:02100103>ぜひ、漁師としてご参加ください！"
 13,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205","エンデバー号に乗船できるのは漁師のみとなります。<hex:02100103>「乗船受付」を行いたい場合は、漁師になってから、<hex:02100103>再度ドリスクトータに話しかけましょう。"
 14,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300","ごめんなさい！　乗船受付が間に合わず……。<hex:02100103>すでに出航となってしまいました。<hex:02100103>よければ、次回の航海にご参加ください。"
