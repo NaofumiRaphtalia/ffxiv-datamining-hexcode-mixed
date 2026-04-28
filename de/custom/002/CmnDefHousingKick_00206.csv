@@ -18,7 +18,7 @@ Int32,String,String
 13,"TEXT_CMNDEFHOUSINGKICK_00206_A1_000_004","Abbrechen"
 14,"TEXT_CMNDEFHOUSINGKICK_00206_Q2_000_000","Was möchtest du abholen?"
 15,"TEXT_CMNDEFHOUSINGKICK_00206_A2_000_001","Entschädigung für den Grundstückspreis (<hex:022206E802FF022E03> Gil)"
-16,"TEXT_CMNDEFHOUSINGKICK_00206_A2_000_002","Einrichtungsgegenstände"
+16,"TEXT_CMNDEFHOUSINGKICK_00206_A2_000_002","Ein<hex:02160103>rich<hex:02160103>tungs<hex:02160103>ge<hex:02160103>gen<hex:02160103>stän<hex:02160103>de"
 17,"TEXT_CMNDEFHOUSINGKICK_00206_A2_000_003","Nichts"
 18,"TEXT_CMNDEFHOUSINGKICK_00206_Q3_000_000","Die Auszahlung der Entschädigung kann nicht rückgängig gemacht werden. Möchtest du dir <hex:022206E802FF022E03> Gil auszahlen lassen?"
 19,"TEXT_CMNDEFHOUSINGKICK_00206_A3_000_001","Ja"

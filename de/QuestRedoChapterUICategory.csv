@@ -42,7 +42,7 @@ Int32,UInt8,String
 37,13,"Tänzer"
 38,0,""
 39,23,"Rotmagier"
-40,99,"Blaumagier (beschränkter Job)"
+40,90,"Blaumagier (beschränkter Job)"
 41,0,"Verteidiger"
 42,0,"Heiler"
 43,0,"Angreifer"
@@ -62,3 +62,4 @@ Int32,UInt8,String
 57,1,"Sammler-Aufträge"
 58,6,"Aufträge der Handwerker und Sammler: Auftakt"
 59,7,"Zusatzaufträge der Handwerker und Sammler: Auftakt"
+60,0,""

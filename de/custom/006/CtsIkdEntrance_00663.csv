@@ -13,7 +13,7 @@ Int32,String,String
 8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","Bei welcher Route mitfahren?"
 9,"TEXT_CTSIKDENTRANCE_00663_STM_001","Bei „<hex:02280EFF09>IKDRoute<hex:E8020C03>“ mitfahren?"
 10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","Bei „<hex:02280EFF09>IKDRoute<hex:E8020C03>“ mitfahren?"
-11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","Bei „<hex:02280EFF09>IKDRoute<hex:E8020C03>“ mitfahren?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※ Wenn sich in deiner Gruppe Mitglieder befinden, welche den Auftrag des Hauptszenarios „Blutiger Sturm“ noch nicht abgeschlossen haben, kann diese Route nicht ausgewählt werden.<hex:0249020103><hex:0248020103>"
+11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","Bei „<hex:02280EFF09>IKDRoute<hex:E8020C03>“ mitfahren?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※ Wenn sich in deiner Gruppe Mitglieder befinden, welche den Auftrag des Hauptszenarios „<hex:022816FF06>Quest<hex:E803FF0B>QUEST_NAME<hex:03>“ noch nicht abgeschlossen haben, kann diese Route nicht ausgewählt werden.<hex:0249020103><hex:0248020103>"
 12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","Was ist los? Hast du deine Angelrute vergessen? Auf der <hex:021A020203>Endeavor<hex:021A020103> können nur Fischer mitfahren!"
 13,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205","Zu einer großen Fahrt auf der <hex:021A020203>Endeavor<hex:021A020103> kannst du dich nur als <hex:020817E905FF0A>Fischerin<hex:FF08>Fischer<hex:03> anmelden."
 14,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300","Tut mir leid, aber das Schiff hat bereits abgelegt. Wenn du möchtest, kannst du gerne an der nächsten Fahrt teilnehmen."

@@ -26,7 +26,7 @@ Int32,String,String
 21,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_LOW_PLAYER_LEVEL","Die gewünschte Aktion war nicht möglich, da die Stufe des Gehilfen als <hex:02280EFF09>ClassJob<hex:E8020103> höher als deine Stufe ist."
 22,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_NO_ITEM","Du musst zuerst <hex:02320DFF05>Item<hex:02E80202050203> erwerben."
 23,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_SUCCESS","Du hast dem Gehilfen erfolgreich dein Wissen als <hex:02280EFF09>ClassJob<hex:E8020103> vermittelt!"
-24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","Der Job konnte nicht wie gewünscht festgelegt werden."
+24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","Der Job kann während einer aktiven Unternehmung nicht festgelegt werden."
 25,"TEXT_CMNDEFRETAINERBELL_00544_ASK_BE_CHANGE_JOB","Du kannst diesem Gehilfen einen Job zuweisen. Möchtest du mehr darüber erfahren?"
 26,"TEXT_CMNDEFRETAINERBELL_00544_ASK_CHANGE_JOB","Möchtest du dein Wissen über den Job „<hex:02280EFF09>ClassJob<hex:E8030103>“ in <hex:02320DFF05>Item<hex:03E80202050203> eintragen und deinem Gehilfen dieses Wissen vermitteln?"
 27,"TEXT_CMNDEFRETAINERBELL_00544_ASK_CHANGE_JOB_CHECK","Den Job „<hex:02280EFF09>ClassJob<hex:E8030103>“ zuweisen."
