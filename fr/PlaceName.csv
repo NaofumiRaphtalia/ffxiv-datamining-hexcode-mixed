@@ -5539,39 +5539,39 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5534,"Courant spectral (large de l'île sans nom)",0,"Courant spectral (large de l'île sans nom)",0,0,1,0,0,"<hex:020996E802FF30>le courant spectral au large de l'île sans nom<hex:FF30>au courant spectral au large de l'île sans nom<hex:FF30>du courant spectral au large de l'île sans nom<hex:03>",0,0,0
 5535,"Large de Thavnair",0,"Large de Thavnair",0,0,1,0,0,"<hex:020945E802FF15>le large de Thavnair<hex:FF15>au large de Thavnair<hex:FF15>du large de Thavnair<hex:03>",0,0,0
 5536,"Courant spectral (large de Thavnair)",0,"Courant spectral (large de Thavnair)",0,0,1,0,0,"<hex:020981E802FF29>le courant spectral au large de Thavnair<hex:FF29>au courant spectral au large de Thavnair<hex:FF29>du courant spectral au large de Thavnair<hex:03>",0,0,0
-5537,"",0,"",0,0,0,0,0,"",0,0,0
-5538,"",0,"",0,0,0,0,0,"",0,0,0
-5539,"",0,"",0,0,0,0,0,"",0,0,0
-5540,"",0,"",0,0,0,0,0,"",0,0,0
-5541,"",0,"",0,0,0,0,0,"",0,0,0
-5542,"",0,"",0,0,0,0,0,"",0,0,0
-5543,"",0,"",0,0,0,0,0,"",0,0,0
-5544,"",0,"",0,0,0,0,0,"",0,0,0
+5537,"Étang forestier",0,"Étang forestier",0,0,1,0,0,"<hex:020945E802FF13>l'étang forestier<hex:FF16>à l'étang forestier<hex:FF16>de l'étang forestier<hex:03>",0,0,0
+5538,"Bassin de la Feuillaison",0,"Bassin de la Feuillaison",0,0,1,0,0,"<hex:02095AE802FF1C>le bassin de la Feuillaison<hex:FF1C>au bassin de la Feuillaison<hex:FF1C>du bassin de la Feuillaison<hex:03>",0,0,0
+5539,"Bassin d'Émeraude",0,"Bassin d'Émeraude",0,0,1,0,0,"<hex:020948E802FF16>le bassin d'Émeraude<hex:FF16>au bassin d'Émeraude<hex:FF16>du bassin d'Émeraude<hex:03>",0,0,0
+5540,"Nervure routière ouest",0,"Nervure routière ouest",0,0,1,0,0,"<hex:02095DE802FF1B>la Nervure routière ouest<hex:FF1E>à la Nervure routière ouest<hex:FF1E>de la Nervure routière ouest<hex:03>",0,0,0
+5541,"Fontaine luxuriante",0,"Fontaine luxuriante",0,0,1,0,0,"<hex:020951E802FF17>la fontaine luxuriante<hex:FF1A>à la fontaine luxuriante<hex:FF1A>de la fontaine luxuriante<hex:03>",0,0,0
+5542,"Cuvette sylvestre",0,"Cuvette sylvestre",0,0,1,0,0,"<hex:02094BE802FF15>la cuvette sylvestre<hex:FF18>à la cuvette sylvestre<hex:FF18>de la cuvette sylvestre<hex:03>",0,0,0
+5543,"Parcelle du rivage",0,"Parcelle du rivage",0,0,1,0,0,"<hex:02094EE802FF16>la parcelle du rivage<hex:FF19>à la parcelle du rivage<hex:FF19>de la parcelle du rivage<hex:03>",0,0,0
+5544,"Source épanouie",0,"Source épanouie",0,0,1,0,0,"<hex:020948E802FF14>la source épanouie<hex:FF17>à la source épanouie<hex:FF17>de la source épanouie<hex:03>",0,0,0
 5545,"",0,"",0,0,0,0,0,"",0,0,0
-5546,"",0,"",0,0,0,0,0,"",0,0,0
-5547,"",0,"",0,0,0,0,0,"",0,0,0
-5548,"",0,"",0,0,0,0,0,"",0,0,0
-5549,"",0,"",0,0,0,0,0,"",0,0,0
-5550,"",0,"",0,0,0,0,0,"",0,0,0
-5551,"",0,"",0,0,0,0,0,"",0,0,0
-5552,"",0,"",0,0,0,0,0,"",0,0,0
-5553,"",0,"",0,0,0,0,0,"",0,0,0
-5554,"",0,"",0,0,0,0,0,"",0,0,0
-5555,"",0,"",0,0,0,0,0,"",0,0,0
-5556,"",0,"",0,0,0,0,0,"",0,0,0
-5557,"",0,"",0,0,0,0,0,"",0,0,0
-5558,"",0,"",0,0,0,0,0,"",0,0,0
-5559,"",0,"",0,0,0,0,0,"",0,0,0
-5560,"",0,"",0,0,0,0,0,"",0,0,0
-5561,"",0,"",0,0,0,0,0,"",0,0,0
-5562,"",0,"",0,0,0,0,0,"",0,0,0
-5563,"",0,"",0,0,0,0,0,"",0,0,0
-5564,"",0,"",0,0,0,0,0,"",0,0,0
-5565,"",0,"",0,0,0,0,0,"",0,0,0
-5566,"",0,"",0,0,0,0,0,"",0,0,0
-5567,"",0,"",0,0,0,0,0,"",0,0,0
-5568,"",0,"",0,0,0,0,0,"",0,0,0
-5569,"",0,"",0,0,0,0,0,"",0,0,0
+5546,"Havre forestier",0,"Havre forestier",0,0,1,0,0,"<hex:02093FE802FF13>le Havre forestier<hex:FF13>au Havre forestier<hex:FF13>du Havre forestier<hex:03>",0,0,0
+5547,"Jardins luxuriants",0,"Jardins luxuriants",0,0,1,0,0,"<hex:02094BE802FF17>les Jardins luxuriants<hex:FF17>aux Jardins luxuriants<hex:FF17>des Jardins luxuriants<hex:03>",0,0,0
+5548,"Pileus Pergola",0,"Pileus Pergola",0,0,1,0,0,"<hex:020939E802FF0F>Pileus Pergola<hex:FF12>à Pileus Pergola<hex:FF12>de Pileus Pergola<hex:03>",0,0,0
+5549,"Bibliothèques sylvestres",0,"Bibliothèques sylvestres",0,0,1,0,0,"<hex:020960E802FF1E>les Bibliothèques sylvestres<hex:FF1E>aux Bibliothèques sylvestres<hex:FF1E>des Bibliothèques sylvestres<hex:03>",0,0,0
+5550,"Parcelle verdoyante",0,"Parcelle verdoyante",0,0,1,0,0,"<hex:020951E802FF17>la Parcelle verdoyante<hex:FF1A>à la Parcelle verdoyante<hex:FF1A>de la Parcelle verdoyante<hex:03>",0,0,0
+5551,"Auxesia",0,"Auxesia",0,0,1,0,0,"<hex:020923E802FF08>Auxesia<hex:FF0B>à Auxesia<hex:FF0A>d'Auxesia<hex:03>",0,0,0
+5552,"Écosystème central",0,"Écosystème central",0,0,1,0,0,"<hex:020951E802FF17>l'Écosystème central<hex:FF1A>à l'Écosystème central<hex:FF1A>de l'Écosystème central<hex:03>",0,0,0
+5553,"Bois dormant",0,"Bois dormant",0,0,1,0,0,"<hex:020936E802FF10>le bois dormant<hex:FF10>au bois dormant<hex:FF10>du bois dormant<hex:03>",0,0,0
+5554,"Répertoire racine",0,"Répertoire racine",0,0,1,0,0,"<hex:020948E802FF16>le Répertoire racine<hex:FF16>au Répertoire racine<hex:FF16>du Répertoire racine<hex:03>",0,0,0
+5555,"Bibliothèques sylvestres",0,"Bibliothèques sylvestres",0,0,1,0,0,"<hex:020960E802FF1E>les Bibliothèques sylvestres<hex:FF1E>aux Bibliothèques sylvestres<hex:FF1E>des Bibliothèques sylvestres<hex:03>",0,0,0
+5556,"Jardins luxuriants",0,"Jardins luxuriants",0,0,1,0,0,"<hex:02094BE802FF17>les Jardins luxuriants<hex:FF17>aux Jardins luxuriants<hex:FF17>des Jardins luxuriants<hex:03>",0,0,0
+5557,"Nervure routière",0,"Nervure routière",0,0,1,0,0,"<hex:02094BE802FF15>la Nervure routière<hex:FF18>à la Nervure routière<hex:FF18>de la Nervure routière<hex:03>",0,0,0
+5558,"Parcelle verdoyante",0,"Parcelle verdoyante",0,0,1,0,0,"<hex:020951E802FF17>la Parcelle verdoyante<hex:FF1A>à la Parcelle verdoyante<hex:FF1A>de la Parcelle verdoyante<hex:03>",0,0,0
+5559,"Le Laurier-Mère",0,"Le Laurier-Mère",0,0,1,0,0,"<hex:020939E802FF11>Le Laurier-Mère<hex:FF11>au Laurier-Mère<hex:FF11>du Laurier-Mère<hex:03>",0,0,0
+5560,"Haute pépinière",0,"Haute pépinière",0,0,1,0,0,"<hex:02094BE802FF15>la Haute pépinière<hex:FF18>à la Haute pépinière<hex:FF18>de la Haute pépinière<hex:03>",0,0,0
+5561,"Havre forestier",0,"Havre forestier",0,0,1,0,0,"<hex:02093FE802FF13>le Havre forestier<hex:FF13>au Havre forestier<hex:FF13>du Havre forestier<hex:03>",0,0,0
+5562,"Pousse épanouie",0,"Pousse épanouie",0,0,1,0,0,"<hex:020948E802FF14>la Pousse épanouie<hex:FF17>à la Pousse épanouie<hex:FF17>de la Pousse épanouie<hex:03>",0,0,0
+5563,"L'Entrelacement",0,"L'Entrelacement",0,0,1,0,0,"<hex:02093CE802FF10>L'Entrelacement<hex:FF13>à L'Entrelacement<hex:FF13>de L'Entrelacement<hex:03>",0,0,0
+5564,"Cité de la Feuillaison",0,"Cité de la Feuillaison",0,0,1,0,0,"<hex:02095DE802FF1B>la cité de la Feuillaison<hex:FF1E>à la cité de la Feuillaison<hex:FF1E>de la cité de la Feuillaison<hex:03>",0,0,0
+5565,"Orchidelirium",0,"Orchidelirium",0,0,1,0,0,"<hex:02093CE802FF10>l'Orchidelirium<hex:FF13>à l'Orchidelirium<hex:FF13>de l'Orchidelirium<hex:03>",0,0,0
+5566,"Pileus Pergola",0,"Pileus Pergola",0,0,1,0,0,"<hex:020939E802FF0F>Pileus Pergola<hex:FF12>à Pileus Pergola<hex:FF12>de Pileus Pergola<hex:03>",0,0,0
+5567,"Pousse fleurie",0,"Pousse fleurie",0,0,1,0,0,"<hex:020942E802FF12>la Pousse fleurie<hex:FF15>à la Pousse fleurie<hex:FF15>de la Pousse fleurie<hex:03>",0,0,0
+5568,"Parterre de Blossomingway",0,"Parterre de Blossomingway",0,0,1,0,0,"<hex:02095DE802FF1D>le parterre de Blossomingway<hex:FF1D>au parterre de Blossomingway<hex:FF1D>du parterre de Blossomingway<hex:03>",0,0,0
+5569,"Pousse vivace",0,"Pousse vivace",0,0,1,0,0,"<hex:02093FE802FF11>la Pousse vivace<hex:FF14>à la Pousse vivace<hex:FF14>de la Pousse vivace<hex:03>",0,0,0
 5570,"Avenue d'Ulthalam",0,"Avenue d'Ulthalam",0,0,1,0,0,"<hex:020948E802FF14>l'avenue d'Ulthalam<hex:FF17>à l'avenue d'Ulthalam<hex:FF17>de l'avenue d'Ulthalam<hex:03>",0,0,0
 5571,"",0,"",0,0,0,0,0,"",0,0,0
 5572,"",0,"",0,0,0,0,0,"",0,0,0

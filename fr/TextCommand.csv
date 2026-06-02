@@ -730,7 +730,7 @@ Int32,UInt8,UInt8,Int8,Int8,Int8,String,String,String,String,String,UInt16,UInt3
 728,0,0,0,0,0,"","","","","",0,0
 729,2,1,2,0,0,"/cackle","","/ricaner, /cackle<hex:02100103>Utilisation<hex:021D0103>: /ricaner [sous-commande]<hex:02100103>Ricane avec un air narquois.<hex:02100103>>> Sous-commande<hex:021D0103>:<hex:02100103>animation (motion)   Exécute uniquement l'animation.<hex:02100103>* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/ricaner","",293,0
 730,2,1,2,0,0,"/conduct","","/chefdorchestre, /chefdorc, /conduct<hex:02100103>Utilisation<hex:021D0103>: /chefdorchestre [sous-commande]<hex:02100103>Agite une baguette pour battre la mesure.<hex:02100103>>> Sous-commande<hex:021D0103>:<hex:02100103>animation (motion)   Exécute uniquement l'animation.<hex:02100103>* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/chefdorchestre","/chefdorc",293,0
-731,0,0,0,0,0,"","","","","",0,0
-732,0,0,0,0,0,"","","","","",0,0
+731,2,1,2,0,0,"/eattaco","/taco","/mangeruntaco, /taco, /eattaco<hex:02100103>Utilisation<hex:021D0103>: /mangeruntaco [sous-commande]<hex:02100103>Croque dans un taco.<hex:02100103>>> Sous-commande<hex:021D0103>:<hex:02100103>animation (motion)   Exécute uniquement l'animation.<hex:02100103>* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/mangeruntaco","/taco",293,0
+732,2,1,2,0,0,"/devourtaco","","/dégusteruntaco, /dégtaco, /devourtaco<hex:02100103>Utilisation<hex:021D0103>: /dégusteruntaco [sous-commande]<hex:02100103>Déguste un taco en continu.<hex:02100103>>> Sous-commande<hex:021D0103>:<hex:02100103>animation (motion)   Exécute uniquement l'animation.<hex:02100103>* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/dégusteruntaco","/dégtaco",293,0
 733,0,0,0,0,0,"","","","","",0,0
 734,0,0,0,0,0,"","","","","",0,0

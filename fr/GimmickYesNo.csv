@@ -158,7 +158,7 @@ Int32,String,String,String
 153,"Remettre la statuette à sa place<hex:021D0103>?","Oui","Non"
 154,"Activer la balance<hex:021D0103>?","Oui","Non"
 155,"Utiliser le téléporteur<hex:021D0103>?","Oui","Non"
-156,"探査隊のベースキャンプに戻ります。<hex:02100103>よろしいですか？","はい","いいえ"
+156,"Retourner au camp de base nord<hex:021D0103>?","Oui","Non"
 157,"Tourner la statue de Suzaku<hex:021D0103>?","Oui","Non"
 158,"Tourner la statue de Seiryû<hex:021D0103>?","Oui","Non"
 159,"Toucher la boule de cristal<hex:021D0103>?","Oui","Non"

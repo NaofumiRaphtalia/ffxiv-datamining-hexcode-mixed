@@ -83,7 +83,7 @@ Int32,String,String
 78,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_080","Vous m'en voyez vraiment navré, mais cet objet est exclusivement réservé aux personnes qui se sont liées d'amitié avec tous les Yo-kai. Je vous suggère donc de commencer par collecter des médailles pour faire de ces adorables petites créatures vos amies<hex:021D0103>!"
 79,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_081","Tenez, voici votre <hex:02330DFF05>Item<hex:0DF2A345020203>, la preuve que vous êtes l'ami<hex:020808E905FF02>e<hex:FF01><hex:03> de tous les Yo-kai<hex:021D0103>! Croyez-moi, vous pouvez en être fi<hex:02080DE905FF05>ère<hex:FF03>er<hex:03>."
 80,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_082","Impossible de faire l'échange. <hex:02085CE4E80202FF1D>Vous ne possédez pas de PGS<hex:FF38>Vous ne possédez pas les <hex:022209E802FF05021D010303> PGS nécessaires<hex:03>."
-81,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_006",""
+81,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_006","Obtenir des meubles"
 82,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_000","（★未使用／削除予定★）"
 83,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_001","（★未使用／削除予定★）"
 84,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_001","（★未使用／削除予定★）"
