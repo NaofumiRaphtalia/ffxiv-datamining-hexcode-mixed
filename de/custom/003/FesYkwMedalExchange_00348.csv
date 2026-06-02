@@ -83,7 +83,7 @@ Int32,String,String
 78,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_080","Oh, tut mir Leid, aber das ist eine besondere Belohnung für diejenigen, die sich mit allen Yo-kai angefreundet haben. Sammle also erstmal ein paar Yo-kai-Medaillen und tausche sie gegen Yo-kai-Begleiter!"
 79,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_081","Als Beleg dafür, dass du dich mit allen Yo-kai angefreundet hast<hex:021D0103>... bitte sehr, <hex:02320EFF05>Item<hex:02F2A34502020203>! Ich habe keine Zweifel, dass es dir gefallen wird!"
 80,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_082","Du besitzt nicht genügend MGP. Es werden <hex:02220CFF07><hex:022003E80203><hex:FF022E03> MGP benötigt."
-81,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_006",""
+81,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_006","Einrichtung erwerben."
 82,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_000","（★未使用／削除予定★）"
 83,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_001","（★未使用／削除予定★）"
 84,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_001","（★未使用／削除予定★）"
