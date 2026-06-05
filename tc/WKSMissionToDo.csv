@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
-#,TemporaryAction,WKSMissionText,,RequiredItem[0],RequiredItemQuantity[0],RequiredItem[1],RequiredItemQuantity[1],RequiredItem[2],RequiredItemQuantity[2],,,,,,,,,,
+#,TemporaryAction,,,RequiredItem[0],RequiredItemQuantity[0],RequiredItem[1],RequiredItemQuantity[1],RequiredItem[2],RequiredItemQuantity[2],,,WKSMissionText,,,,,,MapMarker,
 offset,0,32,8,10,16,12,18,14,20,33,22,34,4,35,24,26,28,30,36
 Int32,UInt32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt8,UInt16,UInt8,UInt32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt8
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

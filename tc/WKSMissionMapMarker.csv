@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,,,,
+#,Icon,X,Y,Radius
 offset,0,4,6,8
 Int32,UInt32,UInt16,UInt16,UInt16
 0,0,0,0,0
