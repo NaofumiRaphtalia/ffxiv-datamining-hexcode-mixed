@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,,,,,,Item,Category0,Category1,Category2,Category3,Text0,Text1,
+#,Text0,,,,,Item,,Category0,Category1,Category2,Category3,,
 offset,21,4,6,19,20,0,8,10,12,14,16,17,18
 Int32,PackedBool0,UInt16,UInt16,Bool,Bool,UInt32,UInt16,UInt16,UInt16,UInt16,UInt8,UInt8,UInt8
 0,False,0,0,False,False,0,0,0,0,0,0,0,1
@@ -12,10 +12,10 @@ Int32,PackedBool0,UInt16,UInt16,Bool,Bool,UInt32,UInt16,UInt16,UInt16,UInt16,UIn
 7,False,0,0,False,False,0,0,0,0,0,0,0,1
 8,True,8,0,True,False,41786,9,10,11,12,1,4,26
 9,True,8,0,True,False,0,0,0,0,0,0,0,1
-10,False,0,0,False,False,0,0,0,0,0,0,0,0
-11,False,0,0,False,False,0,0,0,0,0,0,0,0
-12,False,0,0,False,False,0,0,0,0,0,0,0,0
-13,False,0,0,False,False,0,0,0,0,0,0,0,0
+10,False,8,0,True,False,0,0,0,0,0,0,0,1
+11,False,0,0,False,False,0,0,0,0,0,0,0,1
+12,True,12,0,True,False,44348,13,14,15,16,1,5,26
+13,True,12,0,True,False,0,0,0,0,0,0,0,1
 14,False,0,0,False,False,0,0,0,0,0,0,0,0
 15,False,0,0,False,False,0,0,0,0,0,0,0,0
 16,False,0,0,False,False,0,0,0,0,0,0,0,0

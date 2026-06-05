@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000","«黃道文書»……<hex:02100103>上面記載了上古英雄的事蹟，還有他們持有的光之武器。<hex:02100103>你要是想要的話……"
+0,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000","《黃道文書》……<hex:02100103>上面記載了上古英雄的事蹟，還有他們持有的光之武器。<hex:02100103>你要是想要的話……"
 1,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001","1卷古書需要拿100個<hex:02280FFF05>Item<hex:FF06>　28<hex:0103>來換。<hex:02100103>一套共有9卷，我會按順序一卷一卷地換給你的。"
 2,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010","打倒黃道文書中記載的所有討伐目標，<hex:02100103>就能提升該上古武器·魂晶的效能。"
 3,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011","每個上古武器·魂晶都配有9卷黃道文書，<hex:02100103>最開始只能交換其中的4種。"

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,ModelKey,HousingItemCategory,UsageType,UsageParameter,,CustomTalk,Item,DestroyOnRemoval,,,,,,,
+#,ModelKey,HousingItemCategory,UsageType,UsageParameter,PlaceLimitType,CustomTalk,Item,DestroyOnRemoval,,,Placement,Unplacement,UnplacementStorage,,
 offset,12,14,15,0,16,4,8,20,20,20,17,18,19,20,20
 Int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt8,PackedBool3,PackedBool4
 131072,0,17,0,0,0,0,0,False,False,True,0,0,0,False,False
@@ -333,3 +333,9 @@ Int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt32,UInt32,PackedBool0,PackedBool1,Pack
 131414,320,17,0,0,0,0,41833,False,False,True,0,0,0,False,True
 131415,308,17,0,0,0,0,44121,False,False,True,0,0,0,False,True
 131416,321,17,0,0,0,0,44122,False,False,True,0,0,0,False,True
+131417,188,17,0,0,0,0,44926,False,False,True,3,0,0,False,True
+131418,192,17,0,0,0,0,44927,False,False,True,3,0,0,False,True
+131419,322,17,0,0,0,0,44928,False,False,True,0,0,0,False,True
+131420,323,17,0,0,0,0,44929,False,False,True,0,0,0,False,True
+131425,328,17,0,0,0,0,44934,False,False,True,0,0,0,False,True
+131426,299,17,0,0,0,0,44935,False,False,True,3,0,0,False,True

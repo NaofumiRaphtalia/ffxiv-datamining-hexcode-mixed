@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,Text,,,,
+#,,Objective,,,
 offset,4,0,5,6,7
 Int32,UInt8,UInt32,UInt8,UInt8,PackedBool0
 0.0,0,0,0,0,False
