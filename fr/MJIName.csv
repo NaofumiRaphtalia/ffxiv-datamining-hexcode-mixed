@@ -1,0 +1,11 @@
+﻿key,0,1,2,3,4,5,6,7
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
+offset,0,8,4,9,10,11,12,13
+Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8
+0,"",0,"0",0,0,1,0,0
+1,"Prairie verdoyante",0,"Prairies verdoyantes",0,0,1,1,0
+2,"Ruisseau cristallin",0,"Ruisseaux cristallins",0,0,1,0,0
+3,"Bois sauvages",0,"Bois sauvages",0,0,2,0,0
+4,"Plage sablonneuse",0,"Plages sablonneuses",0,0,1,1,0
+5,"Montagne moussue",0,"Montagnes moussues",0,0,1,1,0
+6,"Caverne croulante",0,"Cavernes croulantes",0,0,1,1,0

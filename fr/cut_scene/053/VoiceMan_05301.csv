@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_VOICEMAN_05301_000010_ALPHINAUD","(Cri)"
+1,"TEXT_VOICEMAN_05301_000020_ALISAIE","C'était quoi<hex:021D0103>!?"
+2,"TEXT_VOICEMAN_05301_000030_RYNE","(Cri)"
+3,"TEXT_VOICEMAN_05301_000040_THANCRED","On va s'écraser<hex:021D0103>! Cramponnez-vous<hex:021D0103>!"
+4,"TEXT_VOICEMAN_05301_000050_ELIDIBUS","Mon devoir est de sauver l'unique monde qui compte... Tu vas disparaître<hex:021D0103>!"
+5,"TEXT_VOICEMAN_05301_000060_ELIDIBUS","Je n'aban<hex:02160103>don<hex:02160103>ne<hex:02160103>rai pas... Je m'étais juré... juré de..."

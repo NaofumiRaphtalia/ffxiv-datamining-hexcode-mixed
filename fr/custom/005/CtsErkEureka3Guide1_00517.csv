@@ -1,0 +1,23 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_000","Eurêka a piqué ma curiosité scien<hex:02160103>ti<hex:02160103>fi<hex:02160103>que. Tant et si bien que je me renseigne maintenant sur l'origine de la légende, un sujet qui sort du strict cadre de notre in<hex:02160103>ves<hex:02160103>ti<hex:02160103>ga<hex:02160103>tion<hex:021D0103>! Si comme moi certaines questions vous brûlent les lèvres, n'hésitez pas à les poser<hex:021D0103>!"
+1,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_010","Quelle terrible trahison... Maintenant que j'y pense, j'ai bien fait d'en apprendre le plus possible sur cette île. Les détails que j'ai glanés sur l'origine de la légende d'Eurêka vont sûrement nous être utiles. Demandez-moi ce que vous voulez<hex:021D0103>!"
+2,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_020","Vous avez abattu un sacré travail, <hex:02081DE905FF0D>aventurière<hex:FF0B>aventurier<hex:03><hex:021D0103>! Bravo<hex:021D0103>! Vous avez du temps libre, maintenant. Alors, profitez-en pour me demander ce que vous voulez sur l'origine de la légende d'Eurêka et ses mystères<hex:021D0103>!"
+3,"TEXT_CTSERKEUREKA3GUIDE1_00517_A1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+4,"TEXT_CTSERKEUREKA3GUIDE1_00517_Q1_000_001","La légende d'Eurêka"
+5,"TEXT_CTSERKEUREKA3GUIDE1_00517_Q1_000_002","L'emplacement d'Eurêka"
+6,"TEXT_CTSERKEUREKA3GUIDE1_00517_Q1_000_003","L'arme scellée à Eurêka"
+7,"TEXT_CTSERKEUREKA3GUIDE1_00517_Q1_000_004","Annuler"
+8,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_030","Eurêka est une légende, mais n'allez pas croire qu'elle a été compilée en une histoire cohérente. En fait, la littérature à son sujet est mince et n'est composée que d'in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions parcellaires<hex:021D0103>!"
+9,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_031","En outre, ce sont surtout des contradictions qui se dégagent de ces bribes... Il y a néanmoins un point sur lequel tous les textes s'accordent<hex:021D0103>: Eurêka a été construit par l'ancien empire d'Allag, et il y aurait enfermé une arme d'une puissance incommensurable."
+10,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_032","Voilà pourquoi la majeure partie de la communauté scien<hex:02160103>ti<hex:02160103>fi<hex:02160103>que s'est toujours montrée prudente et a longtemps douté de son existence."
+11,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_033","Toutefois, l'apparition de la Tour de Cristal avec le septième fléau a tout chamboulé<hex:021D0103>! D'un coup, la théorie de l'existence d'Eurêka s'est retrouvée au centre de toutes les attentions<hex:021D0103>! C'est d'ailleurs à cette période que la Fondation de Saint-Coinach a entrepris de percer les secrets de l'édifice<hex:021D0103>!"
+12,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_040","L'emplacement d'Eurêka a été sujet à débat, mais la meilleure hypothèse dont nous disposons aujourd'hui placerait l'endroit sous la Tour de Cristal<hex:021D0103>!"
+13,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_041","Malgré le peu d'in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions qu'ils possédaient, les chercheurs ont identifié de nombreux liens entre les deux. Il n'en fallait pas moins pour que les chasseurs de trésors se ruent vers la tour et démarrent des travaux d'excavation<hex:021D0103>!"
+14,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_042","Mal<hex:02160103>heu<hex:02160103>reu<hex:02160103>se<hex:02160103>ment, même si leurs efforts se poursuivent, ils ont jusqu'ici fait chou blanc. Au final, les récents événements ont réaffirmé l'existence d'Eurêka, mais son emplacement reste nimbé de mystère."
+15,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_050","Qu'est-ce qui a été scellé à Eurêka<hex:021D0103>? Ah ah, c'est la question à un million de gils<hex:021D0103>!"
+16,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_051","Les théories ne manquent pas, ceci dit<hex:021D0103>: le fruit d'expériences magismologiques devenu in<hex:02160103>con<hex:02160103>trô<hex:02160103>la<hex:02160103>ble<hex:021D0103>; un puissant fétiche laissé par l'archimage Noah, lui-même<hex:021D0103>; ou encore un don divin, rien que ça<hex:021D0103>!"
+17,"TEXT_CTSERKEUREKA3GUIDE1_00517_INV00463_000_052","C'est un peu du grand n'importe quoi, en somme... Ces di<hex:02160103>va<hex:02160103>ga<hex:02160103>tions révèlent surtout les fantasmes de leurs auteurs<hex:021D0103>!"
+18,"TEXT_CTSERKEUREKA3GUIDE1_00517_TALK_ACTOR","（★未使用／削除予定★）"

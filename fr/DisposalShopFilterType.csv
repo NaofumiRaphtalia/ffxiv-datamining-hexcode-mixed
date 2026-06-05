@@ -1,0 +1,9 @@
+﻿key,0
+#,Category
+offset,0
+Int32,String
+0,""
+1,"Tous les objets"
+2,"Cacher les objets des tenues"
+3,"Cacher les objets de l'arsenal"
+4,"Objets de Nv obj ≦ <hex:022003E80203>"

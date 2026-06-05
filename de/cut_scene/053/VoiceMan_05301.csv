@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_VOICEMAN_05301_000010_ALPHINAUD","Uaaaah!"
+1,"TEXT_VOICEMAN_05301_000020_ALISAIE","Was<hex:021D0103>...?!"
+2,"TEXT_VOICEMAN_05301_000030_RYNE","Aaah!"
+3,"TEXT_VOICEMAN_05301_000040_THANCRED","Das gibt 'ne Bruchlandung<hex:021D0103>..."
+4,"TEXT_VOICEMAN_05301_000050_ELIDIBUS","Meine Pflicht ist es, die einzig wahre Welt zu retten. Daher werde ich dich vernichten!"
+5,"TEXT_VOICEMAN_05301_000060_ELIDIBUS","Mein ... Versprechen<hex:021D0103>... Ich<hex:021D0103>... muss es<hex:021D0103>... Ugh<hex:021D0103>... "

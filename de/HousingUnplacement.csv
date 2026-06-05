@@ -1,0 +1,23 @@
+﻿key,0
+#,Text
+offset,0
+Int32,String
+0,""
+1,"Den Gegenstand wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Der Gegenstand wird nicht ins Inventar zurückgelegt und geht verloren.<hex:0249020103><hex:0248020103>"
+2,"<hex:022B1BFF19><hex:023215FF0D>ENpcResident<hex:03E80202050203><hex:03> wirklich entlassen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Das Aussehen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<hex:0249020103><hex:0248020103>"
+3,"Den Gehilfen wirklich entlassen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Das Aussehen des Gehilfen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<hex:0249020103><hex:0248020103>"
+4,"Den Gegenstand wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Der Gegenstand wird nicht ins Inventar zurückgelegt und geht verloren. Ungenutzte Anwendungen (<hex:022003E80203>) gehen ebenfalls verloren.<hex:0249020103><hex:0248020103>"
+5,"Die Vase wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich Blumen darin befinden, gehen sie verloren.<hex:0249020103><hex:0248020103>"
+6,"Das Aquarium wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Alle Gegenstände darin (Fische oder Ausstattung) gehen verloren.<hex:0249020103><hex:0248020103>"
+7,"Den Rahmen wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich ein Gemälde darin befindet, geht es verloren.<hex:0249020103><hex:0248020103>"
+8,"Das Wandteil wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich eine Tapete daran befindet, geht sie verloren.<hex:0249020103><hex:0248020103>"
+9,"<hex:022B1BFF19><hex:023215FF0D>ENpcResident<hex:03E80202050203><hex:03> wirklich aus dem Lagerhaus entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Das Aussehen wird zurückgesetzt.<hex:0249020103><hex:0248020103>"
+10,"Den Gehilfen wirklich aus dem Lagerhaus entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Das Aussehen des Gehilfen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<hex:0249020103><hex:0248020103>"
+11,"Den Gegenstand wirklich aus dem Lagerhaus entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Der Gegenstand wird nicht ins Inventar zurückgelegt und geht verloren. Ungenutzte Anwendungen (<hex:022003E80203>) gehen ebenfalls verloren.<hex:0249020103><hex:0248020103>"
+12,"Die Vase wirklich aus dem Lagerhaus entfernen und ins Inventar zurücklegen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich eine Blume darin befindet, geht sie verloren.<hex:0249020103><hex:0248020103>"
+13,"Das Aquarium wirklich aus dem Lagerhaus entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Alle Gegenstände darin (Fische oder Ausstattung) gehen verloren.<hex:0249020103><hex:0248020103>"
+14,"Den Rahmen wirklich aus dem Lagerhaus entfernen und ins Inventar zurücklegen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich ein Gemälde darin befindet, geht es verloren.<hex:0249020103><hex:0248020103>"
+15,"Das Wandteil wirklich entfernen und ins Inventar zurücklegen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich eine Tapete daran befindet, geht sie verloren.<hex:0249020103><hex:0248020103>"
+16,"Den Hausdiener/Die Hausdienerin wirklich entlassen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Das Aussehen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<hex:0249020103><hex:0248020103>"
+17,"Den Rahmen wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich ein Fischdruck darin befindet, geht er verloren.<hex:0249020103><hex:0248020103>"
+18,"Den Rahmen wirklich entfernen?<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>※ Wenn sich ein Fischdruck darin befindet, geht er verloren.<hex:0249020103><hex:0248020103>"

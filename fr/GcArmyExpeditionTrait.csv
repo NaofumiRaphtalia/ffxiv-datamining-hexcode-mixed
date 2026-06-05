@@ -1,0 +1,28 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,,,,,,,,,,,
+offset,4,9,5,10,6,11,7,12,8,13,0
+Int32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,String
+0,0,0,0,0,0,0,0,0,0,0,""
+1,10,100,10,100,15,100,15,100,20,100,"physique augmenté de <hex:022003E80203>%"
+2,10,100,10,100,15,100,15,100,20,100,"mental augmenté de <hex:022003E80203>%"
+3,10,100,10,100,15,100,15,100,20,100,"tactique augmentée de <hex:022003E80203>%"
+4,3,100,3,100,3,100,3,100,5,100,"physique de l'escouade augmenté de <hex:022003E80203>%"
+5,3,100,3,100,3,100,3,100,5,100,"mental de l'escouade augmenté de <hex:022003E80203>%"
+6,3,100,3,100,3,100,3,100,5,100,"tactique de l'escouade augmentée de <hex:022003E80203>%"
+7,10,100,10,100,20,100,20,100,30,100,"gain d'expérience augmenté de <hex:022003E80203>%"
+8,5,100,5,100,10,100,10,100,15,100,"gain d'expérience augmenté de <hex:022003E80203>% pour toute l'escouade"
+9,10,100,20,100,30,100,40,100,50,100,"fréquence de déclenchement des affinités augmentée de <hex:022003E80203>%"
+10,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir un manuel d'instruction défensive"
+11,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir un manuel d'instruction magique"
+12,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir un manuel d'instruction offensive"
+13,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir des gils"
+14,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir des sceaux de compagnie"
+15,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir des PGS"
+16,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir une matéria pour tank"
+17,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir une matéria pour DPS physique"
+18,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir une matéria pour mage"
+19,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir une matéria pour récolteur"
+20,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir une matéria pour artisan"
+21,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir des agrégats"
+22,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir des assignats de récolteur"
+23,0,10,0,20,0,30,0,40,0,50,"<hex:022003E80203>% de chance d'obtenir des assignats d'artisan"

@@ -1,0 +1,19 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:021D0103>! Vous souhaitez donner un nouveau concert<hex:021D0103>? J'entretiens les pianos de temps à autre, alors ils sont toujours prêts si l'envie vous prend<hex:021D0103>!"
+1,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001","Ah, sire Artoirel nous a aussi remis une partition censée émouvoir encore plus le public, mais elle a l'air bien compliquée à jouer. Vous pourriez relever le défi si vous vous sentez à la hauteur<hex:021D0103>!"
+2,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_002","（★未使用／削除予定★）"
+3,"TEXT_REGROC2MARIORIE_00707_Q1_000_000","Donner un concert<hex:021D0103>?"
+4,"TEXT_REGROC2MARIORIE_00707_A1_000_001","Concert commémoratif de la recon<hex:02160103>struc<hex:02160103>tion d'Azurée"
+5,"TEXT_REGROC2MARIORIE_00707_A1_000_002","Concert commémoratif de la recon<hex:02160103>struc<hex:02160103>tion d'Azurée (brutal)"
+6,"TEXT_REGROC2MARIORIE_00707_A1_000_003","Pas maintenant"
+7,"TEXT_REGROC2MARIORIE_00707_A1_000_004","Voir les règles"
+8,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003","Non<hex:021D0103>? Qu'à cela ne tienne<hex:021D0103>! Je serai là si vous changez d'avis<hex:021D0103>!"
+9,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004","L'épreuve “Concert commémoratif de la recon<hex:02160103>struc<hex:02160103>tion d'Azurée” va débuter. Des notes ap<hex:02160103>pa<hex:02160103>raî<hex:02160103>tront et des effets lumineux convergeront sur elles. Vous devrez appuyer en rythme sur votre clavier, votre souris ou votre manette afin de les jouer cor<hex:02160103>rec<hex:02160103>te<hex:02160103>ment sur votre piano."
+10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","Lorsqu'une note bleue apparaît (comme à gauche), vous devez appuyer sur une touche au moment où l'effet lumineux se confond avec la note.<hex:02100103>Lorsqu'une note jaune apparaît (comme au milieu), vous devez marteler une touche à partir du moment où l'effet lumineux se confond avec la note et jusqu'à ce qu'il disparaisse.<hex:02100103>Lorsqu'une note rose apparaît (comme à droite), vous devez maintenir une touche à partir du moment où l'effet lumineux se confond avec la note et jusqu'à ce qu'il disparaisse."
+11,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006","Les touches que vous pourrez utiliser sont les suivantes<hex:021D0103>:"
+12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<hex:0208F20177E4E95101FFF20107>Souris<hex:021D0103>: Clic gauche , Clic droit , n'importe où sur l'écran.<hex:02100103>Clavier<hex:021D0103>: N'importe quelle touche utilisée pour entrer du texte, sans combinaison.<hex:02100103>Veuillez noter que le mode de discussion directe est désactivé pendant la durée de l'épreuve.<hex:FF67>Manette<hex:021D0103>: la plupart des touches, sauf <hex:021E021303>.<hex:02100103>Par exemple<hex:021D0103>: <hex:021E020803> <hex:021E020903> <hex:021E020A03> <hex:021E020B03> ou <hex:021E020C03>.<hex:03>"
+13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","La touche <hex:020812E4E94F04FF04>esc<hex:FF07>Échap<hex:03> ainsi que la touche <hex:021E021303> affichent le menu de pause d'où vous pourrez abandonner l'épreuve à tout moment."
+14,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999","Je vais tout remettre en ordre, au cas où vous voudriez donner d'autres repré<hex:02160103>sen<hex:02160103>ta<hex:02160103>tions<hex:021D0103>!"

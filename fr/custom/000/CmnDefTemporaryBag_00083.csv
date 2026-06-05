@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_01","Salut, <hex:02080CE905FF03>ma<hex:FF04>mon<hex:03> jeune ami<hex:020808E905FF02>e<hex:FF01><hex:03>. Je me charge de retourner les objets perdus lors du Fléau à leurs pro<hex:02160103>prié<hex:02160103>taires."
+1,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1","Que voulez-vous faire<hex:021D0103>?"
+2,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1","Récupérer mes objets perdus"
+3,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2","En savoir plus sur les objets perdus"
+4,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3","Annuler"
+5,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05","Un grand nombre de personnes ont disparu sans laisser de trace, mais en abandonnant des montagnes de biens lors du Fléau. La guilde des aventuriers conserve ces possessions en espérant que leurs pro<hex:02160103>prié<hex:02160103>taires viendront les réclamer."
+6,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06","Je tiens toutefois à souligner le fait que nous ne sommes pas pour autant un service de consigne. Si vous récupérez des objets, nous ne les reprendrons en aucun cas."
+7,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10","Le nombre d'aventuriers venant récupérer des objets perdus diminue de jour en jour."
+8,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_11","Cela me chagrine de savoir que certains de ces biens ne reverront sans doute jamais leurs pro<hex:02160103>prié<hex:02160103>taires."

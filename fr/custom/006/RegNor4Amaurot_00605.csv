@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_000","<hex:024804F2022303>Tiens<hex:021D0103>? Que fait <hex:020826E905FF10>une jeune fille<hex:FF11>un jeune garçon<hex:03> comme toi <hex:02081BE905FF0C>toute seule<hex:FF0A>tout seul<hex:03> dans les rues d'Amaurote<hex:021D0103>? Tu es perdu<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>?<hex:0248020103>"
+1,"TEXT_REGNOR4AMAUROT_00605_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+2,"TEXT_REGNOR4AMAUROT_00605_A1_000_001","Votre interlocuteur"
+3,"TEXT_REGNOR4AMAUROT_00605_A1_000_002","Cet endroit"
+4,"TEXT_REGNOR4AMAUROT_00605_A1_000_003","Rien en particulier"
+5,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_010","<hex:024804F2022303>... Qui je suis<hex:021D0103>? Euh... personne en particulier<hex:021D0103>; juste un Amaurotain parmi tant d'autres... Quand je ne suis pas en train d'échanger des opinions, j'étudie la magie créatrice. Comme beaucoup, ma vie est consacrée à la poursuite de la con<hex:02160103>nais<hex:02160103>san<hex:02160103>ce.<hex:0248020103>"
+6,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_011","<hex:024804F2022303>Tout un chacun se doit de contribuer à l'édification du monde. C'est notre privilège et notre devoir en tant qu'habitants de cette belle cité.<hex:0248020103>"
+7,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_012","<hex:024804F2022303>Tu es encore jeune, tu n'as pas à t'en soucier... Persévère dans tes études, et je suis sûr que tu deviendras un jour <hex:02081EE905FF0E>une citoyenne<hex:FF0B>un citoyen<hex:03> modèle.<hex:0248020103>"
+8,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_020","<hex:024804F2022303>Oh, tu n'es pas d'ici<hex:021D0103>? Je vois. Dans ce cas, je te souhaite la bienvenue à Amaurote, notre magnifique cité, qu'on pourrait également qualifier de capitale intellectuelle de cette planète.<hex:0248020103>"
+9,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_021","<hex:024804F2022303>Tous les principaux organes de la ville sont concentrés autour d'ici. Tu as le Capitole pour la vie politique, l'Akadaemia Anydre pour la recherche, le forum des Éloquents et bien d'autres. Tu vas devoir t'armer de patience pour tout visiter.<hex:0248020103>"

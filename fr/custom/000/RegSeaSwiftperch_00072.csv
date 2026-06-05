@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_1","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03> aventuri<hex:02080DE905FF05>ère<hex:FF03>er<hex:03>. C'est ici un endroit désolé où l'espoir est une denrée rare et il n'y a pas grand-chose d'autre que l'éthérite, mais vous êtes l<hex:020809E905FF02>a<hex:FF02>e<hex:03> bienvenu<hex:020808E905FF02>e<hex:FF01><hex:03> parmi nous."
+1,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_2","Je m'appelle Lyulf. Mon père et moi faisions pousser du blé pas loin d'ici, il y a cinq ans."
+2,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_3","Mal<hex:02160103>heu<hex:02160103>reu<hex:02160103>se<hex:02160103>ment, le destin a été cruel et j'ai tout perdu lors du septième fléau. Mon père est décédé, nos beaux champs dorés ont laissé place à ces terres arides et les dodos que nous élevions sont retournés à l'état sauvage."
+3,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_4","Malgré cela, je tiens à garder espoir et à bâtir un village à l'image de celui où nous vivions avant. Je veux croire que les Dieux m'aideront dans cette entreprise."
+4,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_5","Le Martinet est l'une des colonies qui ont été créées afin de restaurer le réseau éthéré."
+5,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_6","Avant, il y avait un village au nord-ouest d'ici, mais j'ai découvert en revenant de Limsa Lominsa, où je m'étais réfugié, que tout avait été détruit là-bas lors du Fléau. Il ne reste plus rien des maisons, des champs et des animaux que nous possédions."
+6,"TEXT_REGSEASWIFTPERCH_00072_LYULF_000_7","Mes compagnons ont perdu espoir en voyant ce spectacle de désolation et n'ont pas le courage de repartir de zéro. J'aimerais leur redonner foi en l'avenir, mais ce n'est pas facile, vous savez. J'espère que les Dieux nous donneront un coup de pouce."
+7,"TEXT_REGSEASWIFTPERCH_00072_Q1_000_1","Que voulez-vous savoir<hex:021D0103>?"
+8,"TEXT_REGSEASWIFTPERCH_00072_A1_000_1","Qui êtes-vous<hex:021D0103>?"
+9,"TEXT_REGSEASWIFTPERCH_00072_A1_000_2","Quel est cet endroit<hex:021D0103>?"
+10,"TEXT_REGSEASWIFTPERCH_00072_A1_000_3","Rien en particulier"

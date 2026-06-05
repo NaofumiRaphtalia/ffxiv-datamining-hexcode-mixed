@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,Name
+offset,4,0
+Int32,UInt8,String
+0,0,"Ungültig"
+1,1,"Süßwasser"
+2,2,"Salzwasser"

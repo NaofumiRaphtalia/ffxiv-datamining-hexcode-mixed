@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_VOICEMAN_04501_000000_ULTIMA","Comptez-vous parmi mes fidèles serviteurs<hex:021D0103>? Ou parmi ces enfants chétifs rampant en ce bas-monde<hex:021D0103>?"
+1,"TEXT_VOICEMAN_04501_000010_ULTIMA","Qui que vous soyez... prenez la pierre qui gît à mes pieds... Elle exaucera votre vœu le plus cher."
+2,"TEXT_VOICEMAN_04501_000020_ULTIMA","Serrez-la dans le creux de votre main et vous pourrez quitter ce purgatoire. Ne commettez pas l'erreur de vous opposer à moi."
+3,"TEXT_VOICEMAN_04501_000100_ULTIMA","Moi, déesse d'Ivalice, mère de ces chétifs enfants... Je suis condamnée à mon propre enfer<hex:021D0103>?"
+4,"TEXT_VOICEMAN_04501_000200_SEIRYU","Vous pensez que je suis dans l'erreur<hex:021D0103>? Prouvez-le-moi en m'affrontant<hex:021D0103>!<hex:02100103> Je vais libérer mon aramitamaaaa<hex:021D0103>!"

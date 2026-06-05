@@ -1,0 +1,11 @@
+﻿key,0,1,2
+#,,,
+offset,8,0,4
+Int32,UInt16,String,String
+0,0,"",""
+1,0,"",""
+2,2,"Raid Finder Help",""
+3,3,"Duty Finder Help",""
+4,4,"V&C Dungeon Finder Help",""
+5,5,"Party Member Portraits Help",""
+6,6,"Command Panel Help",""

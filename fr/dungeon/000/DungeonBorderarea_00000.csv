@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000","Comme prévu... <hex:02081BE905FF0C>L'héroïne<hex:FF0A>Le héros<hex:03> des barbares mène la charge<hex:021D0103>!"
+1,"TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001","Puisqu'<hex:02080DE905FF05>elle<hex:FF03>il<hex:03> est trop stupide pour apprécier l'idéal de Sa Majesté à sa juste valeur, <hex:02080DE905FF05>elle<hex:FF03>il<hex:03> mourra ici<hex:021D0103>!"
+2,"TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010","Hmpf<hex:021D0103>! Pas étonnant <hex:020813E905FF08>qu'elle<hex:FF06>qu'il<hex:03> entrave les plans de Sa Majesté à tous les tournants... On a gagné assez de temps<hex:021D0103>! Repli immédiat<hex:021D0103>!"

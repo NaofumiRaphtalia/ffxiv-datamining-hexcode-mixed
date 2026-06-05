@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_000","Salut<hex:021D0103>! Désolé, mais je suis occupé à surveiller les lieux. Si tu as quelque chose à me demander, sois br<hex:02080DE905FF05>ève<hex:FF03>ef<hex:03>, je te prie."
+1,"TEXT_REGGYR3ALAGHIRI_00399_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+2,"TEXT_REGGYR3ALAGHIRI_00399_A1_000_001","Votre interlocuteur"
+3,"TEXT_REGGYR3ALAGHIRI_00399_A1_000_002","Cet endroit"
+4,"TEXT_REGGYR3ALAGHIRI_00399_A1_000_003","Annuler"
+5,"TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_010","Mon nom est Diggin. J'appartiens à l'unité de l'armée de libération qui a la charge d'assurer la sécurité dans ce village."
+6,"TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_011","Cela dit, Ala Ghiri a subi vingt ans d'occupation impériale. Per<hex:02160103>son<hex:02160103>nel<hex:02160103>le<hex:02160103>ment, j'aimerais apporter tout mon soutien à la population locale pour rendre sa gloire d'antan à cet endroit."
+7,"TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_020","Nous sommes ici à Ala Ghiri, un village étape qui a autrefois fleuri grâce au passage de nombreuses caravanes de mar<hex:02160103>chan<hex:02160103>di<hex:02160103>ses dans les environs."
+8,"TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_021","Mal<hex:02160103>heu<hex:02160103>reu<hex:02160103>se<hex:02160103>ment, l'invasion impériale a eu pour effet de mettre un terme aux échanges commerciaux de la région, ce qui fait que cet endroit a rapidement perdu sa valeur et ses visiteurs. Les habitants ont néanmoins continué à faire des affaires... avec les soldats ennemis."
+9,"TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_022","L'existence de Garlemald est un obstacle à la renaissance du commerce par voie terrestre avec l'Orient, mais je pense qu'il peut se créer un véritable flux de voyageurs et de biens entre Ala Mhigo d'une part, et Ul'dah et Gridania d'autre part."
+10,"TEXT_REGGYR3ALAGHIRI_00399_TALK_ACTOR","（★未使用／削除予定★）"

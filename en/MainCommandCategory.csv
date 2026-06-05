@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,Name
+offset,4,0
+Int32,Int32,String
+0,0,""
+1,0,"Character"
+2,0,"Duty"
+3,0,"Logs"
+4,0,"Travel"
+5,0,"Party"
+6,0,"Social"
+7,0,"System"

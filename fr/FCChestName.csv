@@ -1,0 +1,8 @@
+﻿key,0,1
+#,Name,
+offset,0,4
+Int32,String,UInt8
+0,"Objets",1
+1,"Divers",0
+2,"Équipement",0
+3,"Remèdes",0

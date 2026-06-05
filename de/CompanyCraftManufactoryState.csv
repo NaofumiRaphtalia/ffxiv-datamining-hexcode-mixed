@@ -1,0 +1,8 @@
+﻿key,0
+#,Name
+offset,0
+Int32,String
+0,"Ungültig"
+1,"Normal"
+2,"Gut"
+3,"Ausgezeichnet"

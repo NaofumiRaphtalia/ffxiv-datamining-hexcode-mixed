@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_000_001","Viens pas m'enquiquiner, toi<hex:021D0103>! Tu vois pas que je suis occupé, là<hex:021D0103>? Reviens plus tard, quand je serai prêt<hex:021D0103>!"
+1,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001","Nom d'une bouse d'amaro vérolé<hex:021D0103>! C'est pas comme ça que j'vais faire des affaires, moi<hex:021D0103>! Quand est-ce qu'ils vont m'apporter ma marchandise, nom de nom<hex:021D0103>!"
+2,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_002","Pour pouvoir commercer avec ce marchand, vous devez préalablement progresser jusqu'à une étape donnée de l'épopée (Shadowbringers)."
+3,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_012","Vous devez avoir atteint le rang 3 de réussite des ALÉA à Grand-Lac, à Kholusia, en Amh Araeng, en Il Mheg, à Rak'tika et à La Tempête afin d'avoir accès à ces articles."
+4,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_002_001","Haha<hex:021D0103>! Y a pas à dire, des fois, la chance me sourit<hex:021D0103>! La circulation des biens s'est améliorée, et j'ai de quoi faire des affaires, maintenant<hex:021D0103>! Si y a quelque chose qui t'intéresse, dis-le-moi. Je te l'échangerai contre des gemmes bicolores<hex:021D0103>!"
+5,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_001","Vous avez maintenant accès aux articles proposés par Gramsol, à Cristarium<hex:021D0103>!"
+6,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_002_002","Vous pouvez désormais commercer avec le marchand de cette zone. Échangez-lui vos gemmes bicolores pour obtenir toutes sortes d'objets locaux."
+7,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_003_001","Bienvenue, <hex:020823E905FF0F>ma jeune fille<hex:FF0F>mon jeune gars<hex:03><hex:021D0103>! Regarde un peu les articles que m'ont livrés des gens de Norvrandt<hex:021D0103>!"
+8,"TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_000_001","Euh... Je vois bien que vous voulez faire des affaires avec moi, mais malheureusement, je suis un peu trop occupée, là. Revenez me voir plus tard, lorsque je serai prête. Merci<hex:021D0103>!"
+9,"TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_001_001","Euh... Je ferais bien des affaires avec vous, mais il se trouve que je n'ai absolument rien à vous proposer ac<hex:02160103>tu<hex:02160103>el<hex:02160103>le<hex:02160103>ment. Revenez me voir plus tard, lorsque j'aurai été livrée. Merci<hex:021D0103>!"
+10,"TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_002_001","Salut à vous<hex:021D0103>! J'ai ici des produits venant de tout Norvrandt. Si vous en voulez, je vous les échangerai volontiers contre des gemmes bicolores."
+11,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_002","Vous avez maintenant accès aux articles proposés par Pedronille, à Eulmore<hex:021D0103>!"
+12,"TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_003_001","Voici les articles que je vous recommande le plus. Surtout, prenez votre temps pour les regarder et choisir ce que vous désirez<hex:021D0103>!"

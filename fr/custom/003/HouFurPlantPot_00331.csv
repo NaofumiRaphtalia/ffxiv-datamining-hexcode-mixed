@@ -1,0 +1,23 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_HOUFURPLANTPOT_00331_TALK_NONE","Le pot de fleurs est vide."
+1,"TEXT_HOUFURPLANTPOT_00331_END_EVENT","Annuler"
+2,"TEXT_HOUFURPLANTPOT_00331_SET_SEED","Ensemencer"
+3,"TEXT_HOUFURPLANTPOT_00331_SET_FERTILIZER","Mettre de l'engrais"
+4,"TEXT_HOUFURPLANTPOT_00331_CARE","Entretenir"
+5,"TEXT_HOUFURPLANTPOT_00331_DISPOSE","Arracher"
+6,"TEXT_HOUFURPLANTPOT_00331_HARVEST","Récolter"
+7,"TEXT_HOUFURPLANTPOT_00331_TALK_DEAD","Le semis <hex:02330CFF05>Item<hex:09E802020203> s'est fané..."
+8,"TEXT_HOUFURPLANTPOT_00331_TALK_VIGOROUS","Le semis <hex:02330CFF05>Item<hex:09E802020203> se porte bien."
+9,"TEXT_HOUFURPLANTPOT_00331_TALK_DEPRESSED","Le semis <hex:02330CFF05>Item<hex:09E802020203> n'a pas l'air en grande forme..."
+10,"TEXT_HOUFURPLANTPOT_00331_TALK_RIPE","<hex:022B12FF10><hex:02330CFF05>Item<hex:03E802020203><hex:03> est arrivé<hex:020815FF0E><hex:02280AFF05>Item<hex:E8020703><hex:FF02>e<hex:FF01><hex:03> à maturité<hex:021D0103>!"
+11,"TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE","Une fois arraché, le semis sera définitivement perdu. Confirmer<hex:021D0103>?"
+12,"TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_YES","Oui"
+13,"TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_NO","Non"
+14,"TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_VIGOROUS","<hex:022B12FF10><hex:02330CFF05>Item<hex:02E802020203><hex:03> est planté<hex:020815FF0E><hex:02280AFF05>Item<hex:E8020703><hex:FF02>e<hex:FF01><hex:03> dans le pot. Le développement se fait sans problème."
+15,"TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_DEPRESSED","<hex:022B12FF10><hex:02330CFF05>Item<hex:02E802020203><hex:03> est planté<hex:020815FF0E><hex:02280AFF05>Item<hex:E8020703><hex:FF02>e<hex:FF01><hex:03> dans le pot. Le développement manque de vigueur..."
+16,"TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT","Vous avez le sentiment que la plante va donner des fleurs <hex:02095DE802FF07>rouges<hex:FF07>bleues<hex:FF07>jaunes<hex:FF07>vertes<hex:FF08>oranges<hex:FF0A>violettes<hex:FF25>d'une couleur encore indéfinissable<hex:03>."
+17,"TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT_UNKNOWN","Vous avez le sentiment que la plante va donner des fleurs <hex:020936E802FF07>rouges<hex:FF07>bleues<hex:FF07>jaunes<hex:FF07>vertes<hex:FF07>orange<hex:FF0A>violettes<hex:03> ou d'une couleur inédite."
+18,"TEXT_HOUFURPLANTPOT_00331_FLOWERED","<hex:022B12FF10><hex:02330CFF05>Item<hex:03E802020203><hex:03> est en floraison."

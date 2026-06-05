@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000","Das Sternenlichtfest ist in vollem Gang, und es gibt noch viel zu tun. Amh Garanjy in Gridania hält nach weiteren Kleinen Helferlein Ausschau."
+1,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010","Reite auf <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03> und lass ihn Sternenknaller auf die diebischen Baumschrate werfen. Sobald sie betäubt sind, sammeln wir den gestohlenen Festschmuck ein."
+2,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020","Möchtest du Jagd auf die übrigen Baumschrat-Diebe machen? <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03> steht für dich bereit."
+3,"TEXT_FESXMS2017MOUNT_00439_Q1_000_000","Auf <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03> reiten?"
+4,"TEXT_FESXMS2017MOUNT_00439_TALK_ACTOR","（★未使用／削除予定★）"
+5,"TEXT_FESXMS2017MOUNT_00439_A1_000_001","（★未使用／削除予定★）"
+6,"TEXT_FESXMS2017MOUNT_00439_A1_000_002","（★未使用／削除予定★）"

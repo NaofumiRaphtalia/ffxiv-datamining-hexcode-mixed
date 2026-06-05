@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000","Saisonale Aufträge, die man bereits einmal durchgespielt hat, können zu bestimmten Zeiten erneut mit der Funktion „Wiederholung saisonaler Aufträge“ gespielt werden."
+1,"TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001","Möchtest du einen saisonalen Auftrag wiederholen?"
+2,"TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002","Bei der Nutzung der Funktion „Saisonalen Auftrag wiederholen“ werden die folgenden Aufträge zurückgesetzt:<hex:02100103><hex:02100103>　　- <hex:02280BFF06>Quest<hex:E8020103><hex:02100103><hex:020823E4E80301FF01><hex:FF1B>　　- <hex:02280BFF06>Quest<hex:E8030103><hex:02100103><hex:03><hex:020823E4E80401FF01><hex:FF1B>　　- <hex:02280BFF06>Quest<hex:E8040103><hex:02100103><hex:03><hex:02089FE4E80501FF01><hex:FF97><hex:02100103>Bis die Aufträge erneut erfüllt wurden, ist es nicht möglich, mit den folgenden NPCs zu handeln:<hex:02100103><hex:02100103>　　- <hex:022B18FF16><hex:022812FF0D>ENpcResident<hex:E8050103><hex:03><hex:02100103><hex:03><hex:020830E4E80601FF01><hex:FF28>　　- <hex:022B18FF16><hex:022812FF0D>ENpcResident<hex:E8060103><hex:03><hex:02100103><hex:03><hex:0208A7E4E80501FF01><hex:FF9F><hex:02100103>Wenn bis zum Ende der Dauer des saisonalen Ereignisses die Aufträge nicht abgeschlossen werden, bleibt der Handel mit diesen NPCs weiterhin verwehrt.<hex:02100103><hex:03><hex:02100103>Bitte stelle sicher, dass dir während des saisonalen Ereignisses ausreichend Zeit zur Verfügung steht, um den saisonalen Auftrag abzuschließen.<hex:02100103><hex:02100103>Viel Spaß dabei!<hex:02100103>"
+3,"TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003","Saisonalen Auftrag wiederholen"
+4,"TEXT_FESBKCRECOMPLETE_00716_TALK_ACTOR","（★未使用／削除予定★）"

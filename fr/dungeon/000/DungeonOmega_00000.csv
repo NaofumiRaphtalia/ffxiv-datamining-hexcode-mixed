@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_DUNGEONOMEGA_00000_CID_000_000","(-Cid-)<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, tu m'entends<hex:021D0103>? Je viens d'effectuer l'analyse de l'ennemi. Il s'agit de Delta I, aussi appelé “Alte Roite”. Mets-le hors d'état de nuire<hex:021D0103>!"
+1,"TEXT_DUNGEONOMEGA_00000_NERO_000_010","(-Nero-)Ah, voilà un adversaire qui promet d'être intéressant... Delta II, alias “Catastrophe”. À toi de jouer<hex:021D0103>!"
+2,"TEXT_DUNGEONOMEGA_00000_HALICARNASSUS_000_020","Tiens, des imbéciles qui courent droit à leur mort...<hex:02100103>Approchez, venez périr des mains de la souveraine de ce château<hex:021D0103>!"
+3,"TEXT_DUNGEONOMEGA_00000_EXDEATH_000_030","Mouah, ha, ha... Il est enfin à ma portée<hex:021D0103>! Le pouvoir qui me permettra<hex:02100103>de contrôler l'univers entier<hex:021D0103>! Le pouvoir du néant<hex:021D0103>!"
+4,"TEXT_DUNGEONOMEGA_00000_EXDEATH_000_031","Pourquoi<hex:021D0103>!? La puissance du néant était à ma portée<hex:021D0103>!"
+5,"TEXT_DUNGEONOMEGA_00000_EXDEATH_000_032","Comment est-ce possible... Aaaaaaargh<hex:021D0103>!!!"
+6,"TEXT_DUNGEONOMEGA_00000_CID_000_100","(-Cid-)<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, voilà Sigma I, ton premier adversaire. Il s'agit de... d'un train<hex:021D0103>!? Attention, le voilà<hex:021D0103>!"
+7,"TEXT_DUNGEONOMEGA_00000_NERO_000_110","(-Nero-)J'ai hâte de voir si tu caches en toi un côté artiste... Prends ton pinceau et profite de ce bel atelier pour donner libre cours à ta créativité<hex:021D0103>!"
+8,"TEXT_DUNGEONOMEGA_00000_CID_000_120","(-Cid-)Le gardien est activé<hex:021D0103>! Il a été programmé pour adapter ses attaques en fonction des mouvements de son adversaire. Reste aux aguets pour trouver la parade<hex:021D0103>!"
+9,"TEXT_DUNGEONOMEGA_00000_CEFCA_000_129","Je suis l'être le plus puissant de l'univers<hex:021D0103>!"
+10,"TEXT_DUNGEONOMEGA_00000_CEFCA_000_130","Vous n'êtes rien<hex:021D0103>! Moins que rien<hex:021D0103>! Rien du tout<hex:021D0103>! Rien de rien<hex:021D0103>!"
+11,"TEXT_DUNGEONOMEGA_00000_CEFCA_000_131","En détruisant tout, je créerai mon empire de la mort<hex:021D0103>!"
+12,"TEXT_DUNGEONOMEGA_00000_CEFCA_000_132","Commeeent<hex:021D0103>!? J'ai perdu, moi<hex:021D0103>!? Je n'arrive pas à y croiiire<hex:021D0103>!"

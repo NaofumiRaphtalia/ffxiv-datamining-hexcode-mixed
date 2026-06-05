@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_000","<hex:024804F2022303>Na, Kleine<hex:020808E905FF01><hex:FF02>r<hex:03>? Hast du dich verirrt? Kann ich dir irgendwie helfen?<hex:0248020103>"
+1,"TEXT_REGNOR4AMAUROT_00605_Q1_000_000","Was möchtest du wissen?"
+2,"TEXT_REGNOR4AMAUROT_00605_A1_000_001","Was machst du hier?"
+3,"TEXT_REGNOR4AMAUROT_00605_A1_000_002","Was ist das für ein Ort?"
+4,"TEXT_REGNOR4AMAUROT_00605_A1_000_003","Nichts."
+5,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_010","<hex:024804F2022303>Ich? Ich bin nur ein einfacher Amaurotaner. Mal treffe ich mich hier mit Freunden zum Diskutieren, mal arbeite ich an meinen schöpfungsmagischen Fä<hex:02160103>hig<hex:02160103>kei<hex:02160103>ten<hex:021D0103>- es gibt immer etwas zu tun, um den Geist weiterzuentwickeln.<hex:0248020103>"
+6,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_011","<hex:024804F2022303>Jeder Bürger muss seinen Beitrag an der Schöpfung unserer Welt leisten. Das ist die ehrenvolle Pflicht, die uns Amaurotanern aufgetragen wurde.<hex:0248020103>"
+7,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_012","<hex:024804F2022303>Du bist noch jung und ungeformt, aber es ist wichtig, dass du dich nicht gehenlässt. Ich wünsche dir, dass du unablässig an dir arbeitest, damit einmal ein vorbildlicher Bürger aus dir wird.<hex:0248020103>"
+8,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_020","<hex:024804F2022303>Bist du denn nicht von hier? Nun, du befindest dich in Amaurot, der Hochburg des Wissens und der Weisheit dieser Welt.<hex:0248020103>"
+9,"TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_021","<hex:024804F2022303>Das Kapitol, wo Gipfelgespräche allerhöchster Bedeutung geführt werden, die Akadaemia Anyder, wo alle Spitzenforschung betrieben wird, das Büro des Administrators<hex:021D0103>... sämtliche wichtige Verwaltungsinstitutionen sind hier in engster Nachbarschaft versammelt.<hex:0248020103>"

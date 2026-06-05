@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000","Vor dir steht <hex:02320FFF05>EObj<hex:02F61EA9D302020203>. Er scheint funktionstüchtig zu sein, allerdings kannst du dir momentan beim besten Willen nicht erklären, wie er zu bedienen ist."
+1,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010","<hex:022B15FF13><hex:02320FFF05>EObj<hex:02F61EA9D302020203><hex:03>. Das muss das Gerät sein, von dem Gerolt gesprochen hat. Mit ihm solltest du das Äthergemisch kristallisieren können."
+2,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT","Das Äthergemisch aus dem Ätherkessel kristallisieren?"
+3,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_TALK_ACTOR","（★未使用／削除予定★）"

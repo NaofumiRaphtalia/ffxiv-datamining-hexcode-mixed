@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGNOR4LIMBETH_00718_LIMBETH_000_000","Bienvenue au comptoir de la maison des merveilles de Mowen. Toutes mes excuses, mais je ne peux offrir mes services aux personnes qui n'ont jamais traité avec notre éta<hex:02160103>blis<hex:02160103>se<hex:02160103>ment."
+1,"TEXT_REGNOR4LIMBETH_00718_LIMBETH_000_001","Bienvenue, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Je suis en charge des “outils resplendissants”, des ustensiles de précision développés grâce à une étroite col<hex:02160103>la<hex:02160103>bo<hex:02160103>ra<hex:02160103>tion entre la maison des merveilles de Mowen et les meilleurs artisans de Norvrandt."
+2,"TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_002","Pour fabriquer un outil resplendissant, vous devrez d'abord remettre des assignats d'artisan à la comptable des assignats pour obtenir des matériaux."
+3,"TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_003","Ensuite, grâce à un ouvrage de recettes expertes VIII, vous devrez transformer ces matériaux en composants. Vous pourrez alors remettre ceux-ci à Limbeth pour obtenir des matériaux plus avancés."
+4,"TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_004","Il vous faudra alors transformer ces nouveaux matériaux en composants puis les échanger, et ainsi de suite jusqu'au quatrième et dernier niveau de matériau."
+5,"TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_005","Lorsque vous aurez réuni suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment de ces ultimes matériaux, il vous suffira alors de les apporter à Limbeth, qui vous remettra l'outil resplendissant de votre classe en échange."

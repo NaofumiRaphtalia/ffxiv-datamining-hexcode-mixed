@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_1","Tu as vu ce précipice<hex:021D0103>? Im<hex:02160103>pres<hex:02160103>sionnant, hein<hex:021D0103>? Ça nous oblige à utiliser cette imposante installation pour monter et descendre hommes et mar<hex:02160103>chan<hex:02160103>di<hex:02160103>ses."
+1,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_2","Je suis Wyrkrhit, le responsable de l'Ascenciel, une installation de transport aérien gérée par les convoyeurs de la région. Je suis en quelque sorte leur re<hex:02160103>pré<hex:02160103>sen<hex:02160103>tant."
+2,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_3","Comme tu le sais sûrement, Limsa Lominsa est à l'origine une ville de pirates, et forts de cette tradition, nous prenons nos décisions ici par vote, tout comme les flibustiers."
+3,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_4","Ma position ne me donne donc aucun privilège réel, et mon rôle est surtout d'organiser les ras<hex:02160103>sem<hex:02160103>ble<hex:02160103>ments et les scrutins. Disons que je veille à ce que tout se passe comme sur des roulettes."
+4,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_100_4","Ceci dit, ma plus grande res<hex:02160103>pon<hex:02160103>sa<hex:02160103>bi<hex:02160103>li<hex:02160103>té, c'est que les mar<hex:02160103>chan<hex:02160103>di<hex:02160103>ses qui transitent par ici soient dirigées vers leur destination au plus vite."
+5,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_5","Ce précipice qu'on appelle La Descente est apparu lors des terribles événements du septième fléau, et divise la Noscea centrale en deux. L'Ascenciel est le seul point de communication entre le nord et le sud de cette zone."
+6,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_6","Con<hex:02160103>trai<hex:02160103>re<hex:02160103>ment aux bases et villages côtiers qui peuvent être reliés par bateau, le transport de biens vers les régions intérieures ne peut se faire que par voie terrestre."
+7,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_7","Nous autres convoyeurs aimerions faire creuser un chemin à travers la falaise, mais ni nous ni Limsa Lominsa n'avons les moyens pécuniaires ou le temps pour des travaux d'une telle envergure. C'est pour cela que nous recourons à des ballons pour faire transiter les mar<hex:02160103>chan<hex:02160103>di<hex:02160103>ses."
+8,"TEXT_REGSEASKYLIFT_00071_Q1_000_1","Que voulez-vous savoir<hex:021D0103>?"
+9,"TEXT_REGSEASKYLIFT_00071_A1_000_1","Qui êtes-vous<hex:021D0103>?"
+10,"TEXT_REGSEASKYLIFT_00071_A1_000_2","Quel genre d'endroit est l'Ascenciel<hex:021D0103>?"
+11,"TEXT_REGSEASKYLIFT_00071_A1_000_3","Rien en particulier"

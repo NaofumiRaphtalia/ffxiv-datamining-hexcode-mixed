@@ -1,0 +1,9 @@
+﻿key,0
+#,Name
+offset,0
+Int32,String
+0,""
+1,"Première phase de reconstruction"
+2,"Deuxième phase de reconstruction"
+3,"Troisième phase de reconstruction"
+4,"Quatrième phase de reconstruction"
