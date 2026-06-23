@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,Level,MinLevel,MaxLevel,Emote,IsInitial,,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,,Name,Impression,Description
+#,Level,MinLevel,MaxLevel,Emote,IsInitial,Weather,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,,Name,Impression,Description
 offset,12,16,42,36,43,44,38,40,20,24,28,32,45,0,4,8
 Int32,Int32,Int32,UInt8,UInt16,UInt8,UInt8,UInt16,UInt16,Int32,Int32,Int32,Int32,PackedBool0,String,String,String
 2162688,4876856,0,0,22,1,2,800,1159,27,81501,81001,81451,True,"Quais du barracuda","Avant de déjeuner, les gourmets limséens savent d'où regarder les trois navires de guerre aux voiles écarlates qui sont le fleuron de la marine du Maelstrom.","Ce lieu est celui où sont amarrés les navires de guerre du Maelstrom. Son accès est interdit au public pour des raisons de sécurité, mais les curieux savent d'où admirer la puissante armada, notamment son célèbre vaisseau étendard, le Triomphe."
