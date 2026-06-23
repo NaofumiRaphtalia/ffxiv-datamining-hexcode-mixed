@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,Level,MinLevel,MaxLevel,Emote,IsInitial,,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,,Name,Impression,Description
+#,Level,MinLevel,MaxLevel,Emote,IsInitial,Weather,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,,Name,Impression,Description
 offset,12,16,42,36,43,44,38,40,20,24,28,32,45,0,4,8
 Int32,Int32,Int32,UInt8,UInt16,UInt8,UInt8,UInt16,UInt16,Int32,Int32,Int32,Int32,PackedBool0,String,String,String
 2162688,4876856,0,0,22,1,2,800,1159,27,81501,81001,81451,True,"Barracuda Piers","""Under the azure, I gazed down upon warships three, their billowing sails of crimson leaving no doubt as to who truly rules the seas."" Such were the merchant's words, and I would see as he saw.","These docks provide safe mooring for the Thalassocratic Navy's principal squadrons, also known as the Crimson Fleet. To prevent sabotage, admittance to the area is forbidden to the general citizenry; however, on clear days, one may catch a glimpse of the armada flagship, the <hex:021A020203>Triumph<hex:021A020103>, from atop one of Limsa Lominsa's myriad spans."
