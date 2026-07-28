@@ -1,8 +1,9 @@
-﻿key,0,1,2,3
-#,,Name,,
-offset,4,0,5,5
-Int32,UInt8,String,PackedBool0,PackedBool1
-0,0,"",False,False
-1,0,"",False,False
-2,0,"",False,False
-3,0,"",False,False
+﻿key,0,1,2
+#,,,Name
+offset,5,4,0
+Int32,PackedBool0,UInt8,String
+0,False,0,""
+1,False,0,""
+2,False,0,""
+3,False,0,""
+4,False,0,""

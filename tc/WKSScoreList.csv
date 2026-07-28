@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,MasteryAchievement,Achievement500k,ScoreItemId,Achievement50k,Achievement150k
 offset,7,6,0,2,4
 Int32,Int8,UInt8,UInt16,UInt16,UInt16
 0,8,33,3702,3703,3704

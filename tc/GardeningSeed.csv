@@ -107,3 +107,5 @@ Int32,UInt32,UInt16,UInt32,PackedBool0,PackedBool1,UInt8
 102,41161,117,66502,False,True,21
 103,43963,123,66502,False,True,22
 104,44833,124,66502,False,True,23
+105,47951,125,66502,False,True,24
+106,0,0,0,False,False,0
