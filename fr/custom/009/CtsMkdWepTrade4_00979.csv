@@ -2,12 +2,12 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
+0,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_000","... Et voilà<hex:021D0103>! Notre arme fantôme est dotée d'un noyau tout nouveau, tout beau."
+1,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_001","Prochaine étape, on dissipe les illusions<hex:021D0103>!"
+2,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_002","Couteau de cuisine fantôôôme<hex:021D0103>!!!"
+3,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_003","Cette fois encore, tout s'est passé <hex:021A020203>exactement<hex:021A020103> comme je l'avais prévu. Les illusions ont disparu, et l'arme a rien perdu de son pouvoir."
+4,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_004","Voilà à quoi ressemble la toute-puissance dans sa forme la plus pure, j'ai nommé... <hex:02330CFF05>Item<hex:03E802020203><hex:021D0103>!"
+5,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_005","Voilà à quoi ressemble la toute-puissance dans sa forme la plus pure, j'ai nommé... <hex:02330CFF05>Item<hex:03E802020203> et <hex:02330CFF05>Item<hex:03E803020203><hex:021D0103>!"
+6,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_006","Comme tu le sais, il nous reste encore à finaliser ton arme fantôme avec le contenu du cristal de savoir."
+7,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_007","T'inquiète pas pour l'écliptite, il m'en reste encore quelques morceaux. Si t'es <hex:020812E905FF07>prête<hex:FF06>prêt<hex:03> à continuer, c'est chez Dodokkuli que ça se passe<hex:021D0103>!"
+8,"TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_008","Attends, c'est pas fini<hex:021D0103>! Ton arme a encore du potentiel en réserve... Ça serait bête de s'arrêter en si bon chemin, tu crois pas<hex:021D0103>?"

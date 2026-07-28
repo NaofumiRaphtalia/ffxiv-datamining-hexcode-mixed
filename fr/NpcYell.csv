@@ -7105,7 +7105,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 7100,0,False,False,False,5,0,0,0,1,False,False,4,25,"Oh que non, mon grand. Tu ne te feras pas sauter comme ça<hex:021D0103>!",0
 7101,0,False,False,False,5,0,0,0,1,False,False,4,25,"Il a activé sa séquence d'autodestruction<hex:021D0103>!?",0
 7102,0,False,False,False,5,0,0,0,1,False,False,4,25,"Vite<hex:021D0103>! Finissez-le<hex:021D0103>!",0
-7103,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+7103,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ça pi-pi-pi-pi-pi-picotte un peu<hex:021D0103>!",0
 7104,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 7105,0,False,False,False,5,0,0,0,1,False,False,3,25,"(renifle)... Aaah, la douce odeur du sang frais. J'en prendrais bien une lampée<hex:021D0103>!",0
 7106,0,False,False,False,5,0,0,0,1,False,False,3,25,"Pourquoi fuir, et refuser l'amour que je vous offre<hex:021D0103>? Vous seriez enfin <hex:020816E905FF09>heureuse<hex:FF08>heureux<hex:03>...",0
@@ -9599,10 +9599,10 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 9594,0,False,False,False,2,0,0,0,3,False,False,1,25,"Pour notre Reiiine<hex:021D0103>!!!",0
 9595,0,False,False,False,2,0,0,0,5,False,False,1,25,"Pas de chance<hex:021D0103>! Je ne crrrains pas le vide<hex:021D0103>!",0
 9596,0,False,False,False,2,0,0,0,5,False,False,1,25,"Argh... L'odeurrr<hex:021D0103>!",0
-9597,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-9598,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-9599,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-9600,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+9597,0,False,False,True,3,0,0,0,3,False,False,1,25,"Bordel, ça craint.",0
+9598,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ouille ouille ouille<hex:021D0103>!",0
+9599,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ce parfum suave me chatouille les narines...",0
+9600,0,False,False,False,3,0,0,0,4,False,False,1,25,"Youpi<hex:021D0103>!",0
 9601,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 9602,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 9603,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -11296,7 +11296,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 11291,0,False,False,False,2,0,0,0,4,False,False,1,25,"Être sauvé par <hex:02081BE905FF0C>une humaine<hex:FF0A>un humain<hex:03>, je n'aurais jamais cru...",0
 11292,0,False,False,False,2,0,0,0,4,False,False,1,25,"Seigneur Gabranth... Je vous rejoins dans l'au-delà...",0
 11293,0,False,False,False,2,0,0,0,4,False,False,1,25,"Allez, on se magne<hex:021D0103>!",0
-11294,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11294,0,False,False,False,3,0,0,0,4,False,False,1,25,"J'adore les trampolines<hex:021D0103>!",0
 11295,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ces dragons sont effrayants, oui, terrifiants<hex:021D0103>! ",0
 11296,0,False,False,False,2,0,0,0,4,False,False,1,25,"Par ici, par ici<hex:021D0103>! Je vais vous ouvrir la voie<hex:021D0103>!",0
 11297,0,False,False,False,2,0,0,0,3,False,False,1,25,"Te voilà, camarade<hex:021D0103>!",0
@@ -11321,7 +11321,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 11316,0,False,False,False,2,0,0,0,4,False,False,1,25,"Nous nous chargeons de secourir les blessés, partez devant<hex:021D0103>!",0
 11317,0,False,False,False,2,0,0,0,4,False,False,1,25,"Soyez sans crainte, il n'y a plus d'ennemis par ici.",0
 11318,0,False,False,False,2,0,0,0,4,False,False,1,25,"Les secours arrivent, tenez bon<hex:021D0103>!",0
-11319,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11319,0,False,False,False,3,0,0,0,4,False,False,1,25,"J'ai la tête qui tournicote...",0
 11320,0,False,False,False,2,0,0,0,4,False,False,1,25,"D'admettre la défaite, question, il n'est pas<hex:021D0103>!",0
 11321,0,False,False,False,2,0,0,0,4,False,False,1,25,"Nous battre, nous pouvons encore<hex:021D0103>!",0
 11322,0,False,False,False,2,0,0,0,4,False,False,1,25,"G-g-gloire...",0
@@ -11377,13 +11377,13 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 11372,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Les des<hex:02160103>ti<hex:02160103>na<hex:02160103>tai<hex:02160103>res changent tous les deux cadeaux livrés, donc soyez bien attentifs<hex:021D0103>!",0
 11373,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Nous espérons que vous avez apprécié et que vous rejouerez avec nous. À très bientôt<hex:021D0103>!",0
 11374,0,False,False,False,2,0,0,0,4,False,False,1,25,"Un instant, les matériaux seront bientôt prêts<hex:021D0103>! Kupo<hex:021D0103>!",0
-11375,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11376,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11375,0,False,False,False,3,0,0,0,4,False,False,1,25,"En plein dans le buffet...",0
+11376,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sapristi<hex:021D0103>!",0
 11377,0,False,False,False,2,0,0,0,4,False,False,1,25,"Merci à tous d'avoir participé, kupo<hex:021D0103>!",0
 11378,0,False,False,False,2,0,0,0,4,False,False,1,25,"Un peu de patience, on a bientôt fini de tout préparer<hex:021D0103>!",0
 11379,0,False,False,False,2,0,0,0,4,False,False,1,25,"Hmmm, je me demande si un Mog doit terminer toutes ses répliques par “kupo”...",0
-11380,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11381,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11380,0,False,False,False,3,0,0,0,4,False,False,1,25,"La violence, c'est mal<hex:021D0103>!",0
+11381,0,False,False,False,3,0,0,0,4,False,False,1,25,"On est débarrassés du menu fretin<hex:021D0103>?",0
 11382,0,False,False,False,2,0,0,0,4,False,False,1,25,"Direction du vent, OK<hex:021D0103>! Vitesse du vent, OK<hex:021D0103>! Les conditions sont idéales<hex:021D0103>!",0
 11383,10081,False,False,False,4,0,0,0,1,False,False,3,25,"Merci de votre patience, la feste va commencer<hex:021D0103>!",0
 11384,0,False,False,False,2,0,0,0,4,False,False,1,25,"On dirait que notre ami laineux est satisfait de sa nouvelle coupe<hex:021D0103>!",0
@@ -11409,7 +11409,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 11404,0,False,False,False,2,0,0,0,4,False,False,1,25,"Il faudra remettre ça<hex:021D0103>!",0
 11405,0,False,False,False,3,0,0,0,5,True,False,1,25,"Ils arrivent<hex:021D0103>!",0
 11406,0,False,False,False,3,0,0,0,5,True,False,1,25,"À ton tour<hex:021D0103>!",0
-11407,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11407,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ça fait beaucoup...",0
 11408,0,False,False,False,3,0,0,0,5,True,False,1,25,"Cette botte s'annonce redoutable...",0
 11409,0,False,False,False,3,0,0,0,5,True,False,1,25,"Hm...",0
 11410,0,False,False,False,3,0,0,0,5,True,False,1,25,"Cette plateforme devrait nous mener au sommet.",0
@@ -11418,7 +11418,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 11413,0,False,False,False,2,0,0,0,3,False,False,1,25,"Fuyez ou mourez...",0
 11414,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Dans le cadre de la Grande Célébration d'Azurée, les festes vont bientôt commencer<hex:021D0103>! Rendez-vous devant la porte des Industrieux<hex:021D0103>!",0
 11415,10079,False,False,False,4,0,0,0,1,False,False,10,25,"<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03>, et bienvenue à tous<hex:021D0103>! Merci de votre par<hex:02160103>ti<hex:02160103>ci<hex:02160103>pa<hex:02160103>tion aux festes de la Grande Célébration d'Azurée<hex:021D0103>!",0
-11416,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11416,0,False,False,False,3,0,0,0,4,False,False,1,25,"C'est parti, Monsieur Hildibrut<hex:021D0103>!",0
 11417,0,False,False,False,3,0,0,0,3,False,False,1,25,"Tssk...",0
 11418,10079,False,False,False,4,0,0,0,1,False,False,10,25,"La première feste sera l'occasion de vous présenter à tous les adorables mascottes qui nous ac<hex:02160103>com<hex:02160103>pa<hex:02160103>gnent pour les festivités<hex:021D0103>!",0
 11419,10080,False,False,False,4,0,0,0,1,False,False,10,25,"Je suis le Mog musculeux, et c'est moi qui m'occupe de la feste “La fabrique à peluches”<hex:021D0103>! Euh... kupo<hex:021D0103>!",0
@@ -11638,7 +11638,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 11633,0,False,False,False,2,0,0,0,4,False,False,1,25,"Cui cui cui cuiii<hex:021D0103>! Cui cui, cui cuicuiiii<hex:021D0103>!",0
 11634,0,False,False,False,5,0,0,0,1,False,False,4,25,"J'imagine déjà la tête de Lyon quand il aura vent de notre triomphe ici<hex:021D0103>! Son honneur blessé, il aura les larmes aux yeux et la morve au nez<hex:021D0103>!",0
 11635,0,False,False,False,3,0,0,0,4,False,False,1,25,"Décidément, c'est le défilé aujourd'hui... Débrouillez-vous sans moi.",0
-11636,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11636,0,False,False,False,3,0,0,0,6,False,False,1,25,"Hop là<hex:021D0103>!",0
 11637,0,False,False,False,5,0,0,0,1,False,False,4,25,"Elle... Elle se bat avec tant d'ardeur...<hex:021D0103>! Nous ne la vaincrons pas aujourd'hui<hex:021D0103>! Replions-nous<hex:021D0103>!",0
 11638,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 11639,0,False,False,False,2,0,0,0,5,False,False,1,25,"Je me laisserai pas faire<hex:021D0103>!",0
@@ -12915,7 +12915,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 12910,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ce sont les pièces qu'il me faut. Mais je n'arriverai pas à les récupérer seul<hex:021D0103>!",0
 12911,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ce n'est pas comme ça que je vais pouvoir réparer quoi que ce soit...",0
 12912,0,False,False,False,3,0,0,0,4,False,False,1,25,"On s'était donné tant de mal à trouver ces vivres...",0
-12913,0,False,False,False,2,0,0,0,4,False,False,1,25,"Les jötnar arrivent<hex:021D0103>!",0
+12913,0,False,False,False,2,0,0,0,4,False,False,1,25,"Les jötunn arrivent<hex:021D0103>!",0
 12914,0,False,False,False,3,0,0,0,4,False,False,1,25,"C-c'est pas possible...",0
 12915,0,False,False,False,2,0,0,0,4,False,False,1,25,"Allez vous-en<hex:021D0103>!",0
 12916,0,False,False,False,3,0,0,0,4,False,False,1,25,"Vous avez sauvé nos vivres<hex:021D0103>!",0
@@ -18855,7 +18855,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 18850,0,False,False,False,2,0,0,0,3,False,False,1,25,"Gob-ob-ob-ob<hex:021D0103>!",0
 18851,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je vais vous montrer la sapience des Zilarts<hex:021D0103>!",0
 18852,0,False,False,False,2,0,0,0,3,False,False,1,25,"Mwoooh<hex:021D0103>!",0
-18853,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18853,0,False,False,False,2,0,0,0,3,False,False,1,25,"Skrrr skrrr<hex:021D0103>!",0
 18854,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18855,0,False,False,False,2,0,0,0,3,False,False,1,25,"Croâââ<hex:021D0103>!",0
 18856,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je ne t'abandonne pas, mon petit arbrisseau<hex:021D0103>!",0
@@ -19304,7 +19304,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19299,0,False,False,False,2,0,0,0,3,False,False,1,25,"Miaaaaou<hex:021D0103>!",0
 19300,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ouaf<hex:021D0103>!",0
 19301,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je suis Yuffie, agent d'élite<hex:021D0103>!",0
-19302,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19302,0,False,False,False,2,0,0,0,3,False,False,1,25,"Repose en paix...",0
 19303,0,False,False,False,2,0,0,0,3,False,False,1,25,"Grand-père<hex:021D0103>!",0
 19304,0,False,False,False,2,0,0,0,3,False,False,1,25,"Yeaaah<hex:021D0103>!",0
 19305,0,False,False,False,2,0,0,0,3,False,False,1,25,"Gaaaa<hex:021D0103>!",0
@@ -19425,8 +19425,8 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19420,0,False,False,False,3,0,0,0,4,False,False,1,25,"Il faut fuirrr juste avant l'explosion, c'est ça<hex:021D0103>?",0
 19421,0,False,False,False,3,0,0,0,4,False,False,1,25,"J'espèrrre qu'on va trouver notre bonheur<hex:021D0103>!",0
 19422,0,False,False,False,3,0,0,0,4,False,False,1,25,"On a avancé dans l'histoirrre<hex:021D0103>!",0
-19423,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19424,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19423,0,False,False,False,3,0,0,0,4,False,False,1,25,"Noooooooooon<hex:021D0103>!",0
+19424,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ha ha ha<hex:021D0103>! Trop lent<hex:021D0103>!",0
 19425,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kiii Señor<hex:021D0103>!",0
 19426,0,False,False,False,3,0,0,0,4,False,False,1,25,"Une galerie minière... La cité ne devrait plus être très loin<hex:021D0103>!",0
 19427,0,False,False,False,3,0,0,0,4,False,False,1,25,"L'intérieur est pavé... Des humains sont passés par ici.",0
@@ -19462,13 +19462,13 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19457,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ceux qui se sont réfugiés plus loin sont en danger<hex:021D0103>!",0
 19458,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ce monstre... Il faut le détruire tout de suite<hex:021D0103>!",0
 19459,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ces monstrrres imitent la roche<hex:021D0103>!",0
-19460,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19461,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19462,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19463,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19464,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19465,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19466,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19460,0,False,False,False,3,0,0,0,4,False,False,1,25,"On a encore de la ressource<hex:021D0103>!",0
+19461,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mon instinct de détective s'affole<hex:021D0103>!",0
+19462,0,False,False,False,3,0,0,0,4,False,False,1,25,"Comptez sur moi pour l'esquiver, cette fois-ci<hex:021D0103>!",0
+19463,0,False,False,False,3,0,0,0,4,False,False,1,25,"Réglons nos différends comme des gentilshommes<hex:021D0103>!",0
+19464,0,False,False,False,3,0,0,0,4,False,False,1,25,"La violence, c'est vraiment très mal<hex:021D0103>!",0
+19465,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gentilhomme un jour, gentilhomme toujours<hex:021D0103>!",0
+19466,0,False,False,False,3,0,0,0,4,False,False,1,25,"Rendez-vous, vous êtes cernés<hex:021D0103>! Enfin presque...",0
 19467,0,False,False,False,3,0,0,0,4,False,False,1,25,"Faites attention aux parrrties électrifiées<hex:021D0103>!",0
 19468,0,False,False,False,3,0,0,0,4,False,False,1,25,"Il faut se méfier des mouvements de l'éther de foudre...",0
 19469,0,False,False,False,3,0,0,0,4,False,False,1,25,"Tout l'éther de foudre accumulé rayonne à nouveau...",0
@@ -19512,41 +19512,41 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19507,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Prochain objectif<hex:021D0103>: construire une station hydropurificatrice sur l'emplacement voisin<hex:021D0103>! Le chantier va s'ouvrir sous peu, alors ne vous relâchez pas<hex:021D0103>!",0
 19508,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Comme précédemment, servez-vous dans les caisses de provisions puis façonnez des pièces aux établis. Certains matériaux éthéroconducteurs sont fragiles, alors faites attention<hex:021D0103>!",0
 19509,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Il ne faut pas négliger l'aménagement autour de la base, nos futures opérations n'en seront que facilitées<hex:021D0103>!",0
-19510,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19511,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19512,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19513,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19514,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19515,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19516,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19517,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19518,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19519,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19520,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19521,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19522,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19523,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19524,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19525,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19526,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19527,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19528,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19529,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19530,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19531,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19532,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19533,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19534,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19535,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19536,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19537,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19538,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19539,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19540,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19541,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19542,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19543,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19544,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19510,0,False,False,False,2,0,0,0,3,False,False,1,25,"Qui m'a invoqué<hex:021D0103>?",0
+19511,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je vais faire de mon mieux<hex:021D0103>!",0
+19512,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je suis là pour servir<hex:021D0103>!",0
+19513,0,False,False,False,2,0,0,0,3,False,False,1,25,"Salut<hex:021D0103>!",0
+19514,0,False,False,False,2,0,0,0,3,False,False,1,25,"J'arrive<hex:021D0103>!",0
+19515,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je suis prêt... je crois.",0
+19516,0,False,False,False,2,0,0,0,3,False,False,1,25,"Avec plaisir<hex:021D0103>!",0
+19517,0,False,False,False,2,0,0,0,3,False,False,1,25,"C'est la bagarre<hex:021D0103>?",0
+19518,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je suis crevé...",0
+19519,0,False,False,False,2,0,0,0,3,False,False,1,25,"Mission accomplie<hex:021D0103>! Ou pas...",0
+19520,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je passe le relais...",0
+19521,0,False,False,False,2,0,0,0,3,False,False,1,25,"C'est fini... Retraite<hex:021D0103>!",0
+19522,0,False,False,False,2,0,0,0,3,False,False,1,25,"Adieu...",0
+19523,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je me rentre<hex:021D0103>!",0
+19524,0,False,False,False,2,0,0,0,3,False,False,1,25,"Pfiou, je suis claqué<hex:021D0103>!",0
+19525,0,False,False,False,2,0,0,0,3,False,False,1,25,"Au revoir...",0
+19526,0,False,False,False,2,0,0,0,3,False,False,1,25,"Oui<hex:021D0103>? On m'appelle<hex:021D0103>?",0
+19527,0,False,False,False,2,0,0,0,3,False,False,1,25,"Toujours prêt<hex:021D0103>!",0
+19528,0,False,False,False,2,0,0,0,3,False,False,1,25,"Motivé, motivé<hex:021D0103>!",0
+19529,0,False,False,False,2,0,0,0,3,False,False,1,25,"La flemme... Euh, j'ai rien dit<hex:021D0103>!",0
+19530,0,False,False,False,2,0,0,0,3,False,False,1,25,"C'est gagné<hex:021D0103>?",0
+19531,0,False,False,False,2,0,0,0,3,False,False,1,25,"Compris<hex:021D0103>!",0
+19532,0,False,False,False,2,0,0,0,3,False,False,1,25,"En attente d'in<hex:02160103>struc<hex:02160103>tions<hex:021D0103>!",0
+19533,0,False,False,False,2,0,0,0,3,False,False,1,25,"Hein<hex:021D0103>!? Oh non, j'ai pas envie...",0
+19534,0,False,False,False,2,0,0,0,3,False,False,1,25,"Euh, OK<hex:021D0103>!",0
+19535,0,False,False,False,3,0,0,0,3,False,False,1,25,"Hééé<hex:021D0103>! C'est pas du jeu<hex:021D0103>!",0
+19536,0,False,False,False,3,0,0,0,11,False,False,1,27,"Sélection de la cible...<hex:02100103>Mort... niveau de savoir... 5.",0
+19537,0,False,False,False,3,0,0,0,11,False,False,1,27,"Sélection de la cible...<hex:02100103>Brasier... niveau de savoir... 3.",0
+19538,0,False,False,False,3,0,0,0,11,False,False,1,27,"Sélection de la cible...<hex:02100103>Miracle... niveau de savoir... 4.",0
+19539,0,False,False,False,3,0,0,0,11,False,False,1,27,"Sélection de la cible...<hex:02100103>Mort... niveau de savoir... nombre premier.",0
+19540,0,False,False,False,3,0,0,0,3,False,False,1,25,"◎▼×□△... !",0
+19541,0,False,False,False,3,0,0,0,3,False,False,1,25,"＄◎×■△ !",0
+19542,0,False,False,False,3,0,0,0,3,False,False,1,25,"◎▼×◎◎～ !",0
+19543,0,False,False,False,3,0,0,0,3,False,False,1,25,"￥▽▲○... !",0
+19544,0,False,False,False,3,0,0,0,3,False,False,1,25,"◎◎×△□ !",0
 19545,0,False,False,False,2,0,0,0,2,False,False,1,25,"Vous n'avez pas intérêt à mourir, camarades !",0
 19546,0,False,False,False,2,0,0,0,2,False,False,1,25,"Nous ne les laisserons pas passer !",0
 19547,0,False,False,False,2,0,0,0,2,False,False,1,25,"Ils ne doivent pas atteindre les civils !",0
@@ -19581,29 +19581,29 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19576,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19577,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19578,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19579,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19580,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19581,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19582,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19583,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19584,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19585,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19586,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19579,0,False,False,False,2,0,0,0,3,False,False,1,25,"Allez, rends-moi mes élixirs ! Steuplaît !",0
+19580,0,False,False,False,2,0,0,0,3,False,False,1,25,"Y en a où, des élixirs ?",0
+19581,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ils sont où les élixirs ? Ils sont où ?",0
+19582,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je trouve pas d'élixir...",0
+19583,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kékéké... Je sens un élixir par ici !",0
+19584,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kékéké... Je sens un élixir par là-bas !",0
+19585,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kéké... Tu t'es fait avoir !",0
+19586,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kékéké... Kékékéké !",0
 19587,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19588,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19589,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19590,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19591,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19592,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19593,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19594,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19595,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19596,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19588,0,False,False,False,2,0,0,0,3,False,False,1,25,"Y a pas d'élixir... Snif...",0
+19589,0,False,False,False,2,0,0,0,3,False,False,1,25,"Andouille ! Triple buse !",0
+19590,0,False,False,False,2,0,0,0,3,False,False,1,25,"T'as qu'à lécher le sol !",0
+19591,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kékéké... T'es tout rouge ?",0
+19592,0,False,False,False,2,0,0,0,3,False,False,1,25,"Les élixirs sont à nous ! À nous !",0
+19593,0,False,False,False,2,0,0,0,3,False,False,1,25,"Viens pas nous embêter !",0
+19594,0,False,False,False,2,0,0,0,3,False,False,1,25,"Brûle ! Brûle dans les flammes !",0
+19595,0,False,False,False,2,0,0,0,3,False,False,1,25,"Je veux des élixirs<hex:021D0103>!",0
+19596,0,False,False,False,2,0,0,0,3,False,False,1,25,"Hé, tu m'écoutes ? Ohé ?",0
 19597,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19598,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19599,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19600,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19601,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19599,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ziouuuuu !",0
+19600,0,False,False,False,2,0,0,0,3,False,False,1,25,"Grooooh... !",0
+19601,0,False,False,False,2,0,0,0,3,False,False,1,25,"Vrouuuum !",0
 19602,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19603,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19604,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19645,21 +19645,21 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19640,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19641,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19642,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19643,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19644,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19645,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19646,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19647,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19648,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19649,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19650,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19651,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19652,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19653,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19654,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19655,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19656,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19657,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19643,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ô lance sacrée, perce les cieux<hex:021D0103>!",0
+19644,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mes prédictions sont infaillibles<hex:021D0103>!",0
+19645,0,False,False,False,3,0,0,0,4,False,False,1,25,"Remplis ta part de notre pacte, créature<hex:021D0103>!",0
+19646,0,False,False,False,3,0,0,0,4,False,False,1,25,"Goûtez au pouvoir de l'omniscience...",0
+19647,0,False,False,False,3,0,0,0,4,False,False,1,25,"Vous n'aurez pas de répit<hex:021D0103>!",0
+19648,0,False,False,False,3,0,0,0,4,False,False,1,25,"Le pouvoir de pétrification habite ma lame...",0
+19649,0,False,False,False,3,0,0,0,4,False,False,1,25,"De l'omniscience naît la toute-puissance<hex:021D0103>!",0
+19650,0,False,False,False,2,0,0,0,3,False,False,1,25,"Pipipipi<hex:021D0103>!",0
+19651,0,False,False,False,2,0,0,0,3,False,False,1,25,"Piii pi<hex:021D0103>!",0
+19652,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kuuu kuuu<hex:021D0103>!",0
+19653,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kuuu ku ku ku<hex:021D0103>!",0
+19654,0,False,False,False,2,0,0,0,3,False,False,1,25,"Keeeee<hex:021D0103>!",0
+19655,0,False,False,False,2,0,0,0,3,False,False,1,25,"Piiiippippi<hex:021D0103>!",0
+19656,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kaaaa<hex:021D0103>!",0
+19657,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kraaa kraaa<hex:021D0103>!",0
 19658,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Content de vous voir<hex:021D0103>! Améliorons notre station afin de pouvoir explorer les moindres recoins de cette nouvelle planète<hex:021D0103>!",19659
 19659,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Comme d'habitude, construire des modules d'habitation renforcera notre capacité d'accueil<hex:021D0103>!",19660
 19660,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Prenez des matériaux dans les caisses et façonnez-les<hex:021D0103>! On compte sur vous pour vous appliquer<hex:021D0103>!",0
@@ -19787,8 +19787,8 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19782,0,False,False,False,3,0,0,0,4,False,False,1,25,"Des tentacules<hex:021D0103>?",0
 19783,0,False,False,False,3,0,0,0,4,False,False,1,25,"Quelle chose immonde...",0
 19784,0,False,False,False,3,0,0,0,2,False,False,1,25,"Prends ça !",0
-19785,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19786,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19785,0,False,False,False,2,0,0,0,3,False,False,1,25,"Fschuiii<hex:021D0103>!",0
+19786,0,False,False,False,2,0,0,0,3,False,False,1,25,"Fwit, fwit<hex:021D0103>!",0
 19787,0,False,False,False,3,0,0,0,3,False,False,1,25,"Mais combien sont-ils !?",0
 19788,0,False,False,False,3,0,0,0,3,False,True,1,25,"Ce calme ne me dit rien qui vaille...",0
 19789,0,False,False,False,3,0,0,0,3,False,True,1,25,"Une alerte générale<hex:021D0103>!? Oh non<hex:021D0103>!",0
@@ -19827,15 +19827,15 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 19822,0,False,False,False,2,0,0,0,1,False,False,1,25,"Doo, doo, doo doo...",0
 19823,0,False,False,False,2,0,0,0,1,False,False,1,25,"Pouet pouet<hex:021D0103>!",0
 19824,0,False,False,False,2,0,0,0,1,False,False,1,25,"Bêêêh<hex:021D0103>!",0
-19825,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19826,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19827,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19825,0,False,False,False,2,0,0,0,1,False,False,1,25,"Ici, tout commence...",0
+19826,0,False,False,False,2,0,0,0,1,False,False,1,25,"Abracad'bra<hex:021D0103>!",0
+19827,0,False,False,False,2,0,0,0,1,False,False,1,25,"Je te surpasserai<hex:021D0103>!",0
 19828,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19829,0,False,False,False,2,0,0,0,1,False,False,1,25,"J'ai la daaalle<hex:021D0103>!!!",0
-19830,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19830,0,False,False,False,2,0,0,0,1,False,False,1,25,"Miahaha<hex:021D0103>!",0
 19831,0,False,False,False,2,0,0,0,1,False,False,1,25,"Connexion au réseau-tronc...",0
-19832,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19833,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19832,0,False,False,False,2,0,0,0,1,False,False,1,25,"Je pars, je pars, je suis parti<hex:021D0103>!",0
+19833,0,False,False,False,2,0,0,0,1,False,False,1,25,"Piou-piou<hex:021D0103>!",0
 19834,0,False,False,False,3,0,0,0,4,False,False,1,25,"Attention aux débrrris qui tombent !",0
 19835,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ils ont déployé les armures magitek !",0
 19836,0,False,False,False,3,0,0,0,4,False,False,1,25,"C'est l'heure de la contre-attaque !",0

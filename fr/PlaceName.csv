@@ -4770,7 +4770,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 4765,"Tréno",0,"Tréno",0,0,1,0,0,"<hex:020921E802FF07>Tréno<hex:FF0A>à Tréno<hex:FF0A>de Tréno<hex:03>",0,0,0
 4766,"Domaine du néant",0,"Domaines du néant",0,0,1,0,0,"<hex:020945E802FF15>le domaine du néant<hex:FF15>au domaine du néant<hex:FF15>du domaine du néant<hex:03>",0,0,0
 4767,"Abysses du néant",0,"Abysses du néant",0,0,1,0,0,"<hex:02094DE802FF16>les abysses du néant<hex:FF1B>dans les abysses du néant<hex:FF16>des abysses du néant<hex:03>",0,0,0
-4768,"",0,"",0,0,1,0,0,"",0,0,0
+4768,"Cimetière désaffecté",0,"Cimetière désaffecté",0,0,1,0,0,"<hex:020957E802FF1B>le cimetière désaffecté<hex:FF1B>au cimetière désaffecté<hex:FF1B>du cimetière désaffecté<hex:03>",0,0,0
 4769,"",0,"",0,0,1,0,0,"",0,0,0
 4770,"",0,"",0,0,1,0,0,"",0,0,0
 4771,"",0,"",0,0,1,0,0,"",0,0,0
@@ -4964,7 +4964,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 4959,"Distillerie",0,"Distillerie",0,0,1,0,0,"<hex:020939E802FF0F>la distillerie<hex:FF12>à la distillerie<hex:FF12>de la distillerie<hex:03>",0,0,0
 4960,"Autel des Flocons",0,"Autel des Flocons",0,0,1,0,0,"<hex:020948E802FF14>l'Autel des Flocons<hex:FF17>à l'Autel des Flocons<hex:FF17>de l'Autel des Flocons<hex:03>",0,0,0
 4961,"Relais des Cimes",0,"Relais des Cimes",0,0,1,0,0,"<hex:020942E802FF14>le relais des Cimes<hex:FF14>au relais des Cimes<hex:FF14>du relais des Cimes<hex:03>",0,0,0
-4962,"",0,"",0,0,0,0,0,"",0,0,0
+4962,"Square des clavistes",0,"Square des clavistes",0,0,1,0,0,"<hex:02094EE802FF18>le square des clavistes<hex:FF18>au square des clavistes<hex:FF18>du square des clavistes<hex:03>",0,0,0
 4963,"",0,"",0,0,0,0,0,"",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
 4965,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5301,7 +5301,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5296,"Coulée de Fusingway",0,"Coulée de Fusingway",0,0,1,0,0,"<hex:020954E802FF18>la coulée de Fusingway<hex:FF1B>à la coulée de Fusingway<hex:FF1B>de la coulée de Fusingway<hex:03>",0,0,0
 5297,"Coffre d'Oneiron",0,"Coffre d'Oneiron",0,0,1,0,0,"<hex:020942E802FF14>le coffre d'Oneiron<hex:FF14>au coffre d'Oneiron<hex:FF14>du coffre d'Oneiron<hex:03>",0,0,0
 5298,"Pont d'aéronef",0,"Pont d'aéronef",0,0,1,0,0,"<hex:020943E802FF13>le pont d'aéronef<hex:FF17>sur le pont d'aéronef<hex:FF13>du pont d'aéronef<hex:03>",0,0,0
-5299,"隠された小部屋",0,"",0,0,1,0,0,"",0,0,0
+5299,"Petite pièce cachée",0,"Petite pièce cachée",0,0,1,0,0,"<hex:020959E802FF19>la petite pièce cachée<hex:FF1E>dans la petite pièce cachée<hex:FF1C>de la petite pièce cachée<hex:03>",0,0,0
 5300,"Interventions mécaniques",0,"Interventions mécaniques",0,0,1,0,0,"<hex:0209A5E802FF35>le guichet des in<hex:02160103>ter<hex:02160103>ven<hex:02160103>tions mécaniques<hex:FF35>au guichet des in<hex:02160103>ter<hex:02160103>ven<hex:02160103>tions mécaniques<hex:FF35>du guichet des in<hex:02160103>ter<hex:02160103>ven<hex:02160103>tions mécaniques<hex:03>",0,0,0
 5301,"Phaenna",0,"Phaenna",0,0,1,0,0,"<hex:020924E802FF08>Phaenna<hex:FF0B>à Phaenna<hex:FF0B>de Phaenna<hex:03>",0,0,0
 5302,"Antre des Souffleurs de verre",0,"Antre des Souffleurs de verre",0,0,1,0,0,"<hex:02096CE802FF20>l'antre des Souffleurs de verre<hex:FF23>à l'antre des Souffleurs de verre<hex:FF23>de l'antre des Souffleurs de verre<hex:03>",0,0,0
@@ -5468,7 +5468,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5463,"Mer de la Vacuité",0,"Mer de la Vacuité",0,0,1,0,0,"<hex:02094EE802FF16>la mer de la Vacuité<hex:FF19>à la mer de la Vacuité<hex:FF19>de la mer de la Vacuité<hex:03>",0,0,0
 5464,"Place annexe",0,"Place annexe",0,0,1,0,0,"<hex:02093CE802FF10>la place annexe<hex:FF13>à la place annexe<hex:FF13>de la place annexe<hex:03>",0,0,0
 5465,"Place annexe",0,"Place annexe",0,0,1,0,0,"<hex:02093CE802FF10>la place annexe<hex:FF13>à la place annexe<hex:FF13>de la place annexe<hex:03>",0,0,0
-5466,"",0,"",0,0,0,0,0,"",0,0,0
+5466,"Sous-sol de l'Institut Kanilokka",0,"Sous-sol de l'Institut Kanilokka",0,0,1,0,0,"<hex:020972E802FF24>le sous-sol de l'Institut Kanilokka<hex:FF24>au sous-sol de l'Institut Kanilokka<hex:FF24>du sous-sol de l'Institut Kanilokka<hex:03>",0,0,0
 5467,"Campement de Dorgerwor",0,"Campement de Dorgerwor",0,0,1,0,0,"<hex:020954E802FF1A>le Campement de Dorgerwor<hex:FF1A>au Campement de Dorgerwor<hex:FF1A>du Campement de Dorgerwor<hex:03>",0,0,0
 5468,"Chanteroche",0,"Chanteroche",0,0,1,0,0,"<hex:020930E802FF0C>Chanteroche<hex:FF0F>à Chanteroche<hex:FF0F>de Chanteroche<hex:03>",0,0,0
 5469,"Fort de Chirteh",0,"Fort de Chirteh",0,0,1,0,0,"<hex:02093FE802FF13>le Fort de Chirteh<hex:FF13>au Fort de Chirteh<hex:FF13>du Fort de Chirteh<hex:03>",0,0,0
@@ -5477,28 +5477,28 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5472,"Vahder",0,"Vahder",0,0,1,0,0,"<hex:020921E802FF07>Vahder<hex:FF0A>à Vahder<hex:FF0A>de Vahder<hex:03>",0,0,0
 5473,"Source gelée",0,"Source gelée",0,0,1,0,0,"<hex:02093FE802FF11>la source gelée<hex:FF14>à la source gelée<hex:FF14>de la source gelée<hex:03>",0,0,0
 5474,"Contes du Camelot annexes",0,"Contes du Camelot annexes",0,0,1,0,0,"",0,0,0
-5475,"",0,"",0,0,0,0,0,"",0,0,0
-5476,"",0,"",0,0,0,0,0,"",0,0,0
-5477,"",0,"",0,0,0,0,0,"",0,0,0
-5478,"",0,"",0,0,0,0,0,"",0,0,0
-5479,"",0,"",0,0,0,0,0,"",0,0,0
-5480,"",0,"",0,0,0,0,0,"",0,0,0
-5481,"",0,"",0,0,0,0,0,"",0,0,0
-5482,"",0,"",0,0,0,0,0,"",0,0,0
-5483,"",0,"",0,0,0,0,0,"",0,0,0
-5484,"",0,"",0,0,0,0,0,"",0,0,0
-5485,"",0,"",0,0,0,0,0,"",0,0,0
-5486,"",0,"",0,0,0,0,0,"",0,0,0
-5487,"",0,"",0,0,0,0,0,"",0,0,0
-5488,"",0,"",0,0,0,0,0,"",0,0,0
-5489,"",0,"",0,0,0,0,0,"",0,0,0
-5490,"",0,"",0,0,0,0,0,"",0,0,0
-5491,"",0,"",0,0,0,0,0,"",0,0,0
-5492,"",0,"",0,0,0,0,0,"",0,0,0
-5493,"",0,"",0,0,0,0,0,"",0,0,0
-5494,"",0,"",0,0,0,0,0,"",0,0,0
-5495,"",0,"",0,0,0,0,0,"",0,0,0
-5496,"",0,"",0,0,0,0,0,"",0,0,0
+5475,"Tour fourchue de la Magie",0,"Tour fourchue de la Magie",0,0,1,0,0,"<hex:020963E802FF1D>la Tour fourchue de la Magie<hex:FF20>à la Tour fourchue de la Magie<hex:FF20>de la Tour fourchue de la Magie<hex:03>",0,0,0
+5476,"Quartiers inférieurs",0,"Quartiers inférieurs",0,0,1,0,0,"<hex:020954E802FF1A>les quartiers inférieurs<hex:FF1A>aux quartiers inférieurs<hex:FF1A>des quartiers inférieurs<hex:03>",0,0,0
+5477,"Vestibule inférieur",0,"Vestibule inférieur",0,0,1,0,0,"<hex:02094EE802FF18>le vestibule inférieur<hex:FF18>au vestibule inférieur<hex:FF18>du vestibule inférieur<hex:03>",0,0,0
+5478,"Passage inférieur ouest",0,"Passage inférieur ouest",0,0,1,0,0,"<hex:02095AE802FF1C>le passage inférieur ouest<hex:FF1C>au passage inférieur ouest<hex:FF1C>du passage inférieur ouest<hex:03>",0,0,0
+5479,"Passage inférieur est",0,"Passage inférieur est",0,0,1,0,0,"<hex:02095AE802FF1A>le passage inférieur est<hex:FF1D>au le passage inférieur est<hex:FF1D>du le passage inférieur est<hex:03>",0,0,0
+5480,"Passage inférieur central",0,"Passage inférieur central",0,0,1,0,0,"<hex:020960E802FF1E>le passage inférieur central<hex:FF1E>au passage inférieur central<hex:FF1E>du passage inférieur central<hex:03>",0,0,0
+5481,"Quartiers intermédiaires I",0,"Quartiers intermédiaires I",0,0,1,0,0,"<hex:020966E802FF20>les quartiers intermédiaires I<hex:FF20>aux quartiers intermédiaires I<hex:FF20>des quartiers intermédiaires I<hex:03>",0,0,0
+5482,"Salle de garde intermédiaire",0,"Salle de garde intermédiaire",0,0,1,0,0,"<hex:02096FE802FF21>la salle de garde intermédiaire<hex:FF24>à la salle de garde intermédiaire<hex:FF24>de la salle de garde intermédiaire<hex:03>",0,0,0
+5483,"Coin caché",0,"Coin caché",0,0,1,0,0,"<hex:020933E802FF0F>le coin caché<hex:FF0F>au coin caché<hex:FF0F>du coin caché<hex:03>",0,0,0
+5484,"Quartiers intermédiaires II",0,"Quartiers intermédiaires II",0,0,1,0,0,"<hex:020969E802FF21>les quartiers intermédiaires II<hex:FF21>aux quartiers intermédiaires II<hex:FF21>des quartiers intermédiaires II<hex:03>",0,0,0
+5485,"Quartiers supérieurs I",0,"Quartiers supérieurs I",0,0,1,0,0,"<hex:02095AE802FF1C>les quartiers supérieurs I<hex:FF1C>aux quartiers supérieurs I<hex:FF1C>des quartiers supérieurs I<hex:03>",0,0,0
+5486,"Salle de garde supérieure",0,"Salle de garde supérieure",0,0,1,0,0,"<hex:020966E802FF1E>la salle de garde supérieure<hex:FF21>à la salle de garde supérieure<hex:FF21>de la salle de garde supérieure<hex:03>",0,0,0
+5487,"Quartiers supérieurs II",0,"Quartiers supérieurs II",0,0,1,0,0,"<hex:02095DE802FF1D>les quartiers supérieurs II<hex:FF1D>aux quartiers supérieurs II<hex:FF1D>des quartiers supérieurs II<hex:03>",0,0,0
+5488,"Summum du savoir",0,"Summum du savoir",0,0,1,0,0,"<hex:020942E802FF14>le Summum du savoir<hex:FF14>au Summum du savoir<hex:FF14>du Summum du savoir<hex:03>",0,0,0
+5489,"Summum du savoir",0,"Summum du savoir",0,0,1,0,0,"<hex:020942E802FF14>le Summum du savoir<hex:FF14>au Summum du savoir<hex:FF14>du Summum du savoir<hex:03>",0,0,0
+5490,"Collection oubliée",0,"Collection oubliée",0,0,1,0,0,"<hex:020951E802FF17>la Collection oubliée<hex:FF1A>à la Collection oubliée<hex:FF1A>de la Collection oubliée<hex:03>",0,0,0
+5491,"Salle d'herpétologie",0,"Salle d'herpétologie",0,0,1,0,0,"<hex:020957E802FF19>la salle d'herpétologie<hex:FF1C>à la salle d'herpétologie<hex:FF1C>de la salle d'herpétologie<hex:03>",0,0,0
+5492,"Salle de choréologie",0,"Salle de choréologie",0,0,1,0,0,"<hex:020957E802FF19>la salle de choréologie<hex:FF1C>à la salle de choréologie<hex:FF1C>de la salle de choréologie<hex:03>",0,0,0
+5493,"Salle de thanatologie",0,"Salle de thanatologie",0,0,1,0,0,"<hex:020957E802FF19>la salle de thanatologie<hex:FF1C>à la salle de thanatologie<hex:FF1C>de la salle de thanatologie<hex:03>",0,0,0
+5494,"Salle d'épistémologie",0,"Salle d'épistémologie",0,0,1,0,0,"<hex:02095DE802FF1B>la salle d'épistémologie<hex:FF1E>à la salle d'épistémologie<hex:FF1E>de la salle d'épistémologie<hex:03>",0,0,0
+5495,"Salle d'agnotologie",0,"Salle d'agnotologie",0,0,1,0,0,"<hex:020951E802FF17>la salle d'agnotologie<hex:FF1A>à la salle d'agnotologie<hex:FF1A>de la salle d'agnotologie<hex:03>",0,0,0
+5496,"Salle d'horlogerie",0,"Salle d'horlogerie",0,0,1,0,0,"<hex:02094EE802FF16>la salle d'horlogerie<hex:FF19>à la salle d'horlogerie<hex:FF19>de la salle d'horlogerie<hex:03>",0,0,0
 5497,"Commercium",0,"Commercium",0,0,1,0,0,"<hex:020930E802FF0E>le Commercium<hex:FF0E>au Commercium<hex:FF0E>du Commercium<hex:03>",0,0,0
 5498,"Chemin de l'usine",0,"Chemin de l'usine",0,0,1,0,0,"<hex:020945E802FF15>le chemin de l'usine<hex:FF15>au chemin de l'usine<hex:FF15>du chemin de l'usine<hex:03>",0,0,0
 5499,"Le Clyteum",0,"Le Clyteum",0,0,1,0,0,"<hex:020927E802FF0B>le Clyteum<hex:FF0B>au Clyteum<hex:FF0B>du Clyteum<hex:03>",0,0,0
@@ -5547,7 +5547,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5542,"Cuvette sylvestre",0,"Cuvette sylvestre",0,0,1,0,0,"<hex:02094BE802FF15>la cuvette sylvestre<hex:FF18>à la cuvette sylvestre<hex:FF18>de la cuvette sylvestre<hex:03>",0,0,0
 5543,"Parcelle du rivage",0,"Parcelle du rivage",0,0,1,0,0,"<hex:02094EE802FF16>la parcelle du rivage<hex:FF19>à la parcelle du rivage<hex:FF19>de la parcelle du rivage<hex:03>",0,0,0
 5544,"Source épanouie",0,"Source épanouie",0,0,1,0,0,"<hex:020948E802FF14>la source épanouie<hex:FF17>à la source épanouie<hex:FF17>de la source épanouie<hex:03>",0,0,0
-5545,"",0,"",0,0,0,0,0,"",0,0,0
+5545,"Gold Saucer",0,"Gold Saucer",0,0,1,0,0,"<hex:020933E802FF0F>le Gold Saucer<hex:FF0F>au Gold Saucer<hex:FF0F>du Gold Saucer<hex:03>",0,0,0
 5546,"Havre forestier",0,"Havre forestier",0,0,1,0,0,"<hex:02093FE802FF13>le Havre forestier<hex:FF13>au Havre forestier<hex:FF13>du Havre forestier<hex:03>",0,0,0
 5547,"Jardins luxuriants",0,"Jardins luxuriants",0,0,1,0,0,"<hex:02094BE802FF17>les Jardins luxuriants<hex:FF17>aux Jardins luxuriants<hex:FF17>des Jardins luxuriants<hex:03>",0,0,0
 5548,"Pileus Pergola",0,"Pileus Pergola",0,0,1,0,0,"<hex:020939E802FF0F>Pileus Pergola<hex:FF12>à Pileus Pergola<hex:FF12>de Pileus Pergola<hex:03>",0,0,0
@@ -5573,31 +5573,31 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5568,"Parterre de Blossomingway",0,"Parterre de Blossomingway",0,0,1,0,0,"<hex:02095DE802FF1D>le parterre de Blossomingway<hex:FF1D>au parterre de Blossomingway<hex:FF1D>du parterre de Blossomingway<hex:03>",0,0,0
 5569,"Pousse vivace",0,"Pousse vivace",0,0,1,0,0,"<hex:02093FE802FF11>la Pousse vivace<hex:FF14>à la Pousse vivace<hex:FF14>de la Pousse vivace<hex:03>",0,0,0
 5570,"Avenue d'Ulthalam",0,"Avenue d'Ulthalam",0,0,1,0,0,"<hex:020948E802FF14>l'avenue d'Ulthalam<hex:FF17>à l'avenue d'Ulthalam<hex:FF17>de l'avenue d'Ulthalam<hex:03>",0,0,0
-5571,"",0,"",0,0,0,0,0,"",0,0,0
-5572,"",0,"",0,0,0,0,0,"",0,0,0
-5573,"",0,"",0,0,0,0,0,"",0,0,0
-5574,"",0,"",0,0,0,0,0,"",0,0,0
-5575,"",0,"",0,0,0,0,0,"",0,0,0
-5576,"",0,"",0,0,0,0,0,"",0,0,0
-5577,"",0,"",0,0,0,0,0,"",0,0,0
-5578,"",0,"",0,0,0,0,0,"",0,0,0
-5579,"",0,"",0,0,0,0,0,"",0,0,0
-5580,"",0,"",0,0,0,0,0,"",0,0,0
-5581,"",0,"",0,0,0,0,0,"",0,0,0
-5582,"",0,"",0,0,0,0,0,"",0,0,0
-5583,"",0,"",0,0,0,0,0,"",0,0,0
-5584,"",0,"",0,0,0,0,0,"",0,0,0
-5585,"",0,"",0,0,0,0,0,"",0,0,0
-5586,"",0,"",0,0,0,0,0,"",0,0,0
-5587,"",0,"",0,0,0,0,0,"",0,0,0
-5588,"",0,"",0,0,0,0,0,"",0,0,0
-5589,"",0,"",0,0,0,0,0,"",0,0,0
-5590,"",0,"",0,0,0,0,0,"",0,0,0
-5591,"",0,"",0,0,0,0,0,"",0,0,0
-5592,"",0,"",0,0,0,0,0,"",0,0,0
-5593,"",0,"",0,0,0,0,0,"",0,0,0
-5594,"",0,"",0,0,0,0,0,"",0,0,0
-5595,"",0,"",0,0,0,0,0,"",0,0,0
+5571,"Camp de base nord",0,"Camp de base nord",0,0,1,0,0,"<hex:020945E802FF15>le camp de base nord<hex:FF15>au camp de base nord<hex:FF15>du camp de base nord<hex:03>",0,0,0
+5572,"Sanctuaire englouti",0,"Sanctuaire englouti",0,0,1,0,0,"<hex:02094BE802FF17>le Sanctuaire englouti<hex:FF17>au Sanctuaire englouti<hex:FF17>du Sanctuaire englouti<hex:03>",0,0,0
+5573,"Structures suspendues",0,"Structures suspendues",0,0,1,0,0,"<hex:020954E802FF1A>les Structures suspendues<hex:FF1A>aux Structures suspendues<hex:FF1A>des Structures suspendues<hex:03>",0,0,0
+5574,"Faubourgs décrépis",0,"Faubourgs décrépis",0,0,1,0,0,"<hex:020951E802FF19>les Faubourgs décrépis<hex:FF19>aux Faubourgs décrépis<hex:FF19>des Faubourgs décrépis<hex:03>",0,0,0
+5575,"Hameau hanté",0,"Hameau hanté",0,0,1,0,0,"<hex:020939E802FF11>le Hameau hanté<hex:FF11>au Hameau hanté<hex:FF11>du Hameau hanté<hex:03>",0,0,0
+5576,"Couronne de Karnak",0,"Couronne de Karnak",0,0,1,0,0,"<hex:02094EE802FF16>la Couronne de Karnak<hex:FF19>à la Couronne de Karnak<hex:FF19>de la Couronne de Karnak<hex:03>",0,0,0
+5577,"Île de Lunule septentrionale",0,"Île de Lunule septentrionale",0,0,1,0,0,"<hex:02096CE802FF20>l'île de Lunule septentrionale<hex:FF23>à l'île de Lunule septentrionale<hex:FF23>de l'île de Lunule septentrionale<hex:03>",0,0,43
+5578,"Tour fourchue de la Magie",0,"Tour fourchue de la Magie",0,0,1,0,0,"<hex:020963E802FF1D>la Tour fourchue de la Magie<hex:FF20>à la Tour fourchue de la Magie<hex:FF20>de la Tour fourchue de la Magie<hex:03>",0,0,0
+5579,"La Couronne de Karnak",0,"La Couronne de Karnak",0,0,1,0,0,"<hex:02094EE802FF16>La Couronne de Karnak<hex:FF19>à La Couronne de Karnak<hex:FF19>de La Couronne de Karnak<hex:03>",0,0,0
+5580,"Rive sud du Lac spectral",0,"Rive sud du Lac spectral",0,0,1,0,0,"<hex:020960E802FF1C>la rive sud du Lac spectral<hex:FF1F>à la rive sud du Lac spectral<hex:FF1F>de la rive sud du Lac spectral<hex:03>",0,0,0
+5581,"Rive nord du Lac spectral",0,"Rive nord du Lac spectral",0,0,1,0,0,"<hex:020963E802FF1D>la rive nord du Lac spectral<hex:FF20>à la rive nord du Lac spectral<hex:FF20>de la rive nord du Lac spectral<hex:03>",0,0,0
+5582,"Sanctuaire englouti",0,"Sanctuaire englouti",0,0,1,0,0,"<hex:02094BE802FF17>le Sanctuaire englouti<hex:FF17>au Sanctuaire englouti<hex:FF17>du Sanctuaire englouti<hex:03>",0,0,0
+5583,"Bois ballotés",0,"Bois ballotés",0,0,1,0,0,"<hex:02093FE802FF13>les Bois ballotés<hex:FF13>aux Bois ballotés<hex:FF13>des Bois ballotés<hex:03>",0,0,0
+5584,"Structures suspendues",0,"Structures suspendues",0,0,1,0,0,"<hex:020954E802FF1A>les Structures suspendues<hex:FF1A>aux Structures suspendues<hex:FF1A>des Structures suspendues<hex:03>",0,0,0
+5585,"Temple des sphères",0,"Temple des sphères",0,0,1,0,0,"<hex:02094BE802FF17>le Temple des sphères<hex:FF17>au Temple des sphères<hex:FF17>du Temple des sphères<hex:03>",0,0,0
+5586,"Cité décrépie",0,"Cité décrépie",0,0,1,0,0,"<hex:020948E802FF14>la Cité décrépie<hex:FF17>à la Cité décrépie<hex:FF17>de la Cité décrépie<hex:03>",0,0,0
+5587,"Hameau hanté",0,"Hameau hanté",0,0,1,0,0,"<hex:020939E802FF11>le Hameau hanté<hex:FF11>au Hameau hanté<hex:FF11>du Hameau hanté<hex:03>",0,0,0
+5588,"Territoire ténébreux",0,"Territoire ténébreux",0,0,1,0,0,"<hex:020954E802FF1A>le Territoire ténébreux<hex:FF1A>au Territoire ténébreux<hex:FF1A>du Territoire ténébreux<hex:03>",0,0,0
+5589,"Mirador paisible",0,"Mirador paisible",0,0,1,0,0,"<hex:020942E802FF14>le Mirador paisible<hex:FF14>au Mirador paisible<hex:FF14>du Mirador paisible<hex:03>",0,0,0
+5590,"Lac spectral",0,"Lac spectral",0,0,1,0,0,"<hex:020936E802FF10>le Lac spectral<hex:FF10>au Lac spectral<hex:FF10>du Lac spectral<hex:03>",0,0,0
+5591,"Labyrinthe des damnés",0,"Labyrinthe des damnés",0,0,1,0,0,"<hex:020954E802FF1A>le Labyrinthe des damnés<hex:FF1A>au Labyrinthe des damnés<hex:FF1A>du Labyrinthe des damnés<hex:03>",0,0,0
+5592,"Bassin septentrional",0,"Bassin septentrional",0,0,1,0,0,"<hex:02094EE802FF18>le Bassin septentrional<hex:FF18>au Bassin septentrional<hex:FF18>du Bassin septentrional<hex:03>",0,0,0
+5593,"Spélonque perdue",0,"Spélonque perdue",0,0,1,0,0,"<hex:02094BE802FF15>la Spélonque perdue<hex:FF18>à la Spélonque perdue<hex:FF18>de la Spélonque perdue<hex:03>",0,0,0
+5594,"Collection oubliée",0,"Collection oubliée",0,0,1,0,0,"<hex:020951E802FF17>la Collection oubliée<hex:FF1A>à la Collection oubliée<hex:FF1A>de la Collection oubliée<hex:03>",0,0,0
+5595,"Camp de base nord",0,"Camp de base nord",0,0,1,0,0,"<hex:020945E802FF15>le camp de base nord<hex:FF15>au camp de base nord<hex:FF15>du camp de base nord<hex:03>",0,0,0
 5596,"",0,"",0,0,0,0,0,"",0,0,0
 5597,"",0,"",0,0,0,0,0,"",0,0,0
 5598,"",0,"",0,0,0,0,0,"",0,0,0
