@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,DisplayName,AddonName,
 offset,0,4,8
 Int32,String,String,String
 0,"快速鍵1","Hotbar1","hot1"
@@ -110,5 +110,5 @@ Int32,String,String,String
 105,"靈力量譜","",""
 106,"畫布量譜","",""
 107,"調色量譜","",""
-108,"","",""
-109,"","",""
+108,"紛爭前線：戰況情報","Frontline:CampaignInfo",""
+109,"宇宙探索：行星情報","CosmoExplorer:Info",""
