@@ -1,0 +1,9 @@
+﻿key,0
+#,Category
+offset,0
+Int32,String
+0,""
+1,"Show All"
+2,"Hide Items Registered to Gear Sets"
+3,"Hide Armoury Chest Items"
+4,"Show Only Items IL <hex:022003E80203> and Below"

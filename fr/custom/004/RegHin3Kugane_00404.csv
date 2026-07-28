@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_000","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03> voyageu<hex:02080AE905FF03>se<hex:FF02>r<hex:03>, et bienvenue à Kugane<hex:021D0103>! Y a-t-il quelque chose que ma modeste personne puisse faire pour vous aider<hex:021D0103>?"
+1,"TEXT_REGHIN3KUGANE_00404_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+2,"TEXT_REGHIN3KUGANE_00404_A1_000_001","Votre interlocuteur"
+3,"TEXT_REGHIN3KUGANE_00404_A1_000_002","Cet endroit"
+4,"TEXT_REGHIN3KUGANE_00404_A1_000_003","Annuler"
+5,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_010","Votre intérêt m'honore, ch<hex:02080DE905FF05>ère<hex:FF03>er<hex:03> voyageu<hex:02080AE905FF03>se<hex:FF02>r<hex:03>. Sachez que je m'appelle Tenzan. Ma fonction consiste a vérifier qu'aucun article prohibé ne soit introduit en ville."
+6,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_011","Même si Kugane est ouverte aux étrangers, nous attendons d'eux qu'ils respectent scru<hex:02160103>pu<hex:02160103>leu<hex:02160103>se<hex:02160103>ment nos lois."
+7,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_012","Quiconque oserait apporter quelque chose susceptible de créer le désordre dans notre pays serait im<hex:02160103>mé<hex:02160103>dia<hex:02160103>te<hex:02160103>ment arrêté et remis aux agents du Sekiseigumi. Ces derniers n'hésiteront pas à infliger de lourdes peines aux contrevenants. Tâchez de ne pas l'oublier, si vous souhaitez revoir votre contrée."
+8,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_020","L'île où se trouve Kugane est située à l'extrémité occidentale du pays insulaire de Hingashi et s'appelle Shishû."
+9,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_021","Notre ville portuaire est la seule ouverte aux navires étrangers. Il faut en effet savoir que notre gouvernement, le <hex:021A020203>bakufu<hex:021A020103>, a choisi d'adopter une politique d'isolement."
+10,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_022","Les em<hex:02160103>bar<hex:02160103>ca<hex:02160103>tions venues d'autres pays doivent d'abord s'amarrer à la jetée n°2. C'est là que nous effectuons une inspection de leurs cargaisons afin de nous assurer qu'ils ne transportent aucun article prohibé. C'est une mesure nécessaire de par notre situation politique."

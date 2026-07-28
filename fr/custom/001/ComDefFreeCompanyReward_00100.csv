@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001","Je propose aux compagnies libres affiliées <hex:02093EE802FF0D>au Maelstrom<hex:FF1D>à l'ordre des Deux Vipères<hex:FF0E>aux Immortels<hex:03> d'échanger leurs crédits contre divers avantages. Êtes-vous intéressé<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>?"
+1,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q","Que voulez-vous faire<hex:021D0103>?"
+2,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1","Obtenir des bienfaits"
+3,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_FCC_SHOP","Obtenir des objets"
+4,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A2","En savoir plus sur les crédits de compagnie"
+5,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A3","Annuler"
+6,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_010","Les crédits sont une monnaie d'échange utilisée par les compagnies libres, l'équivalent de gils ou de sceaux de grande compagnie."
+7,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_011","Les membres peuvent gagner des crédits en ac<hex:02160103>com<hex:02160103>plis<hex:02160103>sant diverses tâches au nom de leur compagnie."
+8,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_012","Ces crédits peuvent ensuite être échangés contre des bienfaits auprès de l'officier de la logistique de la grande compagnie d'allégeance de votre or<hex:02160103>ga<hex:02160103>ni<hex:02160103>sa<hex:02160103>tion."
+9,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_013","Pour que ce genre d'échange soit possible, votre compagnie libre doit avoir reçu une au<hex:02160103>to<hex:02160103>ri<hex:02160103>sa<hex:02160103>tion de la part de sa grande compagnie d'allégeance."
+10,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_014","D'autre part, seuls les membres ayant la permission du chef de la compagnie libre peuvent échanger des crédits."
+11,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR1","Vous ne faites pas partie d'une compagnie libre<hex:021D0103>? Vous devriez réfléchir à en rejoindre une. Un nouveau monde s'offrirait à vous, vous savez<hex:021D0103>?"
+12,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR2","（★未使用／削除予定★）"
+13,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR3","Je regrette, mais vous devez vous adresser à la grande compagnie à laquelle votre or<hex:02160103>ga<hex:02160103>ni<hex:02160103>sa<hex:02160103>tion est affiliée pour échanger vos crédits."

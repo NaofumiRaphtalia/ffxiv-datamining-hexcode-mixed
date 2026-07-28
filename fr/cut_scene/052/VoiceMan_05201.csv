@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_VOICEMAN_05201_000010_RYNE","Le Primordial va apparaître... Bonne chance<hex:021D0103>!"
+1,"TEXT_VOICEMAN_05201_000020_GAIA","Ouah... C'est lui le fameux Ramuh<hex:021D0103>!?"
+2,"TEXT_VOICEMAN_05201_000030_RYNE","Double invocation de Primordial... (halète) réussie<hex:021D0103>!"
+3,"TEXT_VOICEMAN_05201_000040_GAIA","Ryne<hex:021D0103>! Ça va, tu tiens le coup<hex:021D0103>!?"
+4,"TEXT_VOICEMAN_05201_000050_RYNE","Ils sont si nombreux... Faites très attention à vous<hex:021D0103>!"
+5,"TEXT_VOICEMAN_05201_000060_RYNE","Je suis prête à recevoir le pouvoir de Shiva<hex:021D0103>!"
+6,"TEXT_VOICEMAN_05201_000070_RYNE","(-Shiva-)Ah... Aaaaah<hex:021D0103>!"
+7,"TEXT_VOICEMAN_05201_000080_GAIA","C'est en train de partir en vrille<hex:021D0103>! Faut l'arrêter, et tout de suite<hex:021D0103>!"

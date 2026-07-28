@@ -1,0 +1,23 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,,,,,,,,,,
+offset,8,12,20,21,22,23,24,16,0,4
+Int32,Int32,Int32,UInt8,UInt8,UInt8,UInt8,UInt8,Int32,String,String
+0,0,0,0,0,0,0,0,0,"",""
+1,20,0,30,3,1,1,1,15,"Bommel-Feuer","Richtet <hex:022003E80203> Schaden auf ein Ziel vor dir an.<hex:02100103>MP-Kosten: <hex:022003E80403><hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+2,10,8,40,4,3,3,2,25,"Bommel-Sternensturm","Richtet <hex:022003E80203> Schaden auf das Ziel und Gegner in der Nähe <hex:022003E80303> Felder vor dir an.<hex:02100103>MP-Kosten: <hex:022003E80403><hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+3,15,0,80,10,0,0,3,50,"Bommel-Meteor","Richtet <hex:022003E80203> Schaden auf alle Gegner an.<hex:02100103>MP-Kosten: <hex:022003E80403><hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+4,50,0,10,1,0,0,4,0,"Bommel-Vita","Heilt <hex:022003E80203> LP.<hex:02100103>MP-Kosten: <hex:022003E80403><hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+5,0,0,20,3,0,0,5,0,"Bommel-Medica","Entfernt alle negativen Effekte außer Verhängnis.<hex:02100103>MP-Kosten: <hex:022003E80403>　<hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+6,0,0,30,3,0,0,6,0,"Bommel-Barriere","Errichtet eine Barriere, die Schaden abhält.<hex:02100103>Dauer: <hex:022003E80603> Runde<hex:02080AE4E80602FF01><hex:FF02>n<hex:03><hex:02100103>MP-Kosten: <hex:022003E80403><hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+7,0,0,20,3,0,0,7,0,"Bommel-Levitas","Macht dich immun gegen Boden-Effekte.<hex:02100103>Dauer: <hex:022003E80603> Runden<hex:02100103>MP-Kosten: <hex:022003E80403>　<hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+8,0,0,50,99,0,0,8,0,"Bommel-Schutzengel","Wiederbelebung bei Kampfunfähigkeit.<hex:02100103>Dauer: Unbegrenzt<hex:02100103>MP-Kosten: <hex:022003E80403><hex:02100103>Runden bis Reaktivierung: <hex:022003E80503>"
+9,100,0,0,0,0,0,0,0,"",""
+10,100,0,0,0,0,0,0,0,"",""
+11,0,0,0,0,0,0,0,0,"",""
+12,0,0,0,0,0,0,0,0,"",""
+13,100,0,0,0,0,7,0,0,"",""
+14,10,2,0,0,0,1,0,0,"",""
+15,100,0,0,0,0,1,0,0,"",""
+16,0,0,0,0,0,0,0,0,"",""
+17,0,0,0,0,0,0,0,0,"",""
+18,9999,0,0,0,0,0,0,0,"",""

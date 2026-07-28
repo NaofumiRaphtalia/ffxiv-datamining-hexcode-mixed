@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,Name
+offset,4,0
+Int32,UInt8,String
+0,0,"Invalide"
+1,1,"Eau douce"
+2,2,"Eau de mer"

@@ -1,0 +1,25 @@
+﻿key,0
+#,Text
+offset,0
+Int32,String
+0,""
+1,"Min. <hex:022003E80203>er-Strähne"
+2,"STR min. <hex:022003E80203>"
+3,"GESK min. <hex:022003E80203>"
+4,"KONS min. <hex:022003E80203>"
+5,"INT min. <hex:022003E80203>"
+6,"WLK min. <hex:022003E80203>"
+7,"FRM min. <hex:022003E80203>"
+8,"Feuer min <hex:022003E80203>"
+9,"Eis min. <hex:022003E80203>"
+10,"Wind min. <hex:022003E80203>"
+11,"Erde min. <hex:022003E80203>"
+12,"Blitz min. <hex:022003E80203>"
+13,"Wasser min. <hex:022003E80203>"
+14,"Sammeln min. <hex:022003E80203>"
+15,"Expertise min. <hex:022003E80203>"
+16,"Sammeln max. <hex:022003E80203>"
+17,"Expertise <hex:02080BE803FF04>≥<hex:FF02><<hex:03> <hex:022003E80203>"
+18,"Status „<hex:02280CFF07>Status<hex:E8020103>“"
+19,"Max. SP ≥ <hex:022003E80203>"
+20,"<hex:022B10FF0E><hex:02280AFF05>Item<hex:E8020A03><hex:03> <hex:020825E803FF0D>ausgerüstet<hex:FF13>nicht ausgerüstet<hex:03>"

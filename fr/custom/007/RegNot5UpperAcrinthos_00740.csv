@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000","Vous êtes nouv<hex:02080EE905FF05>elle<hex:FF04>eau<hex:03> par ici<hex:021D0103>? Alors je devine que vous devez avoir quelques questions."
+1,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001","Comme si nous n'étions pas suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment occupés ici, voilà que le Conseil nous ordonne de préparer un exode spatial de toute urgence<hex:021D0103>! Si vous avez des questions, posez-les, et vite."
+2,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002","J'ai entendu dire que vous vous apprêtiez à partir à l'autre bout de l'univers... Si je peux faire quoi que ce soit pour vous aider, comme répondre à certaines de vos questions par exemple, n'hésitez pas à me le dire."
+3,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003","Non seulement la planète est sauve, mais en plus, le travail ici est redevenu gérable<hex:021D0103>! Le moins que je puisse faire pour vous remercier est de répondre à vos questions si vous en avez."
+4,"TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+5,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001","Votre interlocutrice"
+6,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002","Cet endroit"
+7,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003","Annuler"
+8,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010","Mon rôle consiste à répertorier et à classifier les colis apportés par les glaneurs. Vous voyez toutes ces caisses autour de nous<hex:021D0103>? C'est juste un échantillon."
+9,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011","Le Labyrinthos collecte et conserve une vaste quantité de documents au sens large<hex:021D0103>: livres rédigés dans toutes les langues, vestiges d'une grande valeur historique, parfois même des spécimens vivants présentant une particularité rare... Donc forcément, ça fait beaucoup de boulot."
+10,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012","Et si on rajoute en plus le projet récent d'acheminer les éléments les plus essentiels vers la lune, je ne vous raconte même pas<hex:021D0103>!"
+11,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020","Vous vous trouvez ac<hex:02160103>tu<hex:02160103>el<hex:02160103>le<hex:02160103>ment à l'Acrinthos supérieur, c'est-à-dire le lieu où les colis venus de la surface sont entreposés après avoir été déchargés de l'ascenseur."
+12,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021","Une fois leur contenu vérifié et trié, ils sont transférés à l'Archéion ou à d'autres bâtiments, selon les cas. Pour le dire autrement, nous sommes la plaque tournante logistique du Labyrinthos<hex:021D0103>!"
+13,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022","Sauf que, avec ce projet d'exode spatial, tous les colis que nous avons répartis au fil des ans vont bientôt nous revenir en sens inverse... (soupire)"

@@ -1,0 +1,9 @@
+﻿key,0
+#,Name
+offset,0
+Int32,String
+0,""
+1,"Critter"
+2,"Monster"
+3,"Poppet"
+4,"Gadget"

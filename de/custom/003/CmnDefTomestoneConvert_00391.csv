@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q","Was möchtest du machen?"
+1,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL","Abbrechen"
+2,"TEXT_CMNDEFTOMESTONECONVERT_00391_HELP","<hex:022B13FF11><hex:02320DFF05>Item<hex:06E80203020203><hex:03>? Die werden als Zahlungsmittel nicht mehr akzeptiert. Die Sammler scheinen das Interesse daran verloren zu haben."
+3,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE","Ich könnte deine gegen <hex:02320DFF05>Item<hex:06E80303050203> eintauschen ... wenn du welche besitzen würdest."
+4,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q","Wenn du möchtest, gebe ich dir <hex:02320DFF05>Item<hex:06E80403050203> für <hex:02320DFF05>Item<hex:06E80203050203>. Zu ein bisschen Geld kann ich die sicher noch machen."
+5,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q","<hex:022003E80303> <hex:020829E4E80302FF11><hex:02320DFF05>Item<hex:06E80202050203><hex:FF11><hex:02320DFF05>Item<hex:06E80203050203><hex:03> gegen <hex:022003E80503> <hex:020829E4E80502FF11><hex:02320DFF05>Item<hex:06E80402050203><hex:FF11><hex:02320DFF05>Item<hex:06E80403050203><hex:03> tauschen?"
+6,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES","Tauschen"
+7,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO","Abbrechen"
+8,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET","Sieht aus, als hättest du keinen Platz mehr für <hex:02320DFF05>Item<hex:06E80203050203>. Komm doch später noch mal wieder."
+9,"TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q","Achtung: Nach dem Tausch hättest du mehr <hex:02320DFF05>Item<hex:06E80203050203>, als du tragen kannst. Überschüssige <hex:02320DFF05>Item<hex:06E80203050203> gehen verloren. Trotzdem tauschen?"

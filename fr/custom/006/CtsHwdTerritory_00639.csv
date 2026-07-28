@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03>, <hex:020811E905FF07>chère<hex:FF05>cher<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:021D0103>! Vous ne pouviez pas mieux tomber<hex:021D0103>!"
+1,"TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_010","Figurez-vous que les habitants d'Azurée et les artisans présents ont décidé d'organiser une “Grande Célébration” pour marquer la fin du chantier de recon<hex:02160103>struc<hex:02160103>tion."
+2,"TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_020","L'événement est ponctué de nombreuses “festes”, des petites animations ouvertes à tous et offrant la chance de gagner quelques prix fort sympathiques. J'espère que vous nous ferez l'honneur de participer<hex:021D0103>!"
+3,"TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_030","Pendant la Grande Célébration d'Azurée, divers petits jeux appelés “festes” se déroulent successivement à intervalles réguliers. Le programme peut être consulté sur place."
+4,"TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_040","Pour participer à une feste, il est nécessaire d'être dans une classe d'artisan ou de récolteur."

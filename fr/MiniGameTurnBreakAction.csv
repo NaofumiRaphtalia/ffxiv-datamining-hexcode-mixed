@@ -1,0 +1,23 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,,,,,,,,,,
+offset,8,12,20,21,22,23,24,16,0,4
+Int32,Int32,Int32,UInt8,UInt8,UInt8,UInt8,UInt8,Int32,String,String
+0,0,0,0,0,0,0,0,0,"",""
+1,20,0,30,3,1,1,1,15,"Flamme pompon","Inflige <hex:022003E80203> point<hex:02080AE2E80202FF01><hex:FF02>s<hex:03> de dégâts à un ennemi en face de vous.<hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+2,10,8,40,4,3,3,2,25,"Mini-météore pompon","Inflige <hex:022003E80203> point<hex:02080AE2E80202FF01><hex:FF02>s<hex:03> de dégâts aux ennemis dans l'aire d'effet située <hex:022003E80303> cases en face de vous.<hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+3,15,0,80,10,0,0,3,50,"Météore pompon","Inflige <hex:022003E80203> point<hex:02080AE2E80202FF01><hex:FF02>s<hex:03> de dégâts à tous les ennemis.<hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+4,50,0,10,1,0,0,4,0,"Soin pompon","Restaure <hex:022003E80203> PV.<hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+5,0,0,20,3,0,0,5,0,"Guérison pompon","Dissipe toutes les altérations d'état hormis Glas.<hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+6,0,0,30,3,0,0,6,0,"Barrière pompon","Crée sur vous une barrière absorbant les dégâts.<hex:02100103>Durée de l'effet<hex:021D0103>: <hex:022003E80603> tour<hex:02080AE2E80602FF01><hex:FF02>s<hex:03><hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+7,0,0,20,3,0,0,7,0,"Lévitation pompon","Permet d'éviter les attaques au sol.<hex:02100103>Durée de l'effet<hex:021D0103>: <hex:022003E80603> tour<hex:02080AE2E80602FF01><hex:FF02>s<hex:03><hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+8,0,0,50,99,0,0,8,0,"Résurrection pompon","Permet de ressusciter au<hex:02160103>to<hex:02160103>ma<hex:02160103>ti<hex:02160103>que<hex:02160103>ment en cas de K.O. pendant la durée de l'effet.<hex:02100103>Durée de l'effet<hex:021D0103>: permanent<hex:02100103>Coût en PM<hex:021D0103>: <hex:022003E80403>    Recharge<hex:021D0103>: <hex:022003E80503> tour<hex:02080AE2E80502FF01><hex:FF02>s<hex:03>"
+9,100,0,0,0,0,0,0,0,"",""
+10,100,0,0,0,0,0,0,0,"",""
+11,0,0,0,0,0,0,0,0,"",""
+12,0,0,0,0,0,0,0,0,"",""
+13,100,0,0,0,0,7,0,0,"",""
+14,10,2,0,0,0,1,0,0,"",""
+15,100,0,0,0,0,1,0,0,"",""
+16,0,0,0,0,0,0,0,0,"",""
+17,0,0,0,0,0,0,0,0,"",""
+18,9999,0,0,0,0,0,0,0,"",""

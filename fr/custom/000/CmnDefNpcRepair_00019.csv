@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFNPCREPAIR_00019_AMALJAAREPAIR_000_000","Réparer les armes et armures de mes camarades, mon métier est.<hex:02100103>Pour ceux qui n'ont pas gagné l'estime de mes semblables, je ne peux cependant rien faire."
+1,"TEXT_CMNDEFNPCREPAIR_00019_KOBOLDREPAIR_000_000","Oh, tu souhaites que je répare aussi tes équipements, oui, c'est ce que tu souhaites. Mais c'est hors de question, oui.<hex:02100103>Moi, je ne fais pas confiance à ceux qui n'aident pas mes camarades, non<hex:021D0103>!"
+2,"TEXT_CMNDEFNPCREPAIR_00019_SAHUAGINREPAIR_000_000","Fssshhh... Tu veux que je répare tes armes et tes armures, sssans-branchies<hex:021D0103>?<hex:02100103>Dans ccce cas, tu dois d'abord faire tes preuves auprès des miens. Ccc'est la règle, iccci, à la Couvée de Novv."
+3,"TEXT_CMNDEFNPCREPAIR_00019_IXALREPAIR_000_000","Quoi<hex:021D0103>? Cel<hex:02080BE905FF03>le<hex:FF03>ui<hex:03>-là veut que celui-ci répare ses équipements<hex:021D0103>!?<hex:02100103>C'est hors de question<hex:021D0103>! Celui-ci ne fait pas confiance aux étrangers, surtout si ceux-là n'ont pas fait leurs preuves auprès de la tribu<hex:021D0103>!"
+4,"TEXT_CMNDEFNPCREPAIR_00019_TERTIUM_000_000","..."
+5,"TEXT_CMNDEFNPCREPAIR_00019_SYSTEM_000_001","Cette personne n'a pas l'air de vouloir vous parler..."
+6,"TEXT_CMNDEFNPCREPAIR_00019_TERTIUM_000_002","On n'a déjà pas assez pour subvenir à nos propres besoins, alors je risque pas de réparer les affaires <hex:020826E905FF12>d'une étrangère<hex:FF0F>d'un étranger<hex:03>. Allez voir ailleurs."
+7,"TEXT_CMNDEFNPCREPAIR_00019_SCENE00000","（★未使用／削除予定★）"

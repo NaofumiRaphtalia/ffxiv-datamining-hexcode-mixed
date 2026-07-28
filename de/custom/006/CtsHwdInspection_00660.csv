@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_000_000","Oh, <hex:020827E905FF12>die große Heldin<hex:FF10>der große Held<hex:03>! Wunderschönen guten <hex:020834E3E90C0DFF18><hex:020814E3E90C05FF06>Abend<hex:FF07>Morgen<hex:03><hex:FF15><hex:020811E3E90C12FF04>Tag<hex:FF06>Abend<hex:03><hex:03>! Suchst du Aurvael?"
+1,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_000","Oho, <hex:020827E905FF12>die große Heldin<hex:FF10>der große Held<hex:03>! Wie schön, dass du zu mir gefunden hast!"
+2,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_010","Man munkelt, dass du nicht nur <hex:02081AE905FF0C>eine Heldin<hex:FF09>ein Held<hex:03> auf dem Schlachtfeld bist, sondern auch ein Händchen fürs Sammeln hast! In dem Fall bist du bei mir goldrichtig! Hier, lass mich erklären."
+3,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_020","Der Wieder<hex:02160103>aufbau verschlingt ungeheuerliche Mengen an Rohmaterialien, richtig? Richtig. Deswegen ist das Diadem jetzt für die Bevölkerung geöffnet, um nach Herzenslust zu sammeln. Aufregend, nicht wahr?!"
+4,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_030","Alle Rohmaterialien, die auf den Inseln gesammelt werden, gehen schnurstracks an den Ishgarder Wieder<hex:02160103>aufbau!"
+5,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_040","Allerdings nehmen wir nicht jeden Kiesel und Strohhalm. Wir bauen für die Zukunft, also spielt die Qualität der Rohmaterialien eine große Rolle. Hier komme ich ins Spiel<hex:021D0103>- ich verwalte die Kontrolle!"
+6,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_050","Also. Alles, was du auf dem Diadem sammelst, bringst du bitte direkt zu mir. Hier findet dann die Materialkontrolle statt. Man könnte mich die Hauptanlaufstelle für alle Sammler des Wieder<hex:02160103>aufbaus nennen."
+7,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_060","Und nach meiner Kontrolle bekommst du deine Diadem-Ausbeute selbst<hex:02160103>verständ<hex:02160103>lich zurück."
+8,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_070","Für deine Mühen erhältst du außerdem <hex:02320EFF05>Item<hex:06F26D9F03050203>. Das Diadem ist schließlich kein Zucker<hex:02160103>schlecken, das wollen wir angemessen würdigen."
+9,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_073","Oh, und eins noch. Die Fische, die sich auf dem Diadem tummeln, sind zwar durchweg ungenießbar, aber in ihren Bäuchen findet man allerlei Nützliches!"
+10,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_077","Warum sie so viele Rohstoffe fressen, das weiß der Greif. Aber umso wichtiger ist es, dass du sie zu mir bringst. Ohne Inspektion landet sonst noch einer davon in einem Kochtopf<hex:021D0103>..."
+11,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_080","Ob du die Materialien dann an fleißige Handwerker verkaufst oder selbst benutzt, das ist natürlich dir überlassen. So oder so, dem Wieder<hex:02160103>aufbau ist geholfen!"
+12,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_090","Hab ich dich neugierig gemacht? Wenn du zum Diadem aufbrechen willst, musst du mit Aurvael gleich neben mir sprechen. Der führt die Erschließung an und kümmert sich um alle Luftschiffbelange."
+13,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_020_000","Hast du Rohmaterial aus dem Diadem für mich? Immer her damit!"

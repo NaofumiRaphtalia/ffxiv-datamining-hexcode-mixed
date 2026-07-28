@@ -1,0 +1,19 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGSEA5BROENBHAR_00769_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+1,"TEXT_REGSEA5BROENBHAR_00769_A1_000_001","La situation actuelle"
+2,"TEXT_REGSEA5BROENBHAR_00769_A1_000_002","La délégation d'Ilsabard"
+3,"TEXT_REGSEA5BROENBHAR_00769_A1_000_003","Annuler"
+4,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_000","Tous les maraudeurs suivent le même en<hex:02160103>traî<hex:02160103>ne<hex:02160103>ment rigoureux, et c'est cette souffrance qui forge notre caractère. Aucun de nous n'hésiterait à risquer sa vie pour sauver un frère d'armes."
+5,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_010","Alors, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, t'es revenu<hex:020808E905FF02>e<hex:FF01><hex:03> réviser les bases<hex:021D0103>? Si t'as un peu de temps, hésite pas à montrer à ces petits jeunes comment un vrai maraudeur se sert de sa hache. Je suis sûr qu'ils seront im<hex:02160103>pres<hex:02160103>sion<hex:02160103>nés par ta technique."
+6,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_020","T'es devenu<hex:020808E905FF02>e<hex:FF01><hex:03> un<hex:020808E905FF02>e<hex:FF01><hex:03> grand<hex:020808E905FF02>e<hex:FF01><hex:03> guerri<hex:02080DE905FF05>ère<hex:FF03>er<hex:03>, mais c'est pas pour autant que tu dois oublier tout ce que t'as appris ici. Même si tes techniques de combat sont différentes des nôtres, la base reste le maniement de la hache."
+7,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_030","Je dois dire que ça fait plaisir de voir ta bouille, et c'est pas les autres de la guilde qui viendront me contredire. Nous, ben... on fait aller, comme d'habitude. "
+8,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_031","Enfin, comme d'habitude... La guilde a grossi. J'ai jamais vu défiler autant de bleus<hex:021D0103>! T'y es pour quelque chose, j'imagine."
+9,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_032","D'ailleurs, on a accueilli quelqu'un qui voulait marcher dans tes pas, tout à l'heure. Et tu me connais, j'adore faire plaisir. J'vais donc nous le façonner à coups de séances de brise-roc<hex:021D0103>!"
+10,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_100","Les Forges de Garlond ont prêté un de leurs aéronefs pour faire l'aller-retour à notre guise. Il nous permet de rentrer nous occuper de nos affaires entre deux missions pour le compte de la délégation d'Ilsabard."
+11,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_101","Je suis largement capable de gérer deux boulots en même temps, t'inquiètes pas."
+12,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_110","Je savais que vous vous en tireriez, vous êtes des durs à cuire. On déplore quelques bobos de notre côté, mais on est parvenus à protéger les artisans et à maîtriser les Garlemaldais subjugués."
+13,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_111","La castagne, c'est la castagne, on a l'habitude. En revanche, il y a une chose qui m'a vraiment surpris. Tous ces combattants experts du monde entier, réunis pour partager un repas. Jamais j'aurais cru ça possible."
+14,"TEXT_REGSEA5BROENBHAR_00769_BROENBHAR_000_112","Et que dire de leurs prouesses au combat. J'ai notamment repéré un Ao Ra venu d'Othard qui se battait avec une énorme hache. Il m'a beaucoup plu celui-là<hex:021D0103>!"

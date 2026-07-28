@@ -1,0 +1,19 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000","Hé<hex:021D0103>! Mais t'es l'ami<hex:020808E905FF02>e<hex:FF01><hex:03> d'Urianger<hex:021D0103>! À ce compte-là, bienvenue chez nous<hex:021D0103>! Tu peux rester à Lydha Lran un jour, deux mois, trois ans, autant de temps que tu veux<hex:021D0103>! Ça nous fait plaisir, hé hé hé."
+1,"TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000","Sur quoi vous renseignez-vous<hex:021D0103>?"
+2,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_001","Votre interlocutrice"
+3,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_002","Cet endroit"
+4,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_003","Rien en particulier"
+5,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_100","J'ai un peu le rôle de guide ici. Quand des humains se perdent dans l'Il Mheg, c'est moi qui leur explique tout ce qu'ils doivent savoir<hex:021D0103>!"
+6,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_101","Où trouver les fleurs à nectar<hex:021D0103>; comment remporter une course de bateau en feuille d'arbre<hex:021D0103>; ou encore quels sont les bons rochers pour gagner à coup sûr une partie de cache-cache<hex:021D0103>! Je me décarcasse pour eux, mais tu sais ce qu'ils me demandent à chaque fois<hex:021D0103>? “Comment on fait pour sortir d'ici<hex:021D0103>!?”"
+7,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_102","Hein<hex:021D0103>? Si je leur réponds<hex:021D0103>? Bah oui, quand même<hex:021D0103>! Après... je leur dis pas toujours la vérité, hi hi hi<hex:021D0103>!"
+8,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_200","Eh bien, tu es à Lydha Lran, le village pixie du royaume féérique<hex:021D0103>! Avant, le coin appartenait à des humains, les Voeburtois, je crois. Mais un jour, ils sont partis, et qui va à la chasse perd sa place<hex:021D0103>!"
+9,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_201","Bon, de temps en temps, y a des méchants monstres ou des purgateurs qui passent près d'ici, mais à part ça, c'est le paradis<hex:021D0103>! L'herbe est jolie, les fleurs sont délicieuses, et y a même des gens qui se perdent des fois<hex:021D0103>! Du coup, on a aussi plein de compagnons de jeu<hex:021D0103>!"
+10,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_202","T'as déjà vu l'Il Mheg depuis très haut<hex:021D0103>? On dirait un tourbillon de couleurs<hex:021D0103>! Y a du rose, du jaune, du vert, du bleu, c'est trop trop beau<hex:021D0103>! Par contre, le ciel, il brille tout le temps et change jamais. C'est un peu dommage, ça..."
+11,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_203","T'as déjà vu l'Il Mheg depuis très haut<hex:021D0103>? On dirait un tourbillon de couleurs<hex:021D0103>! Y a du rose, du jaune, du vert, du bleu, c'est trop trop beau<hex:021D0103>! Et puis alors, la nuit<hex:021D0103>! Oh là là là<hex:021D0103>! Je te raconte même pas<hex:021D0103>!"
+12,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_204","T'as déjà vu l'Il Mheg depuis très haut<hex:021D0103>? On dirait un tourbillon de couleurs<hex:021D0103>! Y a du rose, du jaune, du vert, du bleu, c'est trop trop beau<hex:021D0103>! J'ai bien aimé la nuit aussi<hex:021D0103>! Très jolie<hex:021D0103>! Mais... je sais pas pourquoi, elle est repartie..."
+13,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_205","T'as déjà vu l'Il Mheg depuis très haut<hex:021D0103>? On dirait un véritable arc-en-ciel<hex:021D0103>! Y a du rose, du jaune, du vert, du bleu, c'est trop trop beau<hex:021D0103>! Et puis alors, la nuit<hex:021D0103>! Oh là là là<hex:021D0103>! Je te raconte même pas<hex:021D0103>!"
+14,"TEXT_REGNOR4LYDHALRAN_00599_TALK_ACTOR","（★未使用／削除予定★）"

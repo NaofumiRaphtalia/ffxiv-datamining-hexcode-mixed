@@ -1,0 +1,14 @@
+﻿key,0
+#,Text
+offset,0
+Int32,String
+0,""
+1,"Eine Weggabelung ... In welche Richtung sollen wir gehen?"
+2,"Überrasche mich!"
+3,"Nach links ins Wohngebiet"
+4,"Nach rechts zum Markt"
+5,"Geradeaus zum Großen Tor"
+6,"Die Schwelende Kammer (Sengende Pari)"
+7,"Die Bühne der Meerjungfrau (Meerjungfrau Darya)"
+8,"Das Plateau der Kreuzenden Klingen (Schwertmeisterin)"
+9,"In welche Richtung möchtest du gehen?"

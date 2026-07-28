@@ -1,0 +1,9 @@
+﻿key,0,1,2
+#,,,
+offset,4,5,0
+Int32,UInt8,UInt8,String
+0,1,10,"Première phase des travaux"
+1,11,48,"Deuxième phase des travaux"
+2,49,79,"Troisième phase des travaux"
+3,80,112,"Quatrième phase des travaux"
+4,113,125,""

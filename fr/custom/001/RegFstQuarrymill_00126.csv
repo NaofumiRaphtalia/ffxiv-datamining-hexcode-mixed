@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_000","Salutations, aventuri<hex:02080DE905FF05>ère<hex:FF03>er<hex:03>. Quel bon vent vous mène au Moulin de la Carrière ?"
+1,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_010","Je suis une druidesse de Gridania et ma mission consiste à veiller sur ce hameau."
+2,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_011","J'écoute les murmures des esprits, gardiens éternels de la Sylve des Douze, et je transmets leurs volontés aux habitants."
+3,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_012","Au cas où vous vous poseriez la question, mon travail est similaire à celui d'un conseiller. La seule différence, c'est que les conseils ne viennent pas de moi, mais des esprits de la forêt."
+4,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_020","Le Moulin de la Carrière tient son nom des roues à aubes qui servaient à exploiter les pierres pour en faire des matériaux de con<hex:02160103>struc<hex:02160103>tion."
+5,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_021","Au fil des ans, il est devenu un lieu de ras<hex:02160103>sem<hex:02160103>ble<hex:02160103>ment pour les chasseurs, car il est entouré de terrains de chasse approuvés par les esprits."
+6,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_022","C'est également un lieu de jugement. Tous les étrangers désirant s'installer dans la Sylve des Douze doivent venir ici pour se faire évaluer par les esprits."
+7,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_023","Ceux qui sont exclus ne peuvent pas rester dans les bois ni recevoir leur bénédiction. Cela peut paraître sévère, mais les choses se passent ainsi depuis des temps immémoriaux. "
+8,"TEXT_REGFSTQUARRYMILL_00126_Q1_000_000","Que voulez-vous savoir<hex:021D0103>?"
+9,"TEXT_REGFSTQUARRYMILL_00126_A1_000_001","Que faites-vous ici<hex:021D0103>?"
+10,"TEXT_REGFSTQUARRYMILL_00126_A1_000_002","Quel est cet endroit ?"
+11,"TEXT_REGFSTQUARRYMILL_00126_A1_000_003","Rien en particulier"

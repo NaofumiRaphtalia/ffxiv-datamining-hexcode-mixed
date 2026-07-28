@@ -1,0 +1,24 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSDDD2ENTRANCE_00824_KYUSEI_000_000","Qu'est-ce que tu me veux<hex:021D0103>? Je suis occupé, reviens plus tard."
+1,"TEXT_CTSDDD2ENTRANCE_00824_TEST_START_MENU_ENTER","<hex:024804F2023503><hex:024904F2023603>Pénétrer dans le Pilier des Cieux<hex:0249020103><hex:0248020103>"
+2,"TEXT_CTSDDD2ENTRANCE_00824_TEST_START_MENU_RESET","Effacer une sauvegarde"
+3,"TEXT_CTSDDD2ENTRANCE_00824_TEST_START_MENU_BREAKUP","Dissoudre une équipe fixe"
+4,"TEXT_CTSDDD2ENTRANCE_00824_TEST_START_MENU_SCORE","Vérifier les scores"
+5,"TEXT_CTSDDD2ENTRANCE_00824_TEST_START_MENU_ABOUT","En savoir plus sur le Pilier des Cieux"
+6,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_MENU_TITLE","Que voulez-vous faire<hex:021D0103>?"
+7,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_MENU_FIXED","Pénétrer en équipe fixe"
+8,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_MENU_MATCHING","Pénétrer en équipe formée par groupement"
+9,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_MENU_BACK","Retour"
+10,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_FIXED_Q","Pénétrer dans le Pilier des Cieux en <hex:024804F201FA03><hex:024904F201FB03>équipe fixe<hex:0249020103><hex:0248020103><hex:021D0103>?"
+11,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_MATCHING_Q","Pénétrer dans le Pilier des Cieux en <hex:024804F201FA03><hex:024904F201FB03>équipe formée par groupement<hex:0249020103><hex:0248020103><hex:021D0103>?"
+12,"TEXT_CTSDDD2ENTRANCE_00824_KYUSEI_000_010","Tu veux y aller <hex:02081BE905FF0C>toute seule<hex:FF0A>tout seul<hex:03><hex:021D0103>!? Même si Rasho a l'air de te tenir en haute estime, laisse-moi te dire que c'est du suicide..."
+13,"TEXT_CTSDDD2ENTRANCE_00824_TEST_ENTER_SOLO","Pénétrer dans le Pilier des Cieux en <hex:024804F201FA03><hex:024904F201FB03>solo<hex:0249020103><hex:0248020103><hex:021D0103>?"
+14,"TEXT_CTSDDD2ENTRANCE_00824_ENTER_WHICH_Q","Pénétrer à partir de quel étage<hex:021D0103>?"
+15,"TEXT_CTSDDD2ENTRANCE_00824_ENTER_A1","Étage 1"
+16,"TEXT_CTSDDD2ENTRANCE_00824_ENTER_A2","Étage 21"
+17,"TEXT_CTSDDD2ENTRANCE_00824_MIDDLE_TOP_MENU_NEXT","<hex:024804F2023503><hex:024904F2023603>Explorer la série d'étages suivante<hex:0249020103><hex:0248020103>"
+18,"TEXT_CTSDDD2ENTRANCE_00824_MIDDLE_TOP_MENU_EXPLAIN","En savoir plus sur le Pilier des Cieux"
+19,"TEXT_CTSDDD2ENTRANCE_00824_MIDDLE_Q","Poursuivre votre exploration en accédant à la série d'étages suivante<hex:021D0103>?"

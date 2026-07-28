@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000","Pshhh... Mutamix sait fusionner les matérias pour en obtenir une différente, une plus jolie. Mutamix appelle ça la “transmatérialisation”<hex:021D0103>! Si l'aventuri<hex:02080DE905FF05>ère<hex:FF03>er<hex:03> apporte cinq matérias, Mutamix lui fera une dé<hex:02160103>mon<hex:02160103>stra<hex:02160103>tion."
+1,"TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001","Mais l'aventuri<hex:02080DE905FF05>ère<hex:FF03>er<hex:03> doit savoir que même Mutamix ne peut pas prévoir le résultat<hex:021D0103>! À <hex:02080EE905FF05>elle<hex:FF04>lui<hex:03> de décider s<hex:020810E905FF07>i elle<hex:FF04>'il<hex:03> veut tenter sa chance<hex:021D0103>!"
+2,"TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005","Si vous remettez 5 matérias dont vous n'avez pas besoin à Mutamix, ce dernier les fusionnera pour en créer une entièrement nouvelle."
+3,"TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006","Notez toutefois que le résultat de la transmatérialisation étant aléatoire, il n'est pas possible de savoir quel type de matéria sera obtenu."

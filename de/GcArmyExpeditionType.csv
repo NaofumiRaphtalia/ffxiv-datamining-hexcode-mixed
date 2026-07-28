@@ -1,0 +1,8 @@
+﻿key,0
+#,Name
+offset,0
+Int32,String
+0,""
+1,"Gefahrlose Einsätze"
+2,"Gewöhnliche Einsätze"
+3,"Riskante Einsätze"

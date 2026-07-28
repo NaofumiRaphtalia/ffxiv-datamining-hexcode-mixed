@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_AETHERYTEBESTWAYSBURROW_SYSTEM_WKT","Um ein Erkundungsareal der Kosmo-Erkundung zu betreten, musst du auf deine Stammwelt zurückkehren."
+1,"TEXT_AETHERYTEBESTWAYSBURROW_SYSTEM_C1W1","<hex:0212024603> Nach Sinus Ardorum reisen"
+2,"TEXT_AETHERYTEBESTWAYSBURROW_SYSTEM_C1W2","<hex:0212024603> Nach Phaenna reisen"
+3,"TEXT_AETHERYTEBESTWAYSBURROW_SYSTEM_C1W3","<hex:0212024603> Nach Oizys reisen"
+4,"TEXT_AETHERYTEBESTWAYSBURROW_SYSTEM_C1W4","<hex:0212024603> Nach Auxesia reisen"

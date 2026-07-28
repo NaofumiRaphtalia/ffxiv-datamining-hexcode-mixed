@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_001","Dies ist der Mahjong-Tisch für Anfänger.<hex:02100103>Möchtest du eine Partie gegen <hex:02280CFF06>Addon<hex:F2303A0103>, <hex:02280CFF06>Addon<hex:F2303B0103> und <hex:02280CFF06>Addon<hex:F2303C0103> spielen?"
+1,"TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_002","Dies ist der Mahjong-Tisch für Fortgeschrittene.<hex:02100103>Möchtest du eine Partie gegen <hex:02280CFF06>Addon<hex:F2303D0103>, <hex:02280CFF06>Addon<hex:F2303E0103> und <hex:02280CFF06>Addon<hex:F2303F0103> spielen?"
+2,"TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_003","Dies ist der Mahjong-Tisch für Profis.<hex:02100103>Möchtest du eine Partie gegen <hex:02280CFF06>Addon<hex:F230400103>, <hex:02280CFF06>Addon<hex:F230410103> und <hex:02280CFF06>Addon<hex:F230420103> spielen?"

@@ -1,0 +1,19 @@
+﻿key,0,1,2,3
+#,,,,
+offset,0,4,8,12
+Int32,String,Int32,Int32,UInt8
+0,"",0,0,0
+1,"L'équipe JcJ “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>” a été formée.",0,1,0
+2,"<hex:022B8EFF8C><hex:020888E4EB02EB03FF05>vous<hex:FF7B><hex:020877E908FF12><hex:02330EFF07>ObjStr<hex:03E908020203><hex:FF60><hex:02085CE4030AFF19><hex:02080FE943FF03>d'<hex:FF07>de<hex:021D0103><hex:03><hex:022903EB0303><hex:FF3D><hex:020839E906FF1A><hex:022810FF0C>Attributive<hex:032503><hex:022903EB0303><hex:FF1A><hex:022810FF0C>Attributive<hex:031D03><hex:022903EB0303><hex:03><hex:03><hex:03><hex:03><hex:03> <hex:02080FE4EB02EB03FF05>avez<hex:FF02>a<hex:03> rejoint l'équipe JcJ.",2,0,0
+3,"<hex:022B8EFF8C><hex:020888E4EB02EB03FF05>vous<hex:FF7B><hex:020877E908FF12><hex:02330EFF07>ObjStr<hex:03E908020203><hex:FF60><hex:02085CE4030AFF19><hex:02080FE943FF03>d'<hex:FF07>de<hex:021D0103><hex:03><hex:022903EB0303><hex:FF3D><hex:020839E906FF1A><hex:022810FF0C>Attributive<hex:032503><hex:022903EB0303><hex:FF1A><hex:022810FF0C>Attributive<hex:031D03><hex:022903EB0303><hex:03><hex:03><hex:03><hex:03><hex:03> <hex:02080FE4EB02EB03FF05>avez<hex:FF02>a<hex:03> quitté l'équipe JcJ.",2,0,0
+4,"<hex:022B8EFF8C><hex:020888E4EB02EB03FF05>vous<hex:FF7B><hex:020877E908FF12><hex:02330EFF07>ObjStr<hex:03E908020203><hex:FF60><hex:02085CE4030AFF19><hex:02080FE943FF03>d'<hex:FF07>de<hex:021D0103><hex:03><hex:022903EB0303><hex:FF3D><hex:020839E906FF1A><hex:022810FF0C>Attributive<hex:032503><hex:022903EB0303><hex:FF1A><hex:022810FF0C>Attributive<hex:031D03><hex:022903EB0303><hex:03><hex:03><hex:03><hex:03><hex:03> <hex:02080FE4EB02EB03FF05>avez<hex:FF02>a<hex:03> quitté l'équipe JcJ.",2,0,0
+5,"",2,0,0
+6,"",2,0,0
+7,"L'équipe JcJ a été renommée “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”.",0,1,0
+8,"Le blason de l'équipe JcJ a été modifié.",0,0,0
+9,"L'équipe JcJ a été promue à l'échelon “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”.",0,3,0
+10,"L'équipe JcJ a été rétrogradée à l'échelon “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”.",0,3,0
+11,"Une nouvelle saison a débuté.",0,0,0
+12,"Du fait d'une absence prolongée du chef d'<hex:024804F201FA03><hex:024904F201FB03>équipe JcJ<hex:0249020103><hex:0248020103>, <hex:0208F0DBE4EB02EB03FF2D>vous avez été promu<hex:020808E905FF02>e<hex:FF01><hex:03> à ce rang.<hex:FFA7>ce rang a été cédé à <hex:020888E4EB02EB03FF05>vous<hex:FF7B><hex:020877E908FF12><hex:02330EFF07>ObjStr<hex:03E908020203><hex:FF60><hex:02085CE4030AFF19><hex:02080FE943FF03>d'<hex:FF07>de<hex:021D0103><hex:03><hex:022903EB0303><hex:FF3D><hex:020839E906FF1A><hex:022810FF0C>Attributive<hex:032503><hex:022903EB0303><hex:FF1A><hex:022810FF0C>Attributive<hex:031D03><hex:022903EB0303><hex:03><hex:03><hex:03><hex:03>.<hex:03>",2,0,0
+13,"<hex:022B8EFF8C><hex:020888E4EB02EB03FF05>vous<hex:FF7B><hex:020877E908FF12><hex:02330EFF07>ObjStr<hex:03E908020203><hex:FF60><hex:02085CE4030AFF19><hex:02080FE943FF03>d'<hex:FF07>de<hex:021D0103><hex:03><hex:022903EB0303><hex:FF3D><hex:020839E906FF1A><hex:022810FF0C>Attributive<hex:032503><hex:022903EB0303><hex:FF1A><hex:022810FF0C>Attributive<hex:031D03><hex:022903EB0303><hex:03><hex:03><hex:03><hex:03><hex:03> <hex:02080FE4EB02EB03FF05>avez<hex:FF02>a<hex:03> été promu<hex:020808E905FF02>e<hex:FF01><hex:03> au rang de sous-chef.",2,0,0
+14,"<hex:022B8EFF8C><hex:020888E4EB02EB03FF05>vous<hex:FF7B><hex:020877E908FF12><hex:02330EFF07>ObjStr<hex:03E908020203><hex:FF60><hex:02085CE4030AFF19><hex:02080FE943FF03>d'<hex:FF07>de<hex:021D0103><hex:03><hex:022903EB0303><hex:FF3D><hex:020839E906FF1A><hex:022810FF0C>Attributive<hex:032503><hex:022903EB0303><hex:FF1A><hex:022810FF0C>Attributive<hex:031D03><hex:022903EB0303><hex:03><hex:03><hex:03><hex:03><hex:03> <hex:02080FE4EB02EB03FF05>avez<hex:FF02>a<hex:03> été promu<hex:020808E905FF02>e<hex:FF01><hex:03> au rang de chef.",2,0,0
