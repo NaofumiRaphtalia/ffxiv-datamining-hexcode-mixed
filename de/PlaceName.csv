@@ -4770,7 +4770,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 4765,"Treno",0,"",0,0,1,0,0,"<hex:020920E802FF0B>nach Treno<hex:FF09>in Treno<hex:FF06>Treno<hex:03>",0,0,0
 4766,"Nichts-Territorium",0,"",0,0,1,0,0,"<hex:02094AE802FF17>zum Nichts-Territorium<hex:FF16>im Nichts-Territorium<hex:FF17>das Nichts-Territorium<hex:03>",0,0,0
 4767,"Nichts-Tiefe",0,"",0,0,1,0,0,"<hex:02093CE802FF11>zur Nichts-Tiefe<hex:FF14>in der Nichts-Tiefe<hex:FF11>die Nichts-Tiefe<hex:03>",0,0,0
-4768,"",0,"",0,0,1,0,0,"",0,0,0
+4768,"Düsterer Totenacker",0,"",0,0,1,0,0,"<hex:02094FE802FF19>zum Düsteren Totenacker<hex:FF18>am Düsteren Totenacker<hex:FF18>der Düstere Totenacker<hex:03>",0,0,0
 4769,"",0,"",0,0,1,0,0,"",0,0,0
 4770,"",0,"",0,0,1,0,0,"",0,0,0
 4771,"",0,"",0,0,1,0,0,"",0,0,0
@@ -4964,7 +4964,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 4959,"Weinbrennerei",0,"",0,0,1,0,0,"<hex:02093FE802FF12>zur Weinbrennerei<hex:FF15>in der Weinbrennerei<hex:FF12>die Weinbrennerei<hex:03>",0,0,0
 4960,"Kalter Altar",0,"",0,0,1,0,0,"<hex:020937E802FF11>zum Kalten Altar<hex:FF10>am Kalten Altar<hex:FF10>der Kalte Altar<hex:03>",0,0,0
 4961,"Wächtersteig",0,"",0,0,1,0,0,"<hex:020940E802FF12>zum Wächtersteig<hex:FF16>auf dem Wächtersteig<hex:FF12>der Wächtersteig<hex:03>",0,0,0
-4962,"",0,"",0,0,0,0,0,"",0,0,0
+4962,"Ring der Tasten",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Ring der Tasten<hex:FF13>am Ring der Tasten<hex:FF14>der Ring der Tasten<hex:03>",0,0,0
 4963,"",0,"",0,0,0,0,0,"",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
 4965,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5301,7 +5301,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5296,"Fusingway-Fluss",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Fusingway-Fluss<hex:FF13>am Fusingway-Fluss<hex:FF14>der Fusingway-Fluss<hex:03>",0,0,0
 5297,"Tresor Oneiron",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Tresor Oneiron<hex:FF12>im Tresor Oneiron<hex:FF13>der Tresor Oneiron<hex:03>",0,0,0
 5298,"Flotten-Luftschiff",0,"",0,0,1,0,0,"<hex:02094FE802FF17>zum Flotten-Luftschiff<hex:FF1B>auf dem Flotten-Luftschiff<hex:FF17>das Flotten-Luftschiff<hex:03>",0,0,0
-5299,"隠された小部屋",0,"",0,0,1,0,0,"",0,0,0
+5299,"Verstecktes Heiligtum",0,"",0,0,1,0,0,"<hex:020952E802FF1A>zum Versteckten Heiligtum<hex:FF19>im Versteckten Heiligtum<hex:FF19>das Versteckte Heiligtum<hex:03>",0,0,0
 5300,"Mecha-Einsatz",0,"",0,0,1,0,0,"",0,0,0
 5301,"Phaenna",0,"",0,0,1,0,0,"<hex:020927E802FF0D>nach Phaenna<hex:FF0C>auf Phaenna<hex:FF08>Phaenna<hex:03>",0,0,0
 5302,"Glasbläser-Grotte",0,"",0,0,1,0,0,"<hex:02094EE802FF17>zur Glasbläser-Grotte<hex:FF1A>in der Glasbläser-Grotte<hex:FF17>die Glasbläser-Grotte<hex:03>",0,0,0
@@ -5468,7 +5468,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5463,"Meer der Leere",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Meer der Leere<hex:FF12>im Meer der Leere<hex:FF13>das Meer der Leere<hex:03>",0,0,0
 5464,"Gassenplatz",0,"",0,0,1,0,0,"<hex:02093AE802FF10>zum Gassenplatz<hex:FF14>auf dem Gassenplatz<hex:FF10>der Gassenplatz<hex:03>",0,0,0
 5465,"Gassenplatz",0,"",0,0,1,0,0,"<hex:02093AE802FF10>zum Gassenplatz<hex:FF14>auf dem Gassenplatz<hex:FF10>der Gassenplatz<hex:03>",0,0,0
-5466,"",0,"",0,0,0,0,0,"",0,0,0
+5466,"Tiefen von Kanilokkas Institut",0,"",0,0,1,0,0,"<hex:020975E802FF26>in die Tiefen von Kanilokkas Institut<hex:FF26>in den Tiefen von Kanilokkas Institut<hex:FF23>die Tiefen von Kanilokkas Institut<hex:03>",0,0,0
 5467,"Dorgerwor der Scharfsinnige",0,"",0,0,1,0,0,"<hex:020963E802FF20>zu Dorgerwor dem Scharfsinnigen<hex:FF21>bei Dorgerwor dem Scharfsinnigen<hex:FF1C>Dorgerwor der Scharfsinnige<hex:03>",0,0,0
 5468,"Weg des Gesangs",0,"",0,0,1,0,0,"<hex:020946E802FF14>zum Weg des Gesangs<hex:FF18>auf dem Weg des Gesangs<hex:FF14>der Weg des Gesangs<hex:03>",0,0,0
 5469,"Chirteh-Burgruine",0,"",0,0,1,0,0,"<hex:02094CE802FF16>zur Chirteh-Burgruine<hex:FF1A>bei der Chirteh-Burgruine<hex:FF16>die Chirteh-Burgruine<hex:03>",0,0,0
@@ -5477,28 +5477,28 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5472,"Vahder",0,"",0,0,1,0,0,"<hex:020922E802FF0A>zu Vahder<hex:FF0B>auf Vahder<hex:FF07>Vahder<hex:03>",0,0,0
 5473,"Schneeschmelze",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Schneeschmelze<hex:FF16>an der Schneeschmelze<hex:FF13>die Schneeschmelze<hex:03>",0,0,0
 5474,"Des Händlers kuriose Liebesmüh",0,"",0,0,1,0,0,"",0,0,0
-5475,"",0,"",0,0,0,0,0,"",0,0,0
-5476,"",0,"",0,0,0,0,0,"",0,0,0
-5477,"",0,"",0,0,0,0,0,"",0,0,0
-5478,"",0,"",0,0,0,0,0,"",0,0,0
-5479,"",0,"",0,0,0,0,0,"",0,0,0
-5480,"",0,"",0,0,0,0,0,"",0,0,0
-5481,"",0,"",0,0,0,0,0,"",0,0,0
-5482,"",0,"",0,0,0,0,0,"",0,0,0
-5483,"",0,"",0,0,0,0,0,"",0,0,0
-5484,"",0,"",0,0,0,0,0,"",0,0,0
-5485,"",0,"",0,0,0,0,0,"",0,0,0
-5486,"",0,"",0,0,0,0,0,"",0,0,0
-5487,"",0,"",0,0,0,0,0,"",0,0,0
-5488,"",0,"",0,0,0,0,0,"",0,0,0
-5489,"",0,"",0,0,0,0,0,"",0,0,0
-5490,"",0,"",0,0,0,0,0,"",0,0,0
-5491,"",0,"",0,0,0,0,0,"",0,0,0
-5492,"",0,"",0,0,0,0,0,"",0,0,0
-5493,"",0,"",0,0,0,0,0,"",0,0,0
-5494,"",0,"",0,0,0,0,0,"",0,0,0
-5495,"",0,"",0,0,0,0,0,"",0,0,0
-5496,"",0,"",0,0,0,0,0,"",0,0,0
+5475,"Turm der Magie",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Turm der Magie<hex:FF12>im Turm der Magie<hex:FF13>der Turm der Magie<hex:03>",0,0,0
+5476,"Fuß des Turmes",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Fuß des Turmes<hex:FF13>am Fuß des Turmes<hex:FF14>der Fuß des Turmes<hex:03>",0,0,0
+5477,"Eingangskorridor",0,"",0,0,1,0,0,"<hex:020944E802FF15>zum Eingangskorridor<hex:FF14>im Eingangskorridor<hex:FF15>der Eingangskorridor<hex:03>",0,0,0
+5478,"Westkorridor",0,"",0,0,1,0,0,"<hex:020938E802FF11>zum Westkorridor<hex:FF10>im Westkorridor<hex:FF11>der Westkorridor<hex:03>",0,0,0
+5479,"Ostkorridor",0,"",0,0,1,0,0,"<hex:020935E802FF10>zum Ostkorridor<hex:FF0F>im Ostkorridor<hex:FF10>der Ostkorridor<hex:03>",0,0,0
+5480,"Hauptkorridor",0,"",0,0,1,0,0,"<hex:02093BE802FF12>zum Hauptkorridor<hex:FF11>im Hauptkorridor<hex:FF12>der Hauptkorridor<hex:03>",0,0,0
+5481,"Mitte des Turmes 1",0,"",0,0,1,0,0,"<hex:02094EE802FF17>zur Mitte des Turmes 1<hex:FF1A>in der Mitte des Turmes 1<hex:FF17>die Mitte des Turmes 1<hex:03>",0,0,0
+5482,"Mittlerer Wachbezirk",0,"",0,0,1,0,0,"<hex:02094FE802FF19>zum mittleren Wachbezirk<hex:FF18>im mittleren Wachbezirk<hex:FF18>der mittlere Wachbezirk<hex:03>",0,0,0
+5483,"Mittlerer Geheimbezirk",0,"",0,0,1,0,0,"<hex:020955E802FF1B>zum mittleren Geheimbezirk<hex:FF1A>im mittleren Geheimbezirk<hex:FF1A>der mittlere Geheimbezirk<hex:03>",0,0,0
+5484,"Mitte des Turmes 2",0,"",0,0,1,0,0,"<hex:02094EE802FF17>zur Mitte des Turmes 2<hex:FF1A>in der Mitte des Turmes 2<hex:FF17>die Mitte des Turmes 2<hex:03>",0,0,0
+5485,"Obergeschoß des Turmes 1",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Obergeschoß des Turmes 1<hex:FF1D>im Obergeschoß des Turmes 1<hex:FF1E>das Obergeschoß des Turmes 1<hex:03>",0,0,0
+5486,"Oberer Wachbezirk",0,"",0,0,1,0,0,"<hex:020946E802FF16>zum oberen Wachbezirk<hex:FF15>im oberen Wachbezirk<hex:FF15>der obere Wachbezirk<hex:03>",0,0,0
+5487,"Obergeschoß des Turmes 2",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Obergeschoß des Turmes 2<hex:FF1D>im Obergeschoß des Turmes 2<hex:FF1E>das Obergeschoß des Turmes 2<hex:03>",0,0,0
+5488,"Krone des Wissens",0,"",0,0,1,0,0,"<hex:02094CE802FF16>zur Krone des Wissens<hex:FF1A>auf der Krone des Wissens<hex:FF16>die Krone des Wissens<hex:03>",0,0,0
+5489,"Krone des Wissens",0,"",0,0,1,0,0,"<hex:02094CE802FF16>zur Krone des Wissens<hex:FF1A>auf der Krone des Wissens<hex:FF16>die Krone des Wissens<hex:03>",0,0,0
+5490,"Schatzkammer des Einsiedlers",0,"",0,0,1,0,0,"<hex:02096CE802FF21>zur Schatzkammer des Einsiedlers<hex:FF24>in der Schatzkammer des Einsiedlers<hex:FF21>die Schatzkammer des Einsiedlers<hex:03>",0,0,0
+5491,"Raum der Herpetologie",0,"",0,0,1,0,0,"<hex:020953E802FF1A>zum Raum der Herpetologie<hex:FF19>im Raum der Herpetologie<hex:FF1A>der Raum der Herpetologie<hex:03>",0,0,0
+5492,"Raum der Choreologie",0,"",0,0,1,0,0,"<hex:020950E802FF19>zum Raum der Choreologie<hex:FF18>im Raum der Choreologie<hex:FF19>der Raum der Choreologie<hex:03>",0,0,0
+5493,"Raum der Thanatologie",0,"",0,0,1,0,0,"<hex:020953E802FF1A>zum Raum der Thanatologie<hex:FF19>im Raum der Thanatologie<hex:FF1A>der Raum der Thanatologie<hex:03>",0,0,0
+5494,"Raum der Epistemologie",0,"",0,0,1,0,0,"<hex:020956E802FF1B>zum Raum der Epistemologie<hex:FF1A>im Raum der Epistemologie<hex:FF1B>der Raum der Epistemologie<hex:03>",0,0,0
+5495,"Raum der Agnoiologie",0,"",0,0,1,0,0,"<hex:020950E802FF19>zum Raum der Agnoiologie<hex:FF18>im Raum der Agnoiologie<hex:FF19>der Raum der Agnoiologie<hex:03>",0,0,0
+5496,"Raum der Horologie",0,"",0,0,1,0,0,"<hex:02094AE802FF17>zum Raum der Horologie<hex:FF16>im Raum der Horologie<hex:FF17>der Raum der Horologie<hex:03>",0,0,0
 5497,"Commercium",0,"",0,0,1,0,0,"<hex:020932E802FF0F>zum Commercium<hex:FF0E>im Commercium<hex:FF0F>das Commercium<hex:03>",0,0,0
 5498,"Weg zum Klyteum",0,"",0,0,1,0,0,"<hex:020946E802FF14>zum Weg zum Klyteum<hex:FF18>auf dem Weg zum Klyteum<hex:FF14>der Weg zum Klyteum<hex:03>",0,0,0
 5499,"Klyteum",0,"",0,0,1,0,0,"<hex:020929E802FF0C>zum Klyteum<hex:FF0B>im Klyteum<hex:FF0C>das Klyteum<hex:03>",0,0,0
@@ -5547,7 +5547,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5542,"Sylvan-Tunkbecken",0,"",0,0,1,0,0,"<hex:020947E802FF16>zum Sylvan-Tunkbecken<hex:FF15>im Sylvan-Tunkbecken<hex:FF16>das Sylvan-Tunkbecken<hex:03>",0,0,0
 5543,"Stratofels-Ufer",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Stratofels-Ufer<hex:FF13>am Stratofels-Ufer<hex:FF14>das Stratofels-Ufer<hex:03>",0,0,0
 5544,"Spross-Zysternen",0,"",0,0,1,0,0,"<hex:02094BE802FF18>zu den Spross-Zysternen<hex:FF18>in den Spross-Zysternen<hex:FF15>die Spross-Zysternen<hex:03>",0,0,0
-5545,"",0,"",0,0,0,0,0,"",0,0,0
+5545,"Gold Saucer",0,"",0,0,1,0,0,"<hex:020938E802FF13>in den Gold Saucer<hex:FF0F>im Gold Saucer<hex:FF10>der Gold Saucer<hex:03>",0,0,0
 5546,"Baumesruh",0,"",0,0,1,0,0,"<hex:020934E802FF0E>zur Baumesruh<hex:FF12>auf der Baumesruh<hex:FF0E>die Baumesruh<hex:03>",0,0,0
 5547,"Prachtblüh-Gärten",0,"",0,0,1,0,0,"<hex:020954E802FF1B>zu den Prachtblüh-Gärten<hex:FF1B>in den Prachtblüh-Gärten<hex:FF18>die Prachtblüh-Gärten<hex:03>",0,0,0
 5548,"Pileus-Pergola",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Pileus-Pergola<hex:FF16>in der Pileus-Pergola<hex:FF13>die Pileus-Pergola<hex:03>",0,0,0
@@ -5573,31 +5573,31 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5568,"Blossomingways Beete",0,"",0,0,1,0,0,"<hex:02094DE802FF19>zu Blossomingways Beeten<hex:FF19>in Blossomingways Beeten<hex:FF15>Blossomingways Beete<hex:03>",0,0,0
 5569,"Wurzelturmling",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Wurzelturmling<hex:FF12>im Wurzelturmling<hex:FF13>der Wurzelturmling<hex:03>",0,0,0
 5570,"Ulthalam Allee",0,"",0,0,1,0,0,"<hex:020943E802FF13>zur Ulthalam Allee<hex:FF17>auf der Ulthalam Allee<hex:FF13>die Ulthalam Allee<hex:03>",0,0,0
-5571,"",0,"",0,0,0,0,0,"",0,0,0
-5572,"",0,"",0,0,0,0,0,"",0,0,0
-5573,"",0,"",0,0,0,0,0,"",0,0,0
-5574,"",0,"",0,0,0,0,0,"",0,0,0
-5575,"",0,"",0,0,0,0,0,"",0,0,0
-5576,"",0,"",0,0,0,0,0,"",0,0,0
-5577,"",0,"",0,0,0,0,0,"",0,0,0
-5578,"",0,"",0,0,0,0,0,"",0,0,0
-5579,"",0,"",0,0,0,0,0,"",0,0,0
-5580,"",0,"",0,0,0,0,0,"",0,0,0
-5581,"",0,"",0,0,0,0,0,"",0,0,0
-5582,"",0,"",0,0,0,0,0,"",0,0,0
-5583,"",0,"",0,0,0,0,0,"",0,0,0
-5584,"",0,"",0,0,0,0,0,"",0,0,0
-5585,"",0,"",0,0,0,0,0,"",0,0,0
-5586,"",0,"",0,0,0,0,0,"",0,0,0
-5587,"",0,"",0,0,0,0,0,"",0,0,0
-5588,"",0,"",0,0,0,0,0,"",0,0,0
-5589,"",0,"",0,0,0,0,0,"",0,0,0
-5590,"",0,"",0,0,0,0,0,"",0,0,0
-5591,"",0,"",0,0,0,0,0,"",0,0,0
-5592,"",0,"",0,0,0,0,0,"",0,0,0
-5593,"",0,"",0,0,0,0,0,"",0,0,0
-5594,"",0,"",0,0,0,0,0,"",0,0,0
-5595,"",0,"",0,0,0,0,0,"",0,0,0
+5571,"Nördliches Basislager der Expedition",0,"",0,0,1,0,0,"<hex:020982E802FF2A>zum nördlichen Basislager der Expedition<hex:FF29>im nördlichen Basislager der Expedition<hex:FF29>das nördliche Basislager der Expedition<hex:03>",0,0,0
+5572,"Versunkener Kircheneingang",0,"",0,0,1,0,0,"<hex:020963E802FF1F>zum versunkenen Kircheneingang<hex:FF20>beim versunkenen Kircheneingang<hex:FF1E>der versunkene Kircheneingang<hex:03>",0,0,0
+5573,"Schwebende Ruine",0,"",0,0,1,0,0,"<hex:02094AE802FF16>zur schwebenden Ruine<hex:FF19>in der schwebenden Ruine<hex:FF15>die schwebende Ruine<hex:03>",0,0,0
+5574,"Eingang des Verdorbenen Viertels",0,"",0,0,1,0,0,"<hex:020976E802FF25>zum Eingang des Verdorbenen Viertels<hex:FF26>beim Eingang des Verdorbenen Viertels<hex:FF25>der Eingang des Verdorbenen Viertels<hex:03>",0,0,0
+5575,"Finsterflammen-Fischerdorf",0,"",0,0,1,0,0,"<hex:020962E802FF1F>zum Finsterflammen-Fischerdorf<hex:FF1E>im Finsterflammen-Fischerdorf<hex:FF1F>das Finsterflammen-Fischerdorf<hex:03>",0,0,0
+5576,"Festung Karnak",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Festung Karnak<hex:FF16>in der Festung Karnak<hex:FF13>die Festung Karnak<hex:03>",0,0,0
+5577,"Nördliches Kreszentia",0,"",0,0,1,0,0,"<hex:02095AE802FF1B>zum nördlichen Kreszentia<hex:FF1F>auf dem nördlichen Kreszentia<hex:FF1A>das nördliche Kreszentia<hex:03>",0,0,43
+5578,"Turm der Magie",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Turm der Magie<hex:FF12>im Turm der Magie<hex:FF13>der Turm der Magie<hex:03>",0,0,0
+5579,"Festung Karnak",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Festung Karnak<hex:FF16>in der Festung Karnak<hex:FF13>die Festung Karnak<hex:03>",0,0,0
+5580,"Finsterflammen-Südufer",0,"",0,0,1,0,0,"<hex:020959E802FF1C>zum Finsterflammen-Südufer<hex:FF1B>am Finsterflammen-Südufer<hex:FF1C>das Finsterflammen-Südufer<hex:03>",0,0,0
+5581,"Finsterflammen-Nordufer",0,"",0,0,1,0,0,"<hex:020959E802FF1C>zum Finsterflammen-Nordufer<hex:FF1B>am Finsterflammen-Nordufer<hex:FF1C>das Finsterflammen-Nordufer<hex:03>",0,0,0
+5582,"Versunkene Kirche",0,"",0,0,1,0,0,"<hex:02094DE802FF17>zur versunkenen Kirche<hex:FF1A>in der versunkenen Kirche<hex:FF16>die versunkene Kirche<hex:03>",0,0,0
+5583,"Witterwald",0,"",0,0,1,0,0,"<hex:020932E802FF0F>zum Witterwald<hex:FF0E>im Witterwald<hex:FF0F>der Witterwald<hex:03>",0,0,0
+5584,"Schwebende Ruine",0,"",0,0,1,0,0,"<hex:02094AE802FF16>zur schwebenden Ruine<hex:FF19>in der schwebenden Ruine<hex:FF15>die schwebende Ruine<hex:03>",0,0,0
+5585,"Sphärenpalast",0,"",0,0,1,0,0,"<hex:02093EE802FF13>zum Sphärenpalast<hex:FF12>im Sphärenpalast<hex:FF13>der Sphärenpalast<hex:03>",0,0,0
+5586,"Verdorbenes Viertel",0,"",0,0,1,0,0,"<hex:02094CE802FF18>zum Verdorbenen Viertel<hex:FF17>im Verdorbenen Viertel<hex:FF17>das Verdorbene Viertel<hex:03>",0,0,0
+5587,"Finsterflammen-Fischerdorf",0,"",0,0,1,0,0,"<hex:020962E802FF1F>zum Finsterflammen-Fischerdorf<hex:FF1E>im Finsterflammen-Fischerdorf<hex:FF1F>das Finsterflammen-Fischerdorf<hex:03>",0,0,0
+5588,"Nichtssphäre",0,"",0,0,1,0,0,"<hex:02093FE802FF12>zur Nichtssphäre<hex:FF15>in der Nichtssphäre<hex:FF12>die Nichtssphäre<hex:03>",0,0,0
+5589,"Aussichtsturm",0,"",0,0,1,0,0,"<hex:020940E802FF12>zum Aussichtsturm<hex:FF16>auf dem Aussichtsturm<hex:FF12>der Aussichtsturm<hex:03>",0,0,0
+5590,"See Finsterflamme",0,"",0,0,1,0,0,"<hex:020947E802FF16>zum See Finsterflamme<hex:FF15>am See Finsterflamme<hex:FF16>der See Finsterflamme<hex:03>",0,0,0
+5591,"Phosphor-Kerker",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Phosphor-Kerker<hex:FF13>im Phosphor-Kerker<hex:FF14>der Phosphor-Kerker<hex:03>",0,0,0
+5592,"Nordsenke",0,"",0,0,1,0,0,"<hex:020933E802FF0E>zur Nordsenke<hex:FF11>in der Nordsenke<hex:FF0E>die Nordsenke<hex:03>",0,0,0
+5593,"Unterirdische Aushöhlung",0,"",0,0,1,0,0,"<hex:020965E802FF1F>zur unterirdischen Aushöhlung<hex:FF22>in der unterirdischen Aushöhlung<hex:FF1E>die unterirdische Aushöhlung<hex:03>",0,0,0
+5594,"Schatzkammer des Einsiedlers",0,"",0,0,1,0,0,"<hex:02096CE802FF21>zur Schatzkammer des Einsiedlers<hex:FF24>in der Schatzkammer des Einsiedlers<hex:FF21>die Schatzkammer des Einsiedlers<hex:03>",0,0,0
+5595,"Nördliches Basislager der Expedition",0,"",0,0,1,0,0,"<hex:020982E802FF2A>zum nördlichen Basislager der Expedition<hex:FF29>im nördlichen Basislager der Expedition<hex:FF29>das nördliche Basislager der Expedition<hex:03>",0,0,0
 5596,"",0,"",0,0,0,0,0,"",0,0,0
 5597,"",0,"",0,0,0,0,0,"",0,0,0
 5598,"",0,"",0,0,0,0,0,"",0,0,0
