@@ -1880,7 +1880,7 @@ Int32,UInt8,UInt8,Int32,UInt8,String,String,String
 2131,0,0,0,0,"","",""
 2132,0,0,0,0,"","",""
 2140,1,0,152321,0,"You have learned<hex:024804F201F403><hex:024904F201F503> Collect<hex:0249020103><hex:0248020103>─a special Disciple of the Land action that is used to gather an item as a <hex:024804F201F403><hex:024904F201F503>collectable<hex:0249020103><hex:0248020103>.","",""
-2141,1,0,152322,0,"While fishing under the effect of the <hex:024804F201F403><hex:024904F201F503>Collector's Glove<hex:0249020103><hex:0248020103> status, fish landed will be gathered as collectables, their size directly affecting <hex:024804F201F403><hex:024904F201F503>collectability<hex:0249020103><hex:0248020103>.","",""
+2141,1,0,152322,0,"While fishing under the effect of the <hex:024804F201F403><hex:024904F201F503>Collect<hex:0249020103><hex:0248020103> status, fish landed will be gathered as collectables, their size directly affecting <hex:024804F201F403><hex:024904F201F503>collectability<hex:0249020103><hex:0248020103>.","",""
 2150,0,0,0,0,"","",""
 2160,0,0,0,0,"","",""
 2161,0,0,0,0,"","",""

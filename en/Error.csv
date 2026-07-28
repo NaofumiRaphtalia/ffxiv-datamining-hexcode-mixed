@@ -1,5 +1,5 @@
 ﻿key,0
-#,
+#,Text
 offset,0
 Int32,String
 0,""
@@ -107,7 +107,7 @@ Int32,String
 13234,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add an Xbox license to your service account, please visit the Microsoft Store. To renew your subscription, please visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/mog-xbox)."
 13235,"This World is experiencing congestion. Visiting characters cannot log in at this time."
 13236,"Unable to successfully complete Data Center Travel request. If your character is not listed in the target Data Center, please wait a few moments before trying again."
-13237,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add <hex:02080CE4E96B64FF03>an<hex:FF02>a<hex:03> <hex:024204F201CD03> license to your service account, please visit the <hex:024204F201A503>. To renew your subscription, please visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/mog-xbox)."
+13237,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add <hex:02080CE4E96B64FF03>an<hex:FF02>a<hex:03> <hex:024204F201CD03> license to your service account, please visit the <hex:024204F201A503>. To renew your subscription, please visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/mog-switch2)."
 13300,"An error has occurred. Canceling backup."
 13301,"An error has occurred. Canceling backup."
 13302,"Unable to connect to servers. Backup functionality is offline."
