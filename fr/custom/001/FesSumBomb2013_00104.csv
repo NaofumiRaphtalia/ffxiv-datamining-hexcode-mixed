@@ -1,0 +1,21 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_1","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03><hex:021D0103>! Connaissez-vous la B.A.B., la Brigade Anti-Bombardo<hex:021D0103>? Nous sommes une unité spéciale qui combat la menace des bombardos. Voudriez-vous nous rejoindre, vous aussi<hex:021D0103>?"
+1,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_10","Notre but est de combattre les bombardos et leur chef, le roi bombardo. Nous cherchons un maximum de volontaires pour nous aider<hex:021D0103>!"
+2,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_11","Le roi bombardo est puissant et chaud comme la braise<hex:021D0103>! Les membres spéciaux de notre escadron se chargent de l'attaquer."
+3,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_12","Nous demandons aux autres de bien vouloir les assister et les protéger en dispersant les bombardos autour."
+4,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_13","Les unités spéciales B.A.B. sont si concentrées sur le roi qu'elles ont tendance à oublier de se protéger con<hex:02160103>ve<hex:02160103>na<hex:02160103>ble<hex:02160103>ment... Quel esprit de dévouement<hex:021D0103>! Aussi, nous comptons sur les aventuriers pour les défendre."
+5,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_14","Les bombardos sont attirés par les gros bombos. En utilisant ce trait à votre avantage, vous pouvez les appâter avec des bombos ballons<hex:021D0103>! N'hésitez pas à les utiliser à bon escient."
+6,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_15","Enfin, si vous trouvez des cendres vives de bombardo, amenez-les-nous<hex:021D0103>!"
+7,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_16","Si on laisse ces cendres, les bombardos arrivent à se reconstituer<hex:021D0103>! C'est fou, non<hex:021D0103>? Ils renaissent de leurs cendres, à ce qu'il paraît. Bref, si vous nous apportez des cendres, nous pourrons les neutraliser, et vous, vous aurez un petit quelque chose en échange."
+8,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_20","Donnez vos cendres au factionnaire de la B.A.B., vous pourrez les échanger contre par exemple de ravissantes tenues anti-chaleur<hex:021D0103>!"
+9,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_30","La B.A.B., alias <hex:021A020203>Brigade Anti-Bombardo<hex:021A020103> a vu le jour à la fin de la 6e ère astrale. C'est une unité d'élite chargée d'éliminer les monstres flambants."
+10,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_31","De plus, elle a fait développer des uniformes anti-chaleur d'une qualité ex<hex:02160103>cep<hex:02160103>tion<hex:02160103>nelle, idéaux pour lutter contre ces fichus bombardos. Ce n'est pas tout de défendre la justice, il faut le faire avec style<hex:021D0103>! "
+11,"TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_32","Oh, je sais que certains aventuriers ont un peu honte de porter une tenue pareille aussi voyante, mais il faut mettre de côté sa coquetterie et l'enfiler avant de se mettre au travail, pour des raisons de sécurité<hex:021D0103>! Et vous verrez, ça couvre très bien les parties vitales du corps<hex:021D0103>!"
+12,"TEXT_FESSUMBOMB2013_00104_Q1_000_1","Sur quoi vous renseignez-vous<hex:021D0103>?"
+13,"TEXT_FESSUMBOMB2013_00104_A1_000_1","L'élimination des bombardos"
+14,"TEXT_FESSUMBOMB2013_00104_A1_000_2","Les cendres vives de bombardo"
+15,"TEXT_FESSUMBOMB2013_00104_A1_000_3","Les membres de la B.A.B."
+16,"TEXT_FESSUMBOMB2013_00104_A1_000_4","Annuler"

@@ -1,0 +1,13 @@
+﻿key,0,1,2
+#,Text,ReceiveLogMessage,DiscardLogMessage
+offset,0,4,8
+Int32,String,UInt32,UInt32
+0,"",2010,3716
+1,"Für „<hex:022903EA0203>“",0,0
+2,"(Schatz<hex:02160103>suche)",0,0
+3,"",0,0
+4,"Hohe Jagd",0,0
+5,"",0,3716
+6,"",0,3716
+7,"",2010,3716
+8,"",0,0

@@ -1,0 +1,6 @@
+﻿key,0,1,2,3,4
+#,,Name,PlanetImage,Backdrop,Blurb
+offset,16,4,8,12,0
+Int32,UInt8,UInt32,UInt32,UInt32,String
+0,0,0,0,0,""
+1,0,0,0,0,""

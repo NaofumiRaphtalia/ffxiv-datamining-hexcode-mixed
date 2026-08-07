@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_010","Vous pouvez maintenant utiliser les éthérites cosmiques<hex:021D0103>!"
+1,"TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_020","Il vous suffit de toucher l'une des éthérites du réseau pour vous déplacer instantanément d'un point à l'autre de la zone d'exploration cosmique."

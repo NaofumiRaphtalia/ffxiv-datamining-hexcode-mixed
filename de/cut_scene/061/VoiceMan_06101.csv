@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_VOICEMAN_06101_000010_NALDTHAL","Ich bin Nald, Gott des Lebens!"
+1,"TEXT_VOICEMAN_06101_000020_NALDTHAL","Ich bin Thal ... Gott des Todes."
+2,"TEXT_VOICEMAN_06101_000025_NALDTHAL","Dies ist eine Probe Eures Könnens."
+3,"TEXT_VOICEMAN_06101_000030_NALDTHAL","Sterbliche ... Ihr habt bestanden."
+4,"TEXT_VOICEMAN_06101_000040_ENDSINGER_NONE_VOICE","<hex:021A020203>Hoffnung<hex:021A020103>? Habt ihr denn immer noch nicht verstanden?<hex:02100103>Kein Licht dringt durch die Schwärze dieser Ver<hex:02160103>zweif<hex:02160103>lung!"

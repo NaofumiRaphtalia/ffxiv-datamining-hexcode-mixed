@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_VOICEMAN_05006_000001_OLDTITANIA","Qui est-ce...<hex:021D0103>? Êtes-vous là... pour me sortir de ce château ennuyeux...<hex:021D0103>?"
+1,"TEXT_VOICEMAN_05006_000002_OLDTITANIA","Je veux jouer... Jouer et manger... J'ai si faim...<hex:02100103>Approchez... que je me rassasie..."
+2,"TEXT_VOICEMAN_05006_000003_OLDTITANIA","Vous n'êtes pas là pour me libérer...<hex:021D0103>? Alors restez avec moi<hex:021D0103>!<hex:02100103>Nous jouerons ensemble... jusqu'à la fin des temps<hex:021D0103>!"
+3,"TEXT_VOICEMAN_05006_000010_OLDTITANIA","Non... Je ne peux plus danser..."
+4,"TEXT_VOICEMAN_05006_000110_VAUTHRY","Abandonnez votre rébellion de pacotille... Prosternez-vous devant votre roi, votre dieu<hex:021D0103>!"
+5,"TEXT_VOICEMAN_05006_000120_VAUTHRY","Impossible... Je suis... tout-puissant..."
+6,"TEXT_VOICEMAN_05006_000210_EMETSELCH","Venez<hex:021D0103>! Il est temps de tomber les masques... et de nous affronter sous notre véritable jour<hex:021D0103>!"
+7,"TEXT_VOICEMAN_05006_000220_EMETSELCH","Le monde est à nous... et à personne d'autre...<hex:021D0103>!"

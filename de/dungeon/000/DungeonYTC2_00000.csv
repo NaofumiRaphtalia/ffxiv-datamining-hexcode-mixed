@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_DUNGEONYTC2_00000_2B_000_000","Überprüfe 2Ps Systemparameter<hex:021D0103>..."
+1,"TEXT_DUNGEONYTC2_00000_2B_000_001","Moment<hex:021D0103>... Was hat das zu bedeuten?!"

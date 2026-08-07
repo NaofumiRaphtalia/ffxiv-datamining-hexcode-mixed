@@ -1,0 +1,12 @@
+﻿key,0
+#,Permission
+offset,0
+Int32,String
+0,""
+1,"Ajout/Retrait/Déplacement/Teinture"
+2,"Culture du potager/pots de fleurs"
+3,"Récolte des cultures"
+4,"Suppression des cultures"
+5,"Mise en pension du chocobo"
+6,"Utilisation de l'orchestrion"
+7,"Gestion des livres de correspondance"

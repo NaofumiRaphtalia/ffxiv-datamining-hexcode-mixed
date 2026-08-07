@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR_02","Vous voulez faire oublier une aptitude à <hex:022903EA0203><hex:021D0103>?"
+1,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_Q1","Voulez-vous que <hex:022903EA0203> oublie “<hex:022818FF13>ChocoboRaceAbility<hex:E8030103>”<hex:021D0103>?<hex:02100103>* <hex:022B13FF11><hex:02330DFF05>Item<hex:02F226AB020203><hex:03> sera utilisée."
+2,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A1","Oui"
+3,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A2","Non"
+4,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_DONE","... Et voilà, c'est fait<hex:021D0103>!"
+5,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR","Vous voulez faire oublier une aptitude ou un trait à votre animal<hex:021D0103>?"
+6,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_01","Tiens<hex:021D0103>? On dirait que vous n'avez pas de chocobo de course..."
+7,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_02","Seul un animal enregistré comme chocobo de course peut oublier une aptitude."
+8,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_01","Hum<hex:021D0103>! Vous n'avez pas <hex:02330DFF05>Item<hex:09F226AB020203>, on dirait<hex:021D0103>!"
+9,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_02","Il vous faut de l'eau du Léthé pour faire oublier une aptitude à votre animal. Vous pouvez vous en procurer auprès de la marchande d'objets pour chocobos."
+10,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_01","... Hum, votre chocobo n'a pas d'aptitude à oublier, on dirait."
+11,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_02","Un chocobo de course peut uniquement oublier une aptitude acquise. L'aptitude innée, s'il en possède une, ne peut être oubliée."

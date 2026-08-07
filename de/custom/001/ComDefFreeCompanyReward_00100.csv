@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001","Willkommen. Ich bin vo<hex:02094EE802FF1C>n der Verwaltungsoffizierin<hex:FF16>m Verwaltungsoffizier<hex:FF16>m Verwaltungsoffizier<hex:03> <hex:020953E802FF0F>des Mahlstroms<hex:FF21>der Bruderschaft der Morgenviper<hex:FF1D>der Legion der Unsterblichen<hex:03> beauftragt, die mit uns affiliierten Freien Ge<hex:02160103>sell<hex:02160103>schaften im Tausch gegen Ge<hex:02160103>sell<hex:02160103>schaftstaler mit verschiedenen Stärkungen und Verbesserungen auszustatten."
+1,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q","Was möchtest du tun?"
+2,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1","Mit Ge<hex:02160103>sell<hex:02160103>schaftstalern Ge<hex:02160103>sell<hex:02160103>schaftskommandos erwerben"
+3,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_FCC_SHOP","Mit Ge<hex:02160103>sell<hex:02160103>schaftstalern Gegenstände erwerben"
+4,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A2","Mehr über Ge<hex:02160103>sell<hex:02160103>schaftstaler erfahren"
+5,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A3","Nichts"
+6,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_010","Ge<hex:02160103>sell<hex:02160103>schaftstaler? Das ist die Währung, die Freie Ge<hex:02160103>sell<hex:02160103>schaften statt Gil oder Staatstalern benutzen. "
+7,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_011","Sie werden angehäuft, wenn ihre Mitglieder verschiedenste Aufgaben im Namen der Freien Ge<hex:02160103>sell<hex:02160103>schaft erfüllen."
+8,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_012","Diese Währung kann dann bei dem Quartiermeister für Freie Ge<hex:02160103>sell<hex:02160103>schaften der affiliierten Staatlichen Ge<hex:02160103>sell<hex:02160103>schaft eingetauscht werden, um verschiedene hilfreiche Effekte und Gegenstände zu erhalten."
+9,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_013","Der Tausch ist nur möglich, wenn die Freie Ge<hex:02160103>sell<hex:02160103>schaft ihren Rang erhöht und damit das Recht zum Erwerben dieser sogenannten Ge<hex:02160103>sell<hex:02160103>schaftskommandos erlangt."
+10,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_014","Außerdem muss dir der Anführer der Ge<hex:02160103>sell<hex:02160103>schaft das Recht gegeben haben, Ge<hex:02160103>sell<hex:02160103>schaftstaler zu verwenden."
+11,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR1","Bist du noch nicht Mitglied einer Freien Ge<hex:02160103>sell<hex:02160103>schaft? Das solltest du aber in Erwägung ziehen, denn die Vorteile sind beachtlich."
+12,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR2","（★未使用／削除予定★）"
+13,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR3","Ich bin nur für die Freien Ge<hex:02160103>sell<hex:02160103>schaften zuständig, die auch mit uns affiliiert sind. Bitte wende dich an den zuständigen Verwaltungsoffizier deiner Staatlichen Ge<hex:02160103>sell<hex:02160103>schaft. Er kann dir die Stärkungseffekte verschaffen, an denen du interessiert bist. "

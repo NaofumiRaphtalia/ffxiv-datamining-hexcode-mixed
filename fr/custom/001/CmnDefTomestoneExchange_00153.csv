@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP","Des <hex:02330CFF05>Item<hex:0DE802030203>, vous dites<hex:021D0103>? Rowena ne les prend plus, ça ne se vendait pas. Mais vous savez, dans ce métier, on trouve vite un autre filon<hex:021D0103>!"
+1,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE","Si vous vouliez, je pourrais vous les échanger contre des <hex:02330CFF05>Item<hex:0DE803030203>... Mais vous n'avez pas <hex:02330CFF05>Item<hex:09E802030203>, alors ça ne vous servira pas..."
+2,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q","Si vous voulez, je peux prendre vos <hex:02330CFF05>Item<hex:0DE802030203> et vous donner des <hex:02330CFF05>Item<hex:0DE804030203> en échange. Alors<hex:021D0103>?"
+3,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q","Échanger <hex:022209E803FF05021D010303> <hex:02330DFF05>Item<hex:0DE802E8030203> contre <hex:022209E805FF05021D010303> <hex:02330DFF05>Item<hex:0DE804E8050203><hex:021D0103>?"
+4,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES","Échanger"
+5,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO","Annuler"

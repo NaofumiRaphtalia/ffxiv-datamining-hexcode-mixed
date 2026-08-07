@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000","Hé, <hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>bonsoir<hex:FF08>bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>bonjour<hex:FF08>bonsoir<hex:03><hex:03><hex:021D0103>! Oh, mais je constate que tu es un<hex:020808E905FF02>e<hex:FF01><hex:03> voyageu<hex:02080AE905FF03>se<hex:FF02>r<hex:03><hex:021D0103>! J'ai d'abord cru que tu étais un<hex:020808E905FF02>e<hex:FF01><hex:03> marchand<hex:020808E905FF02>e<hex:FF01><hex:03>. En tout cas, sois <hex:02081EE905FF0D>la bienvenue<hex:FF0C>le bienvenu<hex:03> à Luwateninyawawsa<hex:021D0103>!"
+1,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001","Que peuvent bien être ces choses semblables à d'énormes oiseaux noirs<hex:021D0103>? Sois vigilant<hex:020808E905FF02>e<hex:FF01><hex:03>, <hex:020818E905FF0A>voyageuse<hex:FF09>voyageur<hex:03>."
+2,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002","Je suis rassuré que ces horribles oiseaux noirs aient disparu du ciel. Mais dis-moi, se pourrait-il que tu voyages parce que ces terres ne sont plus menacées<hex:021D0103>? En tout cas, sois <hex:02081EE905FF0D>la bienvenue<hex:FF0C>le bienvenu<hex:03> à Luwateninyawawsa<hex:021D0103>!"
+3,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003","Sois <hex:02081EE905FF0D>la bienvenue<hex:FF0C>le bienvenu<hex:03> à Luwateninyawawsa<hex:021D0103>! Nous accueillons à bras ouverts les voyageurs comme toi, ici. À propos, as-tu des questions au sujet de ce village<hex:021D0103>?"
+4,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000","Que voulez-vous savoir<hex:021D0103>?"
+5,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001","Qui êtes-vous<hex:021D0103>?"
+6,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002","Quel est cet endroit<hex:021D0103>?"
+7,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003","Annuler"
+8,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004","Je fabrique des objets artisanaux qui sont ensuite utilisés par les gens un peu partout sur le continent. Nous autres Tonawawta sommes un peuple qui pratique l'agriculture et la chasse, mais nous vendons aussi des articles traditionnels aux marchands qui nous rendent visite."
+9,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005","Certains d'entre eux essaient parfois de profiter du fait que notre tribu a longtemps pratiqué le troc pour acheter nos produits à bas prix. Il faut dire qu'il y en a parmi nous qui ne comprennent pas bien la valeur de l'argent."
+10,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006","Luwateninyawawsa est un village tonawawta. En langue commune, ce nom signifie “ciel où volent les faucons”."
+11,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007","Les maisons ici sont bâties avec des briques en argile appelées “adobes”. Certaines sont là depuis près de cent ans."
+12,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008","Bien que le soleil tape fort dans cette région aride, l'intérieur de nos habitations reste frais à chaque moment de la journée. Tout ceci, nous le devons à la sagesse et au savoir-faire de nos ancêtres, qui ont su exploiter au mieux cet environnement."
+13,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009","Toutefois, on compte de plus en plus de personnes qui quittent Luwateninyawawsa afin de prendre part aux activités d'extraction du céruleum. En tout cas, n'hésite pas à visiter le village si notre mode de vie t'intéresse."

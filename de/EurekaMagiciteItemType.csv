@@ -1,0 +1,11 @@
+﻿key,0
+#,Type
+offset,0
+Int32,String
+0,""
+1,"Angreifer"
+2,"Verteidiger"
+3,"Heiler"
+4,"Späher"
+5,"Störer"
+6,"Unterstützer"

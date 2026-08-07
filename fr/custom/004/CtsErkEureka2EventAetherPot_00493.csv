@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000","Une inscription est gravée sur cet étrange dispositif<hex:021D0103>: “<hex:022B14FF12><hex:02330EFF05>EObj<hex:0DF61EA9D3020203><hex:03>”. Vous avez l'impression qu'il est en état de marche, reste à comprendre son utilité..."
+1,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010","Une inscription est gravée sur cet étrange dispositif<hex:021D0103>: “<hex:022B14FF12><hex:02330EFF05>EObj<hex:0DF61EA9D3020203><hex:03>”... C'est la machine dont parlait Gerolt<hex:021D0103>! Vous devriez pouvoir l'utiliser pour transformer l'éther composite en cristaux."
+2,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT","Transformer l'éther composite accumulé en cristaux<hex:021D0103>?"
+3,"TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_TALK_ACTOR",""

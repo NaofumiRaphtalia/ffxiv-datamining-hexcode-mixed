@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,Name
+offset,4,0
+Int32,Int32,String
+0,0,""
+1,0,"Personnage"
+2,0,"Missions"
+3,0,"Carnets"
+4,0,"Déplacements"
+5,0,"Équipe"
+6,0,"Communication"
+7,0,"Système"

@@ -1,0 +1,28 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,,,,,,,,,,,
+offset,4,9,5,10,6,11,7,12,8,13,0
+Int32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,String
+0,0,0,0,0,0,0,0,0,0,0,""
+1,10,100,10,100,15,100,15,100,20,100,"Kraft +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+2,10,100,10,100,15,100,15,100,20,100,"Moral +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+3,10,100,10,100,15,100,15,100,20,100,"Taktik +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+4,3,100,3,100,3,100,3,100,5,100,"Kraft (alle) +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+5,3,100,3,100,3,100,3,100,5,100,"Moral (alle) +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+6,3,100,3,100,3,100,3,100,5,100,"Taktik (alle) +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+7,10,100,10,100,20,100,20,100,30,100,"Routine +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+8,5,100,5,100,10,100,10,100,15,100,"Routine (alle) +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+9,10,100,20,100,30,100,40,100,50,100,"Kameradenbonus erhalten (alle) +<hex:021D0103><hex:022003E80203><hex:021D0103>%"
+10,0,10,0,20,0,30,0,40,0,50,"Fundchance für „Ausbildungs<hex:02160103>buch: Verteidiger“ <hex:022003E80203><hex:021D0103>%"
+11,0,10,0,20,0,30,0,40,0,50,"Fundchance für „Ausbildungs<hex:02160103>buch: Magier“ <hex:022003E80203><hex:021D0103>%"
+12,0,10,0,20,0,30,0,40,0,50,"Fundchance für „Ausbildungs<hex:02160103>buch: Angreifer“ <hex:022003E80203><hex:021D0103>%"
+13,0,10,0,20,0,30,0,40,0,50,"Fundchance für Gil <hex:022003E80203><hex:021D0103>%"
+14,0,10,0,20,0,30,0,40,0,50,"Fundchance für Staatstaler <hex:022003E80203><hex:021D0103>%"
+15,0,10,0,20,0,30,0,40,0,50,"Fundchance für MGP <hex:022003E80203><hex:021D0103>%"
+16,0,10,0,20,0,30,0,40,0,50,"Fundchance für Verteidiger-Materia <hex:022003E80203><hex:021D0103>%"
+17,0,10,0,20,0,30,0,40,0,50,"Fundchance für Physischer-Angreifer-Materia <hex:022003E80203><hex:021D0103>%"
+18,0,10,0,20,0,30,0,40,0,50,"Fundchance für Magier-Materia <hex:022003E80203><hex:021D0103>%"
+19,0,10,0,20,0,30,0,40,0,50,"Fundchance für Sammler-Materia <hex:022003E80203><hex:021D0103>%"
+20,0,10,0,20,0,30,0,40,0,50,"Fundchance für Handwerker-Materia <hex:022003E80203><hex:021D0103>%"
+21,0,10,0,20,0,30,0,40,0,50,"Fundchance für Polykristalle <hex:022003E80203><hex:021D0103>%"
+22,0,10,0,20,0,30,0,40,0,50,"Fundchance für Sammlerscheine <hex:022003E80203><hex:021D0103>%"
+23,0,10,0,20,0,30,0,40,0,50,"Fundchance für Handwerkerscheine <hex:022003E80203><hex:021D0103>%"

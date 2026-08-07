@@ -1,0 +1,10 @@
+﻿key,0,1,2,3
+#,,,Icon,Name
+offset,10,8,4,0
+Int32,PackedBool0,UInt16,UInt32,String
+0,False,0,0,""
+1,False,0,0,""
+2,False,0,0,""
+3,False,0,0,""
+4,False,0,0,""
+5,False,0,0,""

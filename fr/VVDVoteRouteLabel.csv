@@ -1,0 +1,14 @@
+﻿key,0
+#,Text
+offset,0
+Int32,String
+0,""
+1,"Un choix s'offre à vous... Quel chemin emprunter ?"
+2,"Peu importe !"
+3,"À gauche, vers les quartiers résidentiels"
+4,"À droite, vers le marché"
+5,"Au milieu, vers la Grande Porte"
+6,"La chambre du Feu dormant (Pari)"
+7,"Le théâtre de la Sirène (Darya)"
+8,"Le Fil de la Lame (Maître d'armes)"
+9,"Où souhaitez-vous aller ?"

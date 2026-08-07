@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_000","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03>, <hex:020818E905FF0A>voyageuse<hex:FF09>voyageur<hex:03>. Vous vous trouvez à L'Hortorium, là où sont menées les recherches sur les engrais et terreaux nécessaires à la production agricole de la cité."
+1,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_010","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:021D0103>! J'espère que Qeshi-Rae ne vous a pas causé d'ennuis depuis la dernière fois..."
+2,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_020","Je reconnais que c'est assez passionnant de mener des recherches sur des espèces inconnues... mais ce n'est pas pour autant que je vais négliger mon travail de tous les jours, contrairement à une certaine Qeshi-Rae<hex:021D0103>!"
+3,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_030","Mao qui cherche à défendre l'honneur de notre responsable.... Quelle idée<hex:021D0103>! Enfin, je suis contente qu'on ait pu le ramener en un morceau."
+4,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_031","Vraiment... Entre lui et Qeshi-Rae, il n'y en a pas un pour rattraper l'autre<hex:021D0103>! À croire que les simouns passent avant leur sécurité... De vraies têtes brûlées, je vous jure<hex:021D0103>!"
+5,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_040","Oh, <hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>bonsoir<hex:FF08>bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>bonjour<hex:FF08>bonsoir<hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Vous serez <hex:020810E905FF06>ravie<hex:FF05>ravi<hex:03> d'apprendre que les recherches sur les simouns avancent à bon rythme. L'autre jour, à Kholusia, on a découvert des bouts de coquilles provenant de leurs œufs<hex:021D0103>!"

@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q","Que voulez-vous faire<hex:021D0103>?"
+1,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL","Annuler"
+2,"TEXT_CMNDEFTOMESTONECONVERT_00391_HELP","Des <hex:02330CFF05>Item<hex:0DE802030203>, vous dites<hex:021D0103>? Rowena ne les prend plus, ça ne se vendait pas. Mais vous savez, dans ce métier, on trouve vite un autre filon<hex:021D0103>!"
+3,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE","Si vous vouliez, je pourrais vous les échanger contre des <hex:02330CFF05>Item<hex:0DE803030203>... Mais vous n'avez pas <hex:02330CFF05>Item<hex:09E802030203>, alors ça ne vous servira pas..."
+4,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q","Si vous voulez, je peux prendre vos <hex:02330CFF05>Item<hex:0DE802030203> et vous donner des <hex:02330CFF05>Item<hex:0DE804030203> en échange. Alors<hex:021D0103>?"
+5,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q","Échanger <hex:022209E803FF05021D010303> <hex:02330DFF05>Item<hex:0DE802E8030203> contre <hex:022209E805FF05021D010303> <hex:02330DFF05>Item<hex:0DE804E8050203><hex:021D0103>?"
+6,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES","Échanger"
+7,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO","Annuler"
+8,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET","Oh<hex:021D0103>? J'ai l'impression que vous avez déjà suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment <hex:02330CFF05>Item<hex:09E802030203>..."
+9,"TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q","<hex:024804F201FC03><hex:024904F201FD03>Attention<hex:021D0103>: tous les <hex:02330CFF05>Item<hex:0DE802030203> au-delà de la limite ne pourront pas être obtenu<hex:020815FF0E><hex:02280AFF05>Item<hex:E8020703><hex:FF02>e<hex:FF01><hex:03>s.<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103> Confirmer l'échange<hex:021D0103>?"

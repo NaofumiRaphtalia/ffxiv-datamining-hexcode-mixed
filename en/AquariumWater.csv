@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,Name
+offset,4,0
+Int32,UInt8,String
+0,0,"nothing"
+1,1,"Freshwater"
+2,2,"Saltwater"

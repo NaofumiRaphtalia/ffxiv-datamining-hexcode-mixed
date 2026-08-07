@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFBEASTCURRENCYGUIDE_00444_SYSTEM_000_010","Les chèques pour monnaies des peuples alliés (inventaire) doivent être <hex:024804F201FA03><hex:024904F201FB03>monétisés<hex:0249020103><hex:0248020103> auprès d'un PNJ “consigneur” ou des vendeurs des différents peuples pour servir lors des diverses transactions."
+1,"TEXT_CMNDEFBEASTCURRENCYGUIDE_00444_SYSTEM_000_011","Après monétisation, le nombre possédé peut être vérifié dans la fenêtre <hex:024804F201FA03><hex:024904F201FB03>Devises<hex:0249020103><hex:0248020103>, depuis le menu <hex:024804F201FA03><hex:024904F201FB03>Personnage<hex:0249020103><hex:0248020103>."

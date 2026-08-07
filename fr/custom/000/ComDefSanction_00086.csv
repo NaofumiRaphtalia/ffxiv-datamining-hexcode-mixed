@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001","Je suis le mage-ingénieur <hex:02093EE802FF0D>du Maelstrom<hex:FF1D>de l'ordre des Deux Vipères<hex:FF0E>des Immortels<hex:03> chargé d'octroyer la sanction aux membres de notre grande compagnie. Comme vous n'êtes pas un<hex:020808E905FF02>e<hex:FF01><hex:03> des nôtres, vous ne pouvez pas bénéficier de ce service."
+1,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006","Je suis le mage-ingénieur <hex:02093EE802FF0D>du Maelstrom<hex:FF1D>de l'ordre des Deux Vipères<hex:FF0E>des Immortels<hex:03> chargé d'octroyer la sanction aux membres de notre grande compagnie ayant au moins le grade de major <hex:02092AE802FF0E>des tempêtes<hex:FF0B>du serpent<hex:FF0B>des sables<hex:03>. Que puis-je faire pour vous<hex:021D0103>?"
+2,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00","Que voulez-vous faire<hex:021D0103>?"
+3,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01","Se faire octroyer la sanction"
+4,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02","En savoir plus sur la sanction"
+5,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03","Annuler"
+6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","Ô Byregot l'Artisan<hex:021D0103>! Accorde ta divine protection à ce<hex:02080AE905FF04>tte<hex:FF01><hex:03> brave combattant<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>!"
+7,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012","Voilà, la sanction de notre grande compagnie vous a été octroyée. Puisse-t-elle vous mener à la victoire et à la gloire<hex:021D0103>!"
+8,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016","Désireux de fournir la meilleure protection à nos troupes, les plus grands cerveaux <hex:02093EE802FF0D>du Maelstrom<hex:FF1D>de l'ordre des Deux Vipères<hex:FF0E>des Immortels<hex:03> et de l'Alliance éorzéenne ont con<hex:02160103>join<hex:02160103>te<hex:02160103>ment mis au point une méthode avancée de renforcement des équipements."
+9,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017","C'est ce que nous appelons la “sanction”, un procédé qui fait appel à un sort améliorant les armes et armures ayant été forgées pour recevoir de tels enchantements."
+10,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018","Notre grande compagnie a récemment ordonné qu'il soit fabriqué plus de ces pièces d'équipement. Les soldats ayant au moins le grade de <hex:02093CE802FF14>major des tempêtes<hex:FF11>major du serpent<hex:FF11>major des sables<hex:03> peuvent s'en procurer ici même en échange de sceaux <hex:020923E802FF0A>limséens<hex:FF0B>gridaniens<hex:FF08>uldiens<hex:03>."

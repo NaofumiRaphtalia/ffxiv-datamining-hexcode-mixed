@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000","<hex:02083DE3E90C0DFF1B><hex:020817E3E90C05FF08>Bonsoir<hex:FF08>Bonjour<hex:03><hex:FF1B><hex:020817E3E90C12FF08>Bonjour<hex:FF08>Bonsoir<hex:03><hex:03>, je suis un disciple du saint. Encore une fois, le temps de la fête des étoiles est venu<hex:021D0103>! Si vous voulez tout savoir, n'hésitez pas à vous adresser à Amh Garanjy, à Gridania. C'est elle qui se charge de l'or<hex:02160103>ga<hex:02160103>ni<hex:02160103>sa<hex:02160103>tion des divertissements<hex:021D0103>!"
+1,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010","Vous cherchez <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03><hex:021D0103>? Ne vous en faites pas, il a su retrouver son chemin jusqu'ici. Je vais l'appeler tout de suite. Comme ça, vous pourrez retourner régler leur compte à ces tréants de malheur. Bonne chance<hex:021D0103>!"
+2,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020","J'ai aperçu quelques tréants hauts en couleur qui vous avaient échappé. Je peux appeler <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03> à tout moment, si vous vous sentez prêt<hex:020808E905FF02>e<hex:FF01><hex:03> à en assommer encore quelques-uns. Plus nous récupérerons nos décorations volées, plus les enfants auront le sourire<hex:021D0103>!"
+3,"TEXT_FESXMS2017MOUNT_00439_Q1_000_000","Voulez-vous chevaucher <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03><hex:021D0103>?"
+4,"TEXT_FESXMS2017MOUNT_00439_TALK_ACTOR","（★未使用／削除予定★）"
+5,"TEXT_FESXMS2017MOUNT_00439_A1_000_001","（★未使用／削除予定★）"
+6,"TEXT_FESXMS2017MOUNT_00439_A1_000_002","（★未使用／削除予定★）"

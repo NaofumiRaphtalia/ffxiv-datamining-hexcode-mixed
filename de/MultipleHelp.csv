@@ -1,0 +1,11 @@
+﻿key,0,1,2
+#,,,
+offset,8,0,4
+Int32,UInt16,String,String
+0,0,"",""
+1,0,"",""
+2,2,"HILFE FÜR RAID-SUCHE",""
+3,3,"HILFE FÜR INHALTSSUCHE",""
+4,4,"HILFE FÜR GEWÖLBESUCHE",""
+5,5,"HILFE FÜR GRUPPENINFO",""
+6,6,"HILFE FÜR KOMMANDOTAFEL",""

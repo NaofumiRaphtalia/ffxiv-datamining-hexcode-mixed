@@ -1,0 +1,23 @@
+﻿key,0,1
+#,,
+offset,0,4
+Int32,String,String
+0,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_000","Die Seelenkraft in deinen Atma-Waffen kann ich zu voller Wirkung entfalten, <hex:020810E905FF06>Erbin<hex:FF05>Erbe<hex:03> der Zodiak-Streiter. Wie kann ich dir heute helfen?"
+1,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_MENU_TITLE","Welche Atma-Waffe möchtest du verstärken?"
+2,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_MENU_CHOICES","<hex:022B10FF0E><hex:02280AFF05>Item<hex:E8020A03><hex:03> verstärken"
+3,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_MENU_CANCEL","Keine"
+4,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_YESNO_MESSAGE","<hex:022B13FF11><hex:02320DFF05>Item<hex:03E80202050203><hex:03> verstärken?"
+5,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_YESNO_YES","Ja"
+6,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_YESNO_NO","Nein"
+7,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_030","Ähem, die Waffe kann ich natürlich nur verstärken, wenn du sie in deinem Besitz hast und aus der Hand legst, <hex:02081DE905FF0C>meine Liebe<hex:FF0C>mein Lieber<hex:03>. Komm doch noch einmal wieder, wenn du die Waffe zum Tausch bereit gemacht hast."
+8,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_000_035","Damit Jalzahn eine Atma-Waffe für dich verstärken kann, musst du alle neun Ephemeridentafeln dieser Waffe vervollständigen."
+9,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_100_035","Lege die Waffe dann in dein Arsenal oder dein Inventar und kehre zu Jalzahn zurück."
+10,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_040","Es tut mir aufrichtig leid, aber dieser Waffe wohnt noch nicht genug Seelenenergie inne. Studiere die Ephemeridentafeln ausgiebig und wandle auf den Spuren der Zodiak-Streiter, <hex:020831E905FF17>meine tapfere Freundin<hex:FF15>mein tapferer Freund<hex:03>!"
+11,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_100_040","（★未使用／削除予定★）"
+12,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_050","Wenn ich eine weitere Atma-Waffe für dich verstärken soll, musst du auch für diese die passenden Ephemeridentafeln erwerben und vervollständigen. Wandle auf den Spuren der Zodiak-Streiter, <hex:020831E905FF17>meine wackere Freundin<hex:FF15>mein wackerer Freund<hex:03>!"
+13,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_000_051","Wenn du eine weitere Atma-Waffe verstärken möchtest, musst du die dafür passenden neun Ephemeridentafeln erwerben und vervollständigen. Kehre dann zu Jalzahn zurück."
+14,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_060","Wie wandelt es sich auf den Spuren der Zodiak-Streiter, <hex:02081CE905FF0B>meine Gute<hex:FF0C>mein Freund<hex:03>? Studiere die Ephemeridentafeln und besiege die Gegner, die auf ihnen verzeichnet sind. Auf diese Weise solltest du deine Atma-Waffe mit Seelenenergie füllen können. Komme zurück zu mir, wenn du alle Tafeln für eine Waffe vervollständigt hast."
+15,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_100","Du hast es tatsächlich vollbracht! Diese Atma-Waffe pulsiert vor Seelenkraft. Ich habe Hochachtung vor deiner Beharrlichkeit."
+16,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_101","Und diese Kraft ist es, die ich nun erwecken werde! Wohne dem geschichtsträchtigen Augenblick bei, der die Geburt einer neuen Waffe markiert!"
+17,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_102","Was für ein herrliches Leuchten! Herzlichen Glückwunsch, <hex:02081DE905FF0C>meine Liebe<hex:FF0C>mein Lieber<hex:03>! Du bist nun <hex:020828E905FF12>stolze Besitzerin<hex:FF11>stolzer Besitzer<hex:03> <hex:02320DFF05>Item<hex:03E80202030203>!"
+18,"TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_100_051","Deine Atma-Waffe wurde zu einer Animus-Waffe verstärkt!"
