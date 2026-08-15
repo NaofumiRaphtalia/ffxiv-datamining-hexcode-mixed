@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,Text,
+#,Text,Description
 offset,0,4
 Int32,String,String
 0,"Slay a Turali ratel",""
