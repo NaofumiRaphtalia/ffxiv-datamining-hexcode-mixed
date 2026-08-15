@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,Text,
+#,Text,Description
 offset,0,4
 Int32,String,String
 0,"Abattre 1 <hex:023311FF09>BNpcName<hex:0DF23321020203>",""
