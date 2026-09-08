@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # 配置
-REPO_DIR = os.getcwd()
+REPO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 LANG_GROUPS = ["chs", "de", "en", "fr", "ja"]
 OTHER_LANGS = [
     {"name": "ko", "default": "7.35"},
