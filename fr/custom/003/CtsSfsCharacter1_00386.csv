@@ -61,7 +61,7 @@ Int32,String,String
 56,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_100_005","（★未使用／削除予定★）"
 57,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_006","（★未使用／削除予定★）"
 58,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_007","（★未使用／削除予定★）"
-59,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_000","依頼品を納品したことで、<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>は、あなたのことを信頼し始めました。"
+59,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_000","Plus vous livrerez de commandes spéciales à Zhloe, plus elle sera satisfaite de vos services."
 60,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_001","Lorsque la jauge de sa<hex:02160103>tis<hex:02160103>fac<hex:02160103>tion sera pleine, votre rang augmentera et Zhloe vous proposera de nouveaux contrats."
 61,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_002","Attention cependant, car vous ne pourrez lui remettre que 6 objets par semaine. N'hésitez pas à atteindre cette limite, si vous voulez voir votre rang de sa<hex:02160103>tis<hex:02160103>fac<hex:02160103>tion augmenter le plus vite possible."
 62,"TEXT_CTSSFSCHARACTER1_00386_WEEKLYLIMIT_000_000","Vous ne pouvez pas remettre plus d'objets à Zhloe cette semaine.<hex:02100103>La limite hebdomadaire est réinitialisée tous les <hex:020603120303><hex:020944DDFF0A>dimanches<hex:FF07>lundis<hex:FF07>mardis<hex:FF0A>mercredis<hex:FF07>jeudis<hex:FF0A>vendredis<hex:FF08>samedis<hex:03> à <hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>h (temps réel)."

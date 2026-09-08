@@ -4,7 +4,7 @@ offset,0,4
 Int32,String,String
 0,"TEXT_KINGKD107_05517_SEQ_00","Ketenramm est prêt à se retrousser les manches."
 1,"TEXT_KINGKD107_05517_SEQ_01","Pour trouver un moyen d'accéder à la Tour fourchue de la Magie, Ketenramm espère que ses hommes auront de nouvelles in<hex:02160103>for<hex:02160103>ma<hex:02160103>tions au sujet des flux éthérés de la région. Rendez-vous au camp de base nord et parlez au vieil explorateur."
-2,"TEXT_KINGKD107_05517_SEQ_02","D'après Ketenramm, certaines créatures du nord de Lunule dégageraient une énergie si puissante qu'elle déséquilibrerait les flux éthérés de la région. Afin de restaurer l'accès à la Tour fourchue de la Magie, vous devez les abattre.<hex:02100103><hex:02100103>Remportez les confrontations critiques suivantes<hex:021D0103>:<hex:02100103>- “Défi<hex:021D0103>: les dérives du clonage”<hex:02100103>- “Défi<hex:021D0103>: l'homme à albâtre”<hex:02100103>- “Défi<hex:021D0103>: le visage pâle”"
+2,"TEXT_KINGKD107_05517_SEQ_02","D'après Ketenramm, certaines créatures du nord de Lunule dégageraient une énergie si puissante qu'elle déséquilibrerait les flux éthérés de la région. Afin de restaurer l'accès à la Tour fourchue de la Magie, vous devez les abattre.<hex:02100103><hex:02100103>Remportez les confrontations critiques suivantes<hex:021D0103>:<hex:02100103>- “Défi<hex:021D0103>: les dérives du clonage”<hex:02100103>- “Défi<hex:021D0103>: l'homme à albâtre”<hex:02100103>- “Défi<hex:021D0103>: vert de rancœur”"
 3,"TEXT_KINGKD107_05517_SEQ_03","Vous avez mis hors d'état de nuire les trois monstres désignés par Ketenramm. Allez lui annoncer la nouvelle, au camp de base nord."
 4,"TEXT_KINGKD107_05517_SEQ_04","Après avoir appris votre victoire, Ketenramm vous a proposé d'aller en constater les effets sans perdre de temps. Rendez-vous au pavillon solitaire et examinez <hex:02330EFF05>EObj<hex:03F61EC0DA020203> à proximité."
 5,"TEXT_KINGKD107_05517_SEQ_05","Grâce à vos efforts, les flux éthérés environnants semblent s'être intensifiés, mais toujours pas suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment pour restaurer le système de téléportation. Ketenramm s'est dévoué pour tuer davantage de créatures néfastes en compagnie de ses hommes, pendant que vous vous préparerez en vue de votre confrontation avec Index. Atteignez le niveau de savoir 40 puis parlez au vieil aventurier, au camp de base nord."
@@ -29,7 +29,7 @@ Int32,String,String
 24,"TEXT_KINGKD107_05517_TODO_00","Parler à Ketenramm, dans l'île de Lunule septentrionale"
 25,"TEXT_KINGKD107_05517_TODO_01","Remporter la confrontation critique “Défi<hex:021D0103>: les dérives du clonage”"
 26,"TEXT_KINGKD107_05517_TODO_02","Remporter la confrontation critique “Défi<hex:021D0103>: l'homme à albâtre”"
-27,"TEXT_KINGKD107_05517_TODO_03","Remporter la confrontation critique “Défi<hex:021D0103>: le visage pâle”"
+27,"TEXT_KINGKD107_05517_TODO_03","Remporter la confrontation critique “Défi<hex:021D0103>: vert de rancœur”"
 28,"TEXT_KINGKD107_05517_TODO_04","Parler à Ketenramm"
 29,"TEXT_KINGKD107_05517_TODO_05","Examiner <hex:02330EFF05>EObj<hex:03F61EC0DA020203>"
 30,"TEXT_KINGKD107_05517_TODO_06","Atteindre le niveau de savoir 40 et parler à Ketenramm"

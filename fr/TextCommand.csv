@@ -54,9 +54,9 @@ Int32,UInt8,UInt8,Int8,Int8,Int8,String,String,String,String,String,UInt16,UInt3
 49,2,1,2,0,0,"/vieraears","/vears","/oreillesviera, /oviera, /vears<hex:02100103>Permet d'activer/désactiver l'affichage des oreilles des Viéras.<hex:02100103>* Les oreilles ne peuvent être affichées qu'avec des pièces d'équipement de tête compatibles.<hex:02100103>>> Sous-commandes<hex:021D0103>:<hex:02100103>activé (on) Affiche les oreilles à travers l'équipement de tête<hex:02100103>désactivé (off) Masque les oreilles sous l'équipement de tête.<hex:02100103>* Si aucune sous-commande n'est spécifiée, alterne entre les deux options.","/oreillesviera","/oviera",36,0
 50,1,0,0,0,0,"/quickpanel","","/accesrapide, /accrap, /quickpanel<hex:02100103>Ouvre la fenêtre d'accès rapide.","/accesrapide","/accrap",32,0
 51,1,0,0,0,0,"/strategyboard","","/tableauxstrategiques, /tabstrat<hex:02100103>Ouvre la fenêtre des tableaux stratégiques.","/tableauxstrategiques","/tabstrat",32,0
-52,0,0,0,0,0,"","","","","",0,0
+52,3,2,7,2,0,"/beastsize","/beastpetsize","/taillebête, /tbête, /beastsize<hex:02100103>Utilisation<hex:021D0103>: /taillebête ""[nom de la bête]"" ""[taille]""<hex:02100103>Change la taille d'affichage de la bête spécifiée.<hex:02100103>Sans effet sur l'affichage des autres joueurs.<hex:02100103>>> Tailles<hex:021D0103>:<hex:02100103>grand (large)  Change la taille d'affichage en ""grand"".<hex:02100103>moyen (medium)  Change la taille d'affichage en ""moyen"".<hex:02100103>petit (small)  Change la taille d'affichage en ""petit"".<hex:02100103>* Si aucune taille n'est spécifiée, change la taille dans l'ordre petit/moyen/grand. Renvoie une erreur si l'argument “tous” est utilisé.<hex:02100103>>>Exemple<hex:021D0103>:<hex:02100103>/taillebête ""cu sith"" moyen<hex:02100103>  Change la taille d'affichage du cu sith en ""moyen"".<hex:02100103>/taillebête tous petit<hex:02100103>  Change la taille de toutes les bêtes en ""petit"".","/taillebête","/tbête",36,0
 53,0,0,0,0,0,"","","","","",0,0
-54,0,0,0,0,0,"","","","","",0,0
+54,1,0,0,0,0,"/bestiary","/bstbook","/bestiairedresseur, /bstdre, /bestiary<hex:02100103>Ouvre le bestiaire de dresseur.","/bestiairedresseur","/bstdre",32,0
 55,0,0,0,0,0,"","","","","",0,0
 56,0,0,0,0,0,"","","","","",0,0
 57,0,0,0,0,0,"","","","","",0,0

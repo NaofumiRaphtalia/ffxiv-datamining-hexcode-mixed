@@ -2,6 +2,6 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"",""
-1,"",""
-2,"",""
+0,"TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000","Pshhh<hex:021D0103>! Loosefrox est l'aînée, elle est la plus forte<hex:021D0103>! Et elle va le prouver avec l'aide de Patatoune<hex:021D0103>!"
+1,"TEXT_DUNGEONXBM_00000_GUTTLER_000_100","Misérable <hex:020818E905FF0A>dresseuse<hex:FF09>dresseur<hex:03>... Je vais te réduire en lambeaux et dévorer ton âme<hex:021D0103>!"
+2,"TEXT_DUNGEONXBM_00000_GUTTLER_000_200","Mon cœur et celui de Lauda battent désormais à l'unisson... Approche, <hex:020818E905FF0A>dresseuse<hex:FF09>dresseur<hex:03>, tu vas découvrir notre véritable puissance<hex:021D0103>!"
