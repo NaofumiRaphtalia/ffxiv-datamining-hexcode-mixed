@@ -3,9 +3,9 @@
 offset,0
 Int32,String
 0,""
-1,""
-2,""
-3,""
-4,""
-5,""
-6,""
+1,"Selbst"
+2,"Boden"
+3,"Max. Feindseligkeit"
+4,"Zufällig"
+5,"Spieler"
+6,"Gefährte"

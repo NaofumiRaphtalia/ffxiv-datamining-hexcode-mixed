@@ -4965,7 +4965,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 4960,"Kalter Altar",0,"",0,0,1,0,0,"<hex:020937E802FF11>zum Kalten Altar<hex:FF10>am Kalten Altar<hex:FF10>der Kalte Altar<hex:03>",0,0,0
 4961,"Wächtersteig",0,"",0,0,1,0,0,"<hex:020940E802FF12>zum Wächtersteig<hex:FF16>auf dem Wächtersteig<hex:FF12>der Wächtersteig<hex:03>",0,0,0
 4962,"Ring der Tasten",0,"",0,0,1,0,0,"<hex:020941E802FF14>zum Ring der Tasten<hex:FF13>am Ring der Tasten<hex:FF14>der Ring der Tasten<hex:03>",0,0,0
-4963,"",0,"",0,0,0,0,0,"",0,0,0
+4963,"Schwebende Insel",0,"",0,0,1,0,0,"<hex:02094BE802FF16>zur schwebenden Insel<hex:FF1A>auf der schwebenden Insel<hex:FF15>die schwebende Insel<hex:03>",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
 4965,"",0,"",0,0,1,0,0,"",0,0,0
 4966,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5324,7 +5324,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5319,"Marmorier-Plateau",0,"",0,0,1,0,0,"<hex:02094CE802FF16>zum Marmorier-Plateau<hex:FF1A>auf dem Marmorier-Plateau<hex:FF16>das Marmorier-Plateau<hex:03>",0,0,0
 5320,"Weltraum-Reise",0,"",0,0,1,0,0,"<hex:020942E802FF13>zur Weltraum-Reise<hex:FF16>an der Weltraum-Reise<hex:FF13>die Weltraum-Reise<hex:03>",0,0,0
 5321,"Alarmstufe Rot - Schnellreise",0,"",0,0,1,0,0,"<hex:02096FE802FF22>zur Alarmstufe Rot - Schnellreise<hex:FF25>an der Alarmstufe Rot - Schnellreise<hex:FF22>die Alarmstufe Rot - Schnellreise<hex:03>",0,0,0
-5322,"",0,"",0,0,0,0,0,"",0,0,0
+5322,"Bestienbändiger",0,"",0,0,1,0,0,"",0,0,0
 5323,"",0,"",0,0,0,0,0,"",0,0,0
 5324,"",0,"",0,0,0,0,0,"",0,0,0
 5325,"",0,"",0,0,0,0,0,"",0,0,0
@@ -5487,9 +5487,9 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5482,"Mittlerer Wachbezirk",0,"",0,0,1,0,0,"<hex:02094FE802FF19>zum mittleren Wachbezirk<hex:FF18>im mittleren Wachbezirk<hex:FF18>der mittlere Wachbezirk<hex:03>",0,0,0
 5483,"Mittlerer Geheimbezirk",0,"",0,0,1,0,0,"<hex:020955E802FF1B>zum mittleren Geheimbezirk<hex:FF1A>im mittleren Geheimbezirk<hex:FF1A>der mittlere Geheimbezirk<hex:03>",0,0,0
 5484,"Mitte des Turmes 2",0,"",0,0,1,0,0,"<hex:02094EE802FF17>zur Mitte des Turmes 2<hex:FF1A>in der Mitte des Turmes 2<hex:FF17>die Mitte des Turmes 2<hex:03>",0,0,0
-5485,"Obergeschoß des Turmes 1",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Obergeschoß des Turmes 1<hex:FF1D>im Obergeschoß des Turmes 1<hex:FF1E>das Obergeschoß des Turmes 1<hex:03>",0,0,0
+5485,"Obergeschoss des Turmes 1",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Obergeschoss des Turmes 1<hex:FF1D>im Obergeschoss des Turmes 1<hex:FF1E>das Obergeschoss des Turmes 1<hex:03>",0,0,0
 5486,"Oberer Wachbezirk",0,"",0,0,1,0,0,"<hex:020946E802FF16>zum oberen Wachbezirk<hex:FF15>im oberen Wachbezirk<hex:FF15>der obere Wachbezirk<hex:03>",0,0,0
-5487,"Obergeschoß des Turmes 2",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Obergeschoß des Turmes 2<hex:FF1D>im Obergeschoß des Turmes 2<hex:FF1E>das Obergeschoß des Turmes 2<hex:03>",0,0,0
+5487,"Obergeschoss des Turmes 2",0,"",0,0,1,0,0,"<hex:02095FE802FF1E>zum Obergeschoss des Turmes 2<hex:FF1D>im Obergeschoss des Turmes 2<hex:FF1E>das Obergeschoss des Turmes 2<hex:03>",0,0,0
 5488,"Krone des Wissens",0,"",0,0,1,0,0,"<hex:02094CE802FF16>zur Krone des Wissens<hex:FF1A>auf der Krone des Wissens<hex:FF16>die Krone des Wissens<hex:03>",0,0,0
 5489,"Krone des Wissens",0,"",0,0,1,0,0,"<hex:02094CE802FF16>zur Krone des Wissens<hex:FF1A>auf der Krone des Wissens<hex:FF16>die Krone des Wissens<hex:03>",0,0,0
 5490,"Schatzkammer des Einsiedlers",0,"",0,0,1,0,0,"<hex:02096CE802FF21>zur Schatzkammer des Einsiedlers<hex:FF24>in der Schatzkammer des Einsiedlers<hex:FF21>die Schatzkammer des Einsiedlers<hex:03>",0,0,0
@@ -5598,19 +5598,19 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 5593,"Unterirdische Aushöhlung",0,"",0,0,1,0,0,"<hex:020965E802FF1F>zur unterirdischen Aushöhlung<hex:FF22>in der unterirdischen Aushöhlung<hex:FF1E>die unterirdische Aushöhlung<hex:03>",0,0,0
 5594,"Schatzkammer des Einsiedlers",0,"",0,0,1,0,0,"<hex:02096CE802FF21>zur Schatzkammer des Einsiedlers<hex:FF24>in der Schatzkammer des Einsiedlers<hex:FF21>die Schatzkammer des Einsiedlers<hex:03>",0,0,0
 5595,"Nördliches Basislager der Expedition",0,"",0,0,1,0,0,"<hex:020982E802FF2A>zum nördlichen Basislager der Expedition<hex:FF29>im nördlichen Basislager der Expedition<hex:FF29>das nördliche Basislager der Expedition<hex:03>",0,0,0
-5596,"",0,"",0,0,0,0,0,"",0,0,0
-5597,"",0,"",0,0,0,0,0,"",0,0,0
-5598,"",0,"",0,0,0,0,0,"",0,0,0
-5599,"",0,"",0,0,0,0,0,"",0,0,0
-5600,"",0,"",0,0,0,0,0,"",0,0,0
-5601,"",0,"",0,0,0,0,0,"",0,0,0
-5602,"",0,"",0,0,0,0,0,"",0,0,0
-5603,"",0,"",0,0,0,0,0,"",0,0,0
-5604,"",0,"",0,0,0,0,0,"",0,0,0
-5605,"",0,"",0,0,0,0,0,"",0,0,0
-5606,"",0,"",0,0,0,0,0,"",0,0,0
-5607,"",0,"",0,0,0,0,0,"",0,0,0
-5608,"",0,"",0,0,0,0,0,"",0,0,0
+5596,"Brett der Bestie",0,"",0,0,1,0,0,"<hex:020949E802FF15>zum Brett der Bestie<hex:FF19>auf dem Brett der Bestie<hex:FF15>das Brett der Bestie<hex:03>",0,0,0
+5597,"Erstes Brett der Bestie",0,"",0,0,1,0,0,"<hex:02095DE802FF1C>zum Ersten Brett der Bestie<hex:FF20>auf dem Ersten Brett der Bestie<hex:FF1B>das Erste Brett der Bestie<hex:03>",0,0,0
+5598,"Zweites Brett der Bestie",0,"",0,0,1,0,0,"<hex:020960E802FF1D>zum Zweiten Brett der Bestie<hex:FF21>auf dem Zweiten Brett der Bestie<hex:FF1C>das Zweite Brett der Bestie<hex:03>",0,0,0
+5599,"Drittes Brett der Bestie",0,"",0,0,1,0,0,"<hex:020960E802FF1D>zum Dritten Brett der Bestie<hex:FF21>auf dem Dritten Brett der Bestie<hex:FF1C>das Dritte Brett der Bestie<hex:03>",0,0,0
+5600,"Erstes Meisterbrett der Bestie",0,"",0,0,1,0,0,"<hex:020972E802FF23>zum Ersten Meisterbrett der Bestie<hex:FF27>auf dem Ersten Meisterbrett der Bestie<hex:FF22>das Erste Meisterbrett der Bestie<hex:03>",0,0,0
+5601,"Zweites Meisterbrett der Bestie",0,"",0,0,1,0,0,"<hex:020975E802FF24>zum Zweiten Meisterbrett der Bestie<hex:FF28>auf dem Zweiten Meisterbrett der Bestie<hex:FF23>das Zweite Meisterbrett der Bestie<hex:03>",0,0,0
+5602,"Zelt",0,"",0,0,1,0,0,"",0,0,0
+5603,"Geschäft",0,"",0,0,1,0,0,"",0,0,0
+5604,"Schatz",0,"",0,0,1,0,0,"",0,0,0
+5605,"Schicksalsfeld",0,"",0,0,1,0,0,"",0,0,0
+5606,"Gegner",0,"",0,0,1,0,0,"",0,0,0
+5607,"Elitegegner",0,"",0,0,1,0,0,"",0,0,0
+5608,"Endgegner",0,"",0,0,1,0,0,"",0,0,0
 5609,"",0,"",0,0,1,0,0,"",0,0,0
 5610,"",0,"",0,0,1,0,0,"",0,0,0
 5611,"",0,"",0,0,1,0,0,"",0,0,0
