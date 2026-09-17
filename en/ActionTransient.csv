@@ -46753,7 +46753,7 @@ Int32,String
 46748,""
 46749,""
 46750,"Gesture threateningly, placing yourself at the top of a target's enmity list and increasing enmity generation.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duration:<hex:0249020103><hex:0248020103> 30s<hex:02100103><hex:024804F201F803><hex:024904F201F903>Additional Effect:<hex:0249020103><hex:0248020103> Nullifies familiar's <hex:024804F201FA03><hex:024904F201FB03>Cover<hex:0249020103><hex:0248020103>"
-46751,"Orders your familiar to use <hex:024804F201F403><hex:024904F201F503>Threaten<hex:0249020103><hex:0248020103>, placing it at the top of a target's enmity list and increasing its enmity generation.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Additional Effect:<hex:0249020103><hex:0248020103> Takes all damage intended for the beastmaster<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duration:<hex:0249020103><hex:0248020103> 45s "
+46751,"Orders your familiar to use <hex:024804F201F403><hex:024904F201F503>Threaten<hex:0249020103><hex:0248020103>, placing it at the top of a target's enmity list and increasing its enmity generation.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duration:<hex:0249020103><hex:0248020103> 15s<hex:02100103><hex:024804F201F803><hex:024904F201F903>Additional Effect:<hex:0249020103><hex:0248020103> Takes all damage intended for the beastmaster<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duration:<hex:0249020103><hex:0248020103> 45s<hex:02100103><hex:024804F201F803><hex:024904F201F903>Additional Effect:<hex:0249020103><hex:0248020103> Removes <hex:024804F201FA03><hex:024904F201FB03>Enmity Up<hex:0249020103><hex:0248020103>"
 46752,""
 46753,""
 46754,""
