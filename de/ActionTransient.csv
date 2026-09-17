@@ -46753,7 +46753,7 @@ Int32,String
 46748,""
 46749,""
 46750,"Du provozierst den Gegner, um seine Feindseligkeit vor<hex:02160103>über<hex:02160103>gehend auf dich zu lenken.<hex:02100103>Dauer: 30 Sekunden<hex:02100103>Zusatzeffekt: Hebt Deckung durch die Bestie auf, falls dieser <hex:024804F201F603><hex:024904F201F703>Drohen<hex:0249020103><hex:0248020103> befohlen wurde."
-46751,"Du lässt deine Bestie dem Gegner <hex:024804F201F603><hex:024904F201F703>Drohen<hex:0249020103><hex:0248020103>, womit sie vor<hex:02160103>über<hex:02160103>gehend die höchste Feindseligkeit erregt.<hex:02100103>Zusatzeffekt: Erleidet sämtlichen Schaden, der eigentlich dem Bestienbändiger galt.<hex:02100103>Dauer: 45 Sekunden"
+46751,"Du lässt deine Bestie dem Gegner <hex:024804F201F603><hex:024904F201F703>Drohen<hex:0249020103><hex:0248020103>, womit sie vor<hex:02160103>über<hex:02160103>gehend die höchste Feindseligkeit erregt.<hex:02100103>Dauer: 15 Sekunden<hex:02100103>Zusatzeffekt: Erleidet sämtlichen Schaden, der eigentlich dem Bestienbändiger galt.<hex:02100103>Dauer: 45 Sekunden<hex:02100103>Zusatzeffekt: Entfernt  <hex:024804F201FA03><hex:024904F201FB03>Erhöhte Feindseligkeit<hex:0249020103><hex:0248020103>."
 46752,""
 46753,""
 46754,""
