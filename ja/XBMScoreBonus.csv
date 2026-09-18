@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,AlwaysActive,Name,Description
 offset,8,0,4
 Int32,PackedBool0,String,String
 0,True,"犠牲を伴う勝利I","戦闘不能のペットが3体の状態でクリアする。"
