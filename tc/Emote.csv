@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
-#,Name,TextCommand,ActionTimeline[0],ActionTimeline[1],ActionTimeline[2],ActionTimeline[3],ActionTimeline[4],ActionTimeline[5],HasMountedAnimation,HasSwimmingAnimation,HasDivingAnimation,EmoteCategory,EmoteMode,DontSetEmoteMode,,UsableWhenFishing,DrawsWeapon,SheathesWeapon,ActionTimeline[6],UnlockLink,Order,LogMessageTargeted,LogMessageUntargeted,Icon,Patch
+#,Name,TextCommand,ActionTimeline[0],ActionTimeline[1],ActionTimeline[2],ActionTimeline[3],ActionTimeline[4],ActionTimeline[5],UsableWhenMounted,UsableWhenSwimming,UsableWhenDiving,EmoteCategory,EmoteMode,DontSetEmoteMode,,UsableWhenFishing,DrawsWeapon,SheathesWeapon,ActionTimeline[6],UnlockLink,Order,LogMessageTargeted,LogMessageUntargeted,Icon,Patch
 offset,0,12,14,16,18,20,22,24,38,38,38,36,37,38,38,38,38,38,26,8,28,30,32,4,34
 Int32,String,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,PackedBool3,PackedBool4,PackedBool5,PackedBool6,PackedBool7,UInt16,Int32,UInt16,UInt16,UInt16,UInt32,UInt16
 0,"",0,0,0,0,0,0,0,True,True,True,0,0,False,False,False,False,False,0,0,0,0,0,0,1
@@ -294,7 +294,7 @@ Int32,String,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,PackedBool0,Packed
 289,"",8154,0,8152,8152,8152,0,0,True,True,True,1,0,False,True,False,False,False,0,0,64461,8311,8310,0,715
 290,"",8155,0,8152,8152,8152,0,0,True,True,True,1,0,False,True,False,False,False,0,0,64461,8311,8310,0,715
 291,"大驚小怪",8153,0,8157,8157,8157,0,0,True,True,True,1,0,False,True,False,False,False,5025,692,64462,8315,8314,543,720
-292,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
+292,"轉圈",8158,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,6108,693,64463,8317,8316,544,725
 293,"暈頭轉向",8142,8141,0,0,0,0,0,False,False,False,2,79,False,True,False,False,False,11513,694,64464,8319,8318,545,720
 294,"氣得發抖",8160,8159,0,0,0,0,0,False,False,False,2,80,False,True,False,False,False,11514,695,64465,8321,8320,546,721
 295,"玩神典石",8162,8161,0,0,0,0,0,False,False,False,2,81,False,True,False,False,False,11515,696,64466,8323,8322,406,720

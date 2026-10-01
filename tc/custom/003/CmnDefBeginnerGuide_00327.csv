@@ -92,7 +92,7 @@ Int32,String,String
 87,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_158","達成戰鬥職業成就條件或製作採集職業成就條件後，<hex:02100103>即可接受認證成為對應分類的指導者。"
 88,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_159","想要接受認證時，找各地的冒險者指導教官即可。"
 89,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_160","在冒險中，有時也會招募不到足夠的人手完成任務，<hex:02100103>此時便需要指導者伸出援助之手。"
-90,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_161","「<hex:022814FF10>ContentRoulette<hex:0A0103>」會將指導者分配給<hex:02100103>「正在匹配但匹配不到隊員的任務」。"
+90,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_161","「<hex:022814FF10>ContentRoulette<hex:0A0103>」會將指導者分配給<hex:02100103>「正在配對但配對不到隊員的任務」。"
 91,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_162","指導者完成指定次數的「<hex:022814FF10>ContentRoulette<hex:0A0103>」後，<hex:02100103>可以獲得成就報酬與特殊成就。"
 92,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_170","我們並不強制指導者去幫助新人。<hex:02100103>你也可以集中精神進行自己的冒險，<hex:02100103>在有時間的時候完成一下指導者的工作即可。"
 93,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_171","與冒險者指導教官對話接受指導者認證之後，<hex:02100103>線上狀態中便會出現「指導者」一項。"
