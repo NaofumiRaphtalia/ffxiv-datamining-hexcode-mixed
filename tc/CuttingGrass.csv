@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,,,,,,,
+#,,PopRange,Duration,,,ScreenImageStart,ScreenImageEnd
 offset,0,4,8,12,16,20,24
 Int32,String,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
 0,"",0,0,0,0,0,0
